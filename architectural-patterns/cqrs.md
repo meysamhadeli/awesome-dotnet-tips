@@ -1,0 +1,107 @@
+
+# CQRS
+
+## 📕 Articles
+
+- [Command and Query Responsibility Segregation (CQRS) pattern](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) 
+- [Simple CQRS implementation with raw SQL and DDD](http://www.kamilgrzybek.com/design/simple-cqrs-implementation-with-raw-sql-and-ddd/) 
+- [CQRS/MediatR implementation patterns](https://lostechies.com/jimmybogard/2016/10/27/cqrsmediatr-implementation-patterns/) 
+- [CQRS Myths: 3 Most Common Misconceptions](https://codeopinion.com/cqrs-myths-3-most-common-misconceptions/) 
+- [Dealing with Duplication in MediatR Handlers](https://lostechies.com/jimmybogard/2016/12/12/dealing-with-duplication-in-mediatr-handlers/)
+- [Implement reads/queries in a CQRS microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/cqrs-microservice-reads) 
+- [Some thoughts on using CQRS without Event Sourcing](https://medium.com/@mbue/some-thoughts-on-using-cqrs-without-event-sourcing-938b878166a2)
+- [Tackling Complexity in CQRS](https://vladikk.com/2017/03/20/tackling-complexity-in-cqrs/) 
+- [From CQS to CQRS](https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/)
+- [Building a robust CQRS database with EF Core and Cosmos DB](https://www.thereformedprogrammer.net/building-a-robust-cqrs-database-with-ef-core-and-cosmos-db/)
+- [EF Core – Combining SQL and NoSQL databases for better performance](https://www.thereformedprogrammer.net/ef-core-combining-sql-and-nosql-databases-for-better-performance/)
+- [CQRS facts and myths explained](https://event-driven.io/en/cqrs_facts_and_myths_explained/) 
+- [CQRS](https://web.archive.org/web/20160729165044/https://goodenoughsoftware.net/2012/03/02/cqrs/) 
+- [CQRS, Task Based UIs, Event Sourcing agh!](http://codebetter.com/gregyoung/2010/02/16/cqrs-task-based-uis-event-sourcing-agh/) 
+- [Command Query Separation?](http://codebetter.com/gregyoung/2009/08/13/command-query-separation/) 
+- [Processing multiple aggregates – transactional vs eventual consistency](http://www.kamilgrzybek.com/design/processing-multiple-aggregates-transactional-vs-eventual-consistency/)
+- [What is CQRS?](http://cqrs.nu/Faq/command-query-responsibility-segregation)
+- [Task-Based UI](https://cqrs.wordpress.com/documents/task-based-ui/)
+- [Put your controllers on a diet: GETs and queries](https://lostechies.com/jimmybogard/2013/10/29/put-your-controllers-on-a-diet-gets-and-queries/)
+- [Exposing IQueryable in a CQRS Query Stack](https://buildplease.com/pages/lets-iqueryable/)
+- [Reactive in practice, Unit 3: Translate the domain model to service APIs](https://developer.ibm.com/tutorials/reactive-in-practice-3/)
+- [Reactive in practice, Unit 6: CQRS, Part 1 – Write side](https://developer.ibm.com/tutorials/reactive-in-practice-6/)
+- [Reactive in practice, Unit 7: CQRS, Part 2 – ReadSideProcessor for queries and views](https://developer.ibm.com/tutorials/reactive-in-practice-7/)
+- [Reactive in practice, Unit 8: CQRS, Part 3 – ReadSideProcessor for transactions](https://developer.ibm.com/tutorials/reactive-in-practice-8/)
+- [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
+- [Meanwhile... on the command side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-command-side-of-my-architecture/)
+- [Meanwhile... on the query side of my architecture](https://blogs.cuttingedge.it/steven/posts/2011/meanwhile-on-the-query-side-of-my-architecture/)
+- [MVC Controllers are Dinosaurs - Embrace API Endpoints](https://ardalis.com/mvc-controllers-are-dinosaurs-embrace-api-endpoints/) 
+- [Moving from Controllers and Actions to Endpoints with MediatR](https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr/) 
+- [CQRS snippets](https://cezarypiatek.github.io/post/cqrs-snippets/)
+- [CQRS Simple Architecture](https://kariera.future-processing.pl/blog/cqrs-simple-architecture/)
+- [Brighter Commands](https://www.goparamore.io/command)
+- [CQRS with Entity Framework Core](https://www.edgesidesolutions.com/cqrs-with-entity-framework-core/)
+- [A .Net5 Sample Using CQRS(Command Query Responsibility Segregation) And MediatR Patterns](https://www.learmoreseekmore.com/2021/03/dotnet5-sample-cqrs-mediatr-pattern.html)
+- [CQRS with MediatR and AutoMapper](https://lostechies.com/jimmybogard/2015/05/05/cqrs-with-mediatr-and-automapper/)
+- [Thin Controllers with CQRS and MediatR](https://codeopinion.com/thin-controllers-cqrs-mediatr/)
+- [Are CQRS commands part of the domain model?](https://enterprisecraftsmanship.com/posts/cqrs-commands-part-domain-model/)
+- [CQS with Database-Generated Ids](https://enterprisecraftsmanship.com/posts/cqs-with-database-generated-ids/)
+- [CQRS and exception handling](https://enterprisecraftsmanship.com/2019/04/15/cqrs-exception-handling/)
+- [When to validate commands in CQRS?](https://enterprisecraftsmanship.com/2019/02/20/validate-commands-cqrs/)
+- [Types of CQRS](https://enterprisecraftsmanship.com/posts/types-of-cqrs/)
+- [Message Naming Conventions](https://jimmybogard.com/message-naming-conventions/)
+- [CQRS - CodeWithShadman](https://codewithshadman.com/cqrs/)
+- [Mediator Pattern Implemented In .NET/C#](https://dasith.me/2019/01/07/mediator-pattern-implemented-in-net/)
+- [Getting Started with CQRS – Part 1](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-1/)
+- [Getting Started with CQRS – Part 2](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-2/)
+- [Getting Started with CQRS – Part 3](https://www.red-gate.com/simple-talk/dotnet/c-programming/getting-started-with-cqrs-part-3/)
+- [CQRS with MediatR in ASP.NET Core 3.1 – Ultimate Guide](https://codewithmukesh.com/blog/cqrs-in-aspnet-core-3-1/)
+- [Optimize your data access by using CQRS Architecture Pattern — Part I](https://itnext.io/cqrs-architecture-pattern-c7f5c613c59c)
+- [Optimize your data access by using CQRS Architecture Pattern — Part II](https://itnext.io/optimize-your-data-access-by-using-cqrs-architecture-pattern-a-theoretical-and-practical-approach-part-1-b31fe259ea04)
+- [CQRS and REST: the perfect match](https://lostechies.com/jimmybogard/2016/06/01/cqrs-and-rest-the-perfect-match/)
+- [Spring and Data Synchronization Between Queries and Commands](https://thenewstack.io/how-cqrs-works-with-spring-tools/)
+- [Combining DDD, CQRS, and Clean Architecture by refactoring a Go project](https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/)
+- [CQRS: Intro](https://valerii-udodov.com/posts/cqrs/cqrs-intro/)
+- [CQRS: Querying via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-querying-via-http/)
+- [CQRS: Commanding via HTTP](https://valerii-udodov.com/posts/cqrs/cqrs-commanding-via-http/)
+- [CQRS without Multiple Data Sources](https://codeopinion.com/cqrs-without-multiple-data-sources/)
+
+## 📺 Videos
+- [Is CQRS Complicated? No, it's simple!](https://www.youtube.com/watch?v=LbVpPQaAgVY)
+- [Java EE: Design Patterns and Architecture](https://www.linkedin.com/learning/java-ee-design-patterns-and-architecture/advantages-and-disadvantages-4)
+- [Decomposing CRUD to a Task Based UI](https://www.youtube.com/watch?v=DjZepWrAKzM)
+- [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0&t=77s)
+- [Is a REST API with CQRS Possible?](https://www.youtube.com/watch?v=6XO6vSiioWE)
+- [Organizing (Commands, Events & Handlers) in Microservices/SOA](https://www.youtube.com/watch?v=8j5ETvSSNpc)
+- [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
+- [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
+- [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
+## 📦 Libraries
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
+- [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
+- [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
+- [oskardudycz/GoldenEye](https://github.com/oskardudycz/GoldenEye) - The CQRS flavoured framework that will speed up your WebAPI and Microservices development
+- [Shriek-Projects/shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented
+- [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
+## 🚀 Samples
+
+- [sample-dotnet-core-cqrs-api](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - Sample .NET Core REST API CQRS implementation with raw SQL and DDD using Clean Architecture.
+- [run-aspnetcore-cqrs](https://github.com/aspnetrun/run-aspnetcore-cqrs) - Real world Enterprise CRM application example of ASP.NET Core + Angular web application. Implemented CQRS Design Pattern for ASP.NET Core + Angular reference application, demonstrating a layered application architecture with DDD
+- [CQRS](https://github.com/tpierrain/CQRS) - A simple project to explain CQRS during a live coding session at MS experiences'16
+- [ChristDDD](https://github.com/anjoy8/ChristDDD) - 🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和 ES 事件回溯
+- [Reddnet](https://github.com/moritz-mm/Reddnet) - A mini Reddit written in ASP.NET Core 5.0
+- [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
+- [smartstore/SmartStoreNET](https://github.com/smartstore/SmartStoreNET) - Open Source ASP.NET MVC Enterprise eCommerce Shopping Cart Solution
+- [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) - VirtoCommerce Storefront for ASP.NET Core 3.1 repository
+- [vc-platform](https://github.com/VirtoCommerce/vc-platform) - VirtoCommerce Platform repository
+- [vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer) - Contacts management module
+- [nopSolutions/nopCommerce](https://github.com/nopSolutions/nopCommerce) - The most popular open-source eCommerce shopping cart solution based on ASP.NET Core
+- [trueai-org/module-shop](https://github.com/trueai-org/module-shop)
+- [gothinkster/aspnetcore-realworld-example-app](https://github.com/gothinkster/aspnetcore-realworld-example-app) - ASP.NET Core backend implementation for RealWorld
+- [baratgabor/MyWarehouse](https://github.com/baratgabor/MyWarehouse) - Clean Architecture and Domain Driven Design sample project based on C# 9 / .NET 5 / ASP.NET Core 5 / EF Core 5 & Angular 11 with Bootstrap.
+- [oskardudycz/EventSourcing.NetCore/ECommerce](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/ECommerce)
+- [oskardudycz/EventSourcing.NetCore/Sample/Tickets](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Tickets)
+- [oskardudycz/EventSourcing.NetCore/Sample/MeetingsManagement](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/MeetingsManagement)
+- [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/main/Sample/Warehouse)
+- [keremvaris/Sennedjem](https://github.com/keremvaris/Sennedjem) - Sennedjem is a software development infrastructure that adopts the CQRS (Command Query Responsibility Segregation) approach and focuses on SOLID principles and Clean Architecture methods. RabbitMq is very skilled in integrating with ElasticSearch etc tools. 
+- [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
+- [MongkonEiadon/VehicleTracker](https://github.com/MongkonEiadon/VehicleTracker) - Vehicle Tracker with Microservice example
+- [yang-xiaodong/eShopOnContainers](https://github.com/yang-xiaodong/eShopOnContainers) - Replace eShopOnContainers EventBus with CAP
+- [ddd-by-examples/all-things-cqrs](https://github.com/ddd-by-examples/all-things-cqrs) - Comprehensive guide to a couple of possible ways of synchronizing two states with Spring tools. Synchronization is shown by separating command and queries in a simple CQRS application.
+- [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
+- [dimatrubca/book-exchange-app](https://github.com/dimatrubca/book-exchange-app) - BookExchangeApp is a fully functioning application that allows users to exchange books, earn and buy points, and receive recomendations based on the rated books

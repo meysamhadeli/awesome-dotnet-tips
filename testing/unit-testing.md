@@ -1,0 +1,63 @@
+
+# Unit Testing
+
+## 📝 Articles
+
+- [Keep Tests Short and DRY with Extension Methods](https://ardalis.com/keep-tests-short-and-dry-with-extensions/) 
+- [C# – How to unit test code that uses HttpClient](https://makolyte.com/csharp-how-to-unit-test-code-that-uses-httpclient/)
+- [How to unit test a class that consumes an HttpClient with IHttpClientFactory in ASP.NET Core?](https://anthonygiretti.com/2018/09/06/how-to-unit-test-a-class-that-consumes-an-httpclient-with-ihttpclientfactory-in-asp-net-core/)
+- [ASP.NET Core 2+ best practices and practical tools for testing, part 1](https://anthonygiretti.com/2019/06/15/asp-net-core-2-best-practices-and-practical-tools-for-testing-part-1/)
+- [ASP.NET Core 2+ best practices and practical tools for testing, part 2, Use cases](https://anthonygiretti.com/2019/07/18/asp-net-core-2-best-practices-and-practical-tools-for-testing-part-2-use-cases/)
+- [You will never give up a unit test anymore with ExpectedObjects in .NET Core](https://anthonygiretti.com/2019/01/21/you-will-never-give-up-a-unit-test-anymore-with-expectedobjects-in-net-core/)
+- [How to unit test private methods in .NET Core applications? (even if it’s bad)](https://anthonygiretti.com/2018/08/26/how-to-unit-test-private-methods-in-net-core-applications-even-if-its-bad/)
+- [Mock and Unit Test HTTPClient with MessageHandler](https://www.thecodebuzz.com/mock-httpclient-with-messagehandler-unit-test/)
+- [Unit Test or Integration Test and Why You Should Care](https://ardalis.com/unit-test-or-integration-test-and-why-you-should-care/) 
+- [Unit Test Naming Convention](https://ardalis.com/unit-test-naming-convention/?utm_sq=gkewnaysjn)
+- [Testing Exceptions with xUnit and Actions](https://ardalis.com/testing-exceptions-with-xunit-and-actions/)
+- [UnitTest](https://martinfowler.com/bliki/UnitTest.html) 
+- [Clean code tips - Tests](https://www.code4it.dev/blog/clean-code-tests)
+- [.NET 5 REST API Tutorial 10 - Unit Testing and TDD](https://www.youtube.com/watch?v=dsD0CMgPjUk&t=0s)
+- [Testing Production API Endpoints with xUnit](https://ardalis.com/testing-production-api-endpoints-with-xunit/?utm_sq=gkyvlvbcp9)
+- [Exploring Fluent Assertions](https://www.meziantou.net/exploring-fluent-assertions.htm)
+- [Unit Testing with ILogger<T>](https://codeburst.io/unit-testing-with-net-core-ilogger-t-e8c16c503a80)
+- [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
+- [Create fake user for ASP.NET Core controller tests](https://gunnarpeipman.com/aspnet-core-test-controller-fake-user/)
+- [Different kind of testing strategies with ASP.NET Core: The basics](https://dotnetfromthemountain.com/aspnet-core-testing-strategies-the-basics/)
+- [Unit testing data access in ASP.​NET Core](https://asp.net-hacker.rocks/2019/01/15/unit-testing-data-access-dotnetcore.html)
+- [How to test your C# Web API](https://timdeschryver.dev/blog/how-to-test-your-csharp-web-api)
+- [How to mock dependencies with Manifest resources](https://www.code4it.dev/blog/mock-dependency-with-manifest-resources)
+- [Unit and integration testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Unit-and-integration-testing)
+- [Should you unit-test API/MVC controllers in ASP.NET Core?](https://andrewlock.net/should-you-unit-test-controllers-in-aspnetcore/)
+- [Unit Test and Mock HTTPContext in ASP.NET Core Controller](https://www.thecodebuzz.com/unit-test-and-mock-httpcontext-in-asp-net-core-controller/)
+- [Unit Test and Mock HttpContextAccessor](https://www.thecodebuzz.com/unit-test-and-mock-ihttpcontextaccessor/)
+- [TDD – Unit Testing Naming Conventions and Standards](https://www.thecodebuzz.com/tdd-unit-testing-naming-conventions-and-standards/)
+- [Tips & tricks for unit testing in .NET Core 3: Mocking IHttpContextAccessor](https://anthonygiretti.com/2020/02/03/tips-tricks-for-unit-testing-in-net-core-3-mocking-ihttpcontextaccessor/)
+- [How to write good unit tests: Two issues to avoid](https://canro91.github.io/2020/11/02/UnitTestingTips/)
+- [Unit Testing Best Practices: A checklist](https://canro91.github.io/2021/07/05/UnitTestingBestPractices/)
+- [How to name your unit tests. 4 test naming conventions](https://canro91.github.io/2021/04/12/UnitTestNamingConventions/)
+- [4 common mistakes when writing your first unit tests](https://canro91.github.io/2021/03/29/UnitTestingCommonMistakes/)
+- [Unit Testing of Web API with xUnit and Moq](https://www.hosting.work/aspnet-core-web-api-xunit-moq-unit-testing/)
+- [Mocking a method in the same test class using Mockito](https://towardsdatascience.com/mocking-a-method-in-the-same-test-class-using-mockito-b8f997916109)
+
+### 📺 Videos
+- [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
+- [C# Unit Test Mocking with Moq](https://www.youtube.com/watch?v=IFN4-YrgBEI) 
+- [C# Unit Testing Tutorial](https://www.youtube.com/watch?v=e9q-ocrt4UI) 
+- [C# Unit Testing Example](https://www.youtube.com/watch?v=Tc9FUg74ci4) 
+- [EFS003: Initialize ASP.NET Core Unit Tests](https://www.youtube.com/watch?v=jWIPkpl6Yr0)
+- [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
+- [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
+- [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
+- [Writing tests in .NET using xUnit - xUnit Tutorial](https://www.youtube.com/watch?v=2Wp8en1I9oQ)
+## 🚀 Samples
+- [jasontaylordev/CleanTesting](https://github.com/jasontaylordev/CleanTesting)
+- [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [devmentors/Pacco.Services.Availability](https://github.com/devmentors/Pacco.Services.Availability)
+- [devmentors/Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
+- [philbir/magic-media](https://github.com/philbir/magic-media)
+- [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
+- [jasontaylordev/CleanArchitectureScMarch2020](https://github.com/jasontaylordev/CleanArchitectureScMarch2020)
+<div align="right">
+  <b><a href="#contents">↥ Back To Top</a></b>
+</div>
