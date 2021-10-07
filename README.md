@@ -1,4 +1,4 @@
-# awesome-software-tips
+# Awesome Software Tips
 
 * [Architectural Patterns](architectural-patterns/index.md)
 * [Architectural Style](architectural-style/index.md)
