@@ -47,3 +47,12 @@
 * [Validation](validation.md)
 * [Web Api](web-api.md)
 * [Web Sockets](web-sockets.md)
+
+
+# Support ⭐
+If you like my work, feel free to:
+
+- ⭐ this repository. And we will be happy together :)
+
+
+Thanks a bunch for supporting me!
