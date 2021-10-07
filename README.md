@@ -1,4 +1,4 @@
-# Awesome Software Tips
+# Awesome .Net Tips
 
 * [Architectural Patterns](architectural-patterns/index.md)
 * [Architectural Style](architectural-style/index.md)
