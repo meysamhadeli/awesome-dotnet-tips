@@ -64,6 +64,7 @@
 - [AnthonyGiretti/calzolari-dependencyinjection-extensions](https://github.com/AnthonyGiretti/calzolari-dependencyinjection-extensions) - Extensions for ASP.NET Core dependency injection
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
+- [dmytrohridin/Microsoft.Extensions.NamedDependencyInjection](https://github.com/dmytrohridin/Microsoft.Extensions.NamedDependencyInjection) - Registration and resolving dependencies by name or key.
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
