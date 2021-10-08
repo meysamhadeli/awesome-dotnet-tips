@@ -11,7 +11,7 @@
 * [Testing](testing/index.md)
 * [NoSql](nosql/index.md)
 * [Messaging](messaging/index.md)
-* [Mapping](mapping/index.md)
+* [Mapping](mapping.md)
 * [Action Filters](action-filters.md)
 * [Api Documentation](api-documentation.md)
 * [Api Versioning](api-versioning.md)
