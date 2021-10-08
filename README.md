@@ -1,4 +1,4 @@
-# awesome-software-tips
+# Awesome .Net Tips
 
 * [Architectural Patterns](architectural-patterns/index.md)
 * [Architectural Style](architectural-style/index.md)
@@ -49,3 +49,13 @@
 * [Validation](validation.md)
 * [Web Api](web-api.md)
 * [Web Sockets](web-sockets.md)
+
+[![Sparkline](https://stars.medv.io/meysamhadeli/awesome-dotnet-tips.svg)](https://stars.medv.io/meysamhadeli/awesome-dotnet-tips)
+
+# Support ⭐
+If you like my work, feel free to:
+
+- ⭐ this repository. And we will be happy together :)
+
+
+Thanks a bunch for supporting me!
