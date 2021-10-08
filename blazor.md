@@ -20,4 +20,4 @@
 - [mrpmorris/Fluxor](https://github.com/mrpmorris/Fluxor) - Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor.
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor
 - [Garderoben/MudBlazor](https://github.com/Garderoben/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.
-- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor) - Free Bootstrap 5 components for ASP.NET Blazor. See [Interactive documentation & demos](https://havit.blazor.eu).
+- [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor) - Free Bootstrap 5 components for ASP.NET Blazor.
