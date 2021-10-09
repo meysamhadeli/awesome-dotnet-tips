@@ -50,7 +50,6 @@
 * [Web Api](web-api.md)
 * [Web Sockets](web-sockets.md)
 
-[![Sparkline](https://stars.medv.io/meysamhadeli/awesome-dotnet-tips.svg)](https://stars.medv.io/meysamhadeli/awesome-dotnet-tips)
 
 # Support ⭐
 If you like my work, feel free to:
