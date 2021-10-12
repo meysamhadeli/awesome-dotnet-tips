@@ -104,6 +104,8 @@
 - [.NET 5 REST API Tutorial](https://www.youtube.com/watch?v=Jvu60R-AWQc)
 - [Creating an API SDK with Refit | ASP.NET Core 5 REST API Tutorial 23](https://www.youtube.com/watch?v=grBTYaTGLv8)
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
+- [Extending .NET Minimal APIs with Swagger, Authentication & Validation](https://www.youtube.com/watch?v=XKN0084p7WQ)
+- [In defence of .NET Minimal APIs | Refactoring](https://www.youtube.com/watch?v=4ORO-KOufeU)
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.

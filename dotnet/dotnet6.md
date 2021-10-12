@@ -30,5 +30,7 @@
 - [Languages & Runtime Community Standup - Breaking changes & .NET 6 Preview 6 and 7](https://www.youtube.com/watch?v=J0LTqwTojlA)
 - [Upgrading ASP.NET Core API to .NET 6](https://www.youtube.com/watch?v=juyZCgF9g2E)
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
+- [4 new useful APIs in .NET 6](https://www.youtube.com/watch?v=3YCdSvDXGJA)
+
 ## 🚀 Samples
 - [dodyg/practical-aspnetcore/tree/net5.0/projects/net6](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6)
