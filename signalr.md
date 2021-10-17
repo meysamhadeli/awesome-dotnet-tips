@@ -8,6 +8,7 @@
 ## 📹 Videos
 
 - [Asp.Net Core WebSockets Vs SignalR. Which should you use?](https://www.youtube.com/watch?v=ycVgXe6v1VQ)
+- [ASP.NET Core SignalR - WebSockets Deep Dive](https://www.youtube.com/watch?v=6W5gmRgmbuc)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
