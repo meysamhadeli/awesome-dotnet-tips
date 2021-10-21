@@ -7,6 +7,7 @@
 - [LINQ: Building an IQueryable provider series](https://docs.microsoft.com/en-us/archive/blogs/mattwar/linq-building-an-iqueryable-provider-series)
 ## 📺 Videos
 - [When LINQ is not LINQ](https://www.youtube.com/watch?v=t2NA1hHT1JE)
+- [7 awesome improvements for LINQ in .NET 6](https://www.youtube.com/watch?v=sIXKpyhxHR8)
 
 ## Libraries
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.

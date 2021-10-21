@@ -11,6 +11,7 @@
 - [ASP.NET Core SignalR - Server Sent Events & Long Polling](https://www.youtube.com/watch?v=NhDu1AcV79A&t=502s)
 - [ASP.NET Core SignalR - WebSockets Deep Dive](https://www.youtube.com/watch?v=6W5gmRgmbuc)
 - [ASP.NET Core SignalR - Feature Overview](https://www.youtube.com/watch?v=q5ZHAUUAlQE)
+- [ASP.NET Core SignalR - Streams](https://www.youtube.com/watch?v=JVFWCsz-oQY)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
