@@ -23,6 +23,7 @@
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
 
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb/blob/15bd78ee5b753a51fd9f8214a6ee8f5007e2d40f/src/Infrastructure/Data/EfRepository.cs)

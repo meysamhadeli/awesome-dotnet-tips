@@ -71,6 +71,8 @@
 - [CQRS Myths | 3 Most Common Misconceptions](https://www.youtube.com/watch?v=O9qpcZt6jW0)
 - [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
 - [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
+- [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
+
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
