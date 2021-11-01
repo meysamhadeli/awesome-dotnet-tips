@@ -29,5 +29,8 @@
 - [A Better Git Workflow with Rebase](https://www.youtube.com/watch?v=f1wnYdLEpgI)
 - [git commands tutorials Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-SAZOGnaUlexOzgRqWrOPR)
 - [GitHub tutorial Playlist - Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS8-8OfcYMuLXnTfnSIGf37k)
+- [I let GitHub Co-Pilot be the Pilot for my C# code](https://www.youtube.com/watch?v=XceIKXeIrD0)
+- [Pimp my Bash! My "ultimate" Git for Win + Windows Terminal Setup](https://www.youtube.com/watch?v=aQDsgCV4US0&t=8s)
+
 ## Libraries
 - [nvie/git-toolbelt](https://github.com/nvie/git-toolbelt) - A suite of useful Git commands that aid with scripting or every day command line usage
