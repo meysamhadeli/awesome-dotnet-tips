@@ -60,6 +60,7 @@
 - [.NET 5 + Serilog: implementando Logs com Elasticsearch, SQLite,](https://renatogroffe.medium.com/net-5-serilog-implementando-logs-com-elasticsearch-sqlite-45d64f5c043e)
 - [Structured logging with Serilog and Seq and ElasticSearch under Docker](https://dev.to/hasdrubal/structure-logging-with-serilog-and-seq-and-elasticsearch-under-docker-16dk)
 - [How to turn off Serilog?](https://stackoverflow.com/questions/30849166/how-to-turn-off-serilog)
+- [MediatR Pipeline Behaviour in ASP.NET Core – Logging and Validation](https://codewithmukesh.com/blog/mediatr-pipeline-behaviour/)
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [Add Simple Distributed Tracing in .NET Libraries](https://www.youtube.com/watch?v=wjglj4jE18Y) 
