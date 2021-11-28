@@ -92,6 +92,7 @@
 - [Microservices Observability with Distributed Logging using ElasticSearch and Kibana](https://medium.com/aspnetrun/microservices-observability-with-distributed-logging-using-elasticsearch-and-kibana-79df919997d2)
 - [Microservices Resilience and Fault Tolerance with applying Retry and Circuit-Breaker patterns using Polly](https://medium.com/aspnetrun/microservices-resilience-and-fault-tolerance-with-applying-retry-and-circuit-breaker-patterns-c32e518db990)
 - [Microservices Monitoring with Health Checks using WatchDog](https://medium.com/aspnetrun/microservices-monitoring-with-health-checks-using-watchdog-6b16fdae0349)
+- [https://greeeg.com/issues/microservices-patterns-synchronous-vs-asynchronous](Microservices patterns: synchronous vs asynchronous communication)
 
 ## 📺 Videos
 

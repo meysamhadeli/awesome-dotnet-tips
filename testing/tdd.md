@@ -6,6 +6,7 @@
 - [Test-induced design damage](https://dhh.dk/2014/test-induced-design-damage.html)
 - [Outside-in Diamond 🔷 TDD #1 - a style made from (& for) ordinary people](https://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-1-style-made.html)
 - [Outside-in Diamond 🔷 TDD #2 (anatomy of a style)](https://tpierrain.blogspot.com/2021/03/outside-in-diamond-tdd-2-anatomy-of.html)
+- [Beginning Test-Driven Development in .NET Core](https://fullstackmark.com/post/8/beginning-test-driven-development-in-net-core)
 ## 📺 Videos
 - [DD - Test Driven Development in C#](https://www.pluralsight.com/courses/csharp-test-driven-development)
 
