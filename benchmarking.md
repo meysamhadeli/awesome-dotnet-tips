@@ -1,7 +1,8 @@
 # Benchmarking
 
-## 📕 Articles
+## 📕 Articles and books
 - [Profiling .Net Code with BenchmarkDotNet](https://adamsitnik.com/ETW-Profiler/)
+- [Pro .NET Benchmarking](https://link.springer.com/book/10.1007/978-1-4842-4941-3)
 
 ## 📦 Libraries
 
