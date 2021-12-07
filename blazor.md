@@ -21,3 +21,4 @@
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor
 - [Garderoben/MudBlazor](https://github.com/Garderoben/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.
 - [havit/Havit.Blazor](https://github.com/havit/Havit.Blazor) - Free Bootstrap 5 components for ASP.NET Blazor.
+- [Megabit/Blazorise](https://github.com/Megabit/Blazorise) - Component library for Blazor with support for Bootstrap 4, Bootstrap 5, Bulma, AntDesign and Material CSS.
