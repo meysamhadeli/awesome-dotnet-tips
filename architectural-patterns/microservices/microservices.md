@@ -123,6 +123,7 @@
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
 - [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
+- [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
