@@ -2,6 +2,7 @@
   - [API Gateway](api-gateway/index.md)
   - [Container Runtime](container-runtime/index.md)
   - [Docker](docker.md)
+  - [Tye](tye.md)
   - [Kubernetes](kubernetes/index.md)
   - [Load Balancing](load-balancing/index.md)
   - [Reverse Proxy](reverse-proxy/index.md)

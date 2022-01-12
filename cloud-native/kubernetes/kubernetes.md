@@ -23,6 +23,7 @@
 - [Kubernetes Essentials Playlist - IBM Cloud](https://www.youtube.com/playlist?list=PLOspHqNVtKABAVX4azqPIu6UfsPzSu2YN)
 - [Kubernetes 101 Playlist - Jeff Geerling](https://www.youtube.com/playlist?list=PL2_OBreMn7FoYmfx27iSwocotjiikS5BD)
 - [Kubernetes Crash Course for Absolute Beginners](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+- [How to deploy .NET apps to Kubernetes](https://www.youtube.com/watch?v=cNlxPKy_NPA)
 
 ## 📦 Libraries
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) - Autoscaling components for Kubernetes
