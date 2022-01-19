@@ -11,3 +11,4 @@
 - [What is .NET? What's C# and F#? What's the .NET Ecosystem? .NET Core Explained, what can .NET build?](https://www.youtube.com/watch?v=bEfBfBQq7EE)
 - [.NET Hot Reload; Update Code While Running](https://www.youtube.com/watch?v=eccKPXt9-pE)
 - [7 tips for writing better library code in .NET](https://www.youtube.com/watch?v=viBfsaPT2g8)
+- [My .NET backend developer roadmap for 2022](https://www.youtube.com/watch?v=wEUTMuRSZT0)

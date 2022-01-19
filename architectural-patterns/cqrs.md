@@ -73,6 +73,8 @@
 - [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
 - [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8&t=23796s)
+- [Handling with Eventual Consistency with CQRS](https://www.youtube.com/watch?v=wEUTMuRSZT0)
+
 ## 📦 Libraries
 - [eventflow/EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [gautema/CQRSlite](https://github.com/gautema/CQRSlite) - A lightweight framework to help creating CQRS and Eventsourcing applications in C#
