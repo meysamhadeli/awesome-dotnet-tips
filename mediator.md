@@ -20,6 +20,7 @@
 - [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
 - [MediatR Behaviors](https://codeopinion.com/mediatr-behaviors/)
 - [MediatR Pipeline Behaviour in ASP.NET Core – Logging and Validation](https://codewithmukesh.com/blog/mediatr-pipeline-behaviour/)
+- [How slow is MediatR really?](https://www.youtube.com/watch?v=baiH3f_TFfY)
 
 ## 📺 Videos
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)

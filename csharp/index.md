@@ -7,6 +7,7 @@
 	  - [C# 8](versions/8.md)
 	  - [C# 9](versions/9.md)
   - [Reflection](reflection.md)
+  - [Ref-Out-In](ref-out-in.md)
   - [LINQ](linq.md)
   - [Boxing](boxing.md)
   - [Null Check](null-check.md)
