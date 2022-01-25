@@ -128,6 +128,9 @@
 - [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=4)
 - [Building FeedR - Pricing Feed, Background Service, Channels (Microservices with .NET 6.0) episode #4](https://www.youtube.com/watch?v=87raSebE80M&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=5)
 - [Building FeedR - Redis Pub/Sub + IAsyncEnumerable streaming (Microservices with .NET 6.0) episode #5](https://www.youtube.com/watch?v=80Ke9hsG_RU&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=6)
+- [Building FeedR - gRPC streaming services & clients (Microservices with .NET 6.0) episode #6](https://www.youtube.com/watch?v=H6jew1qxQfQ&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=7)
+- [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=8)
+
 ## 📦 Libraries
 
 - [dotnet/tye](https://github.com/dotnet/tye) - Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.
