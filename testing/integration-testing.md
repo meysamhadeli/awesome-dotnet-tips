@@ -70,6 +70,8 @@
 - [Using WireMock for dotnet core Integration tests](https://pcholko.com/posts/2021-04-05/wiremock-integration-test/)
 - [MongoDB integration testing in .Net Core – Vetting Mongo2go vs MongoDb Docker Instance](http://www.jonathanawotwi.com/2021/06/mongodb-integration-testing-in-net-core-mongo2go-vs-mongodb-docker-instance/)
 - [Integration Tests using WebApplicationFactory, xUnit and Mongo2Go](https://medium.com/@dev.satbir/integration-tests-using-webapplicationfactory-xunit-and-mongo2go-225068da834f)
+- [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Integration testing | ASP.NET Core 5 REST API Tutorial 15](https://www.youtube.com/watch?v=7roqteWLw4s)

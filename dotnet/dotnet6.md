@@ -23,6 +23,9 @@
 - [Part 1 - Looking inside ConfigurationManager in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-1-looking-inside-configurationmanager-in-dotnet-6/)
 - [Part 2 - Comparing WebApplicationBuilder to the Generic Host ](https://andrewlock.net/exploring-dotnet-6-part-2-comparing-webapplicationbuilder-to-the-generic-host/)
 - [Part 3 - Exploring the code behind WebApplicationBuilder](https://andrewlock.net/exploring-dotnet-6-part-3-exploring-the-code-behind-webapplicationbuilder/)
+- [Upgrading a .NET 5 "Startup-based" app to .NET](https://andrewlock.net/exploring-dotnet-6-part-12-upgrading-a-dotnet-5-startup-based-app-to-dotnet-6/)
+- [New dependency injection features in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-10-new-dependency-injection-features-in-dotnet-6/)
+
 ## 📺 Videos
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [The future of modern application development with .NET](https://www.youtube.com/watch?v=2Ky28Et3gy0)
