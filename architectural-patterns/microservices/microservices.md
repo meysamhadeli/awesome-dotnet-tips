@@ -123,6 +123,7 @@
 - [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Why programming language performance in microservices isn't (that) important](https://www.youtube.com/watch?v=g1UQf3TOBn8)
 - [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
+- [START with a Monolith, NOT Microservices](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
 - [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
 - [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=3)
 - [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=4)

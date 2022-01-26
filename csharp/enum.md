@@ -10,6 +10,7 @@
 - [Reference data as code](https://enterprisecraftsmanship.com/posts/reference-data-as-code/)
 - [Enum Alternatives in C#](https://ardalis.com/enum-alternatives-in-c/)
 - [Listing Strongly Typed Enum Options in C#](https://ardalis.com/listing-strongly-typed-enum-options-in-c/)
+- [How to write "smarter" enums in C#](https://www.youtube.com/watch?v=CEZ6cF8eoeg&t=6s)
 
 ## 📦 Libraries
 - [ardalis/SmartEnum](https://github.com/ardalis/SmartEnum) - A base class for quickly and easily creating strongly typed enum replacements in C#.
