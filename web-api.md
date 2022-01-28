@@ -106,6 +106,8 @@
 - [How to build RESTful APIs the right way](https://www.youtube.com/watch?v=Igh2KfwOT-Q)
 - [Extending .NET Minimal APIs with Swagger, Authentication & Validation](https://www.youtube.com/watch?v=XKN0084p7WQ)
 - [In defence of .NET Minimal APIs | Refactoring](https://www.youtube.com/watch?v=4ORO-KOufeU)
+- [Clean up your .NET Controllers with ApiEndpoints](https://www.youtube.com/watch?v=SDu0MA6TmuM)
+
 ## 📦 Libraries
 
 - [featherhttp/framework](https://github.com/featherhttp/framework) - A lightweight low ceremony API for web services.
