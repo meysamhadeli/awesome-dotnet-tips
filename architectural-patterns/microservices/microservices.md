@@ -133,6 +133,7 @@
 - [Building FeedR - gRPC streaming services & clients (Microservices with .NET 6.0) episode #6](https://www.youtube.com/watch?v=H6jew1qxQfQ&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=7)
 - [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=8)
 - [Building FeedR - Message Broker template (Microservices with .NET 6.0) episode #8](https://www.youtube.com/watch?v=b_BBPrc2mYQ)
+- [Building FeedR - Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
 
 ## 📦 Libraries
 

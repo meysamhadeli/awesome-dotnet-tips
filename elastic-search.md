@@ -7,3 +7,4 @@
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
 - [The .NET Docs Show - Getting Started with Elasticsearch.NET](https://www.youtube.com/watch?v=Ll5yLL83W8M)
 - [How to use Elasticsearch from .NET](https://www.youtube.com/watch?v=tw9svKWq6tg)
+- [.Net 6 WebAPI - Intro to ElasticSearch - Step by Step #aspnetcore](https://www.youtube.com/watch?v=oPxoQKdC8sI)

@@ -6,3 +6,4 @@
 - [MassTransit–How to test consumers with dependencies](https://bartwullems.blogspot.com/2021/02/masstransithow-to-test-consumers-with.html)
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
+- [MassTransit V8 Preview - Upgrading from v7](https://www.youtube.com/watch?v=sZFOJ8W2gXY)
