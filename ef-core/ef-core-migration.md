@@ -1,5 +1,9 @@
 # EF Core Migration
 
+## 📦 Libraries
+
+- [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator)
+
 ## 📕 Articles
 
 - [EF7 EnsureCreated vs. Migrate Methods](https://thedatafarm.com/data-access/ef7-ensurecreated-vs-migrate-methods/)

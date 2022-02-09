@@ -63,6 +63,8 @@
 - [What is Event Driven Architecture (EDA)?](https://www.youtube.com/watch?v=o2HJCGcYwoU)
 - [What is Event-driven Change Data Capture Process?](https://www.youtube.com/watch?v=-irkDCmHhKk)
 - [Event Driven Collaboration [eng] / Ian Cooper](https://www.youtube.com/watch?v=ztRwZ2FySds)
+- [Building a Webhooks system driven by Events](https://www.youtube.com/watch?v=NuHC5uwbFAc)
+
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 
