@@ -15,6 +15,7 @@
 - [RabbitMQ Explained - Use Cases](https://youtu.be/oq1fOr6Ryws)
 - [RabbitMQ Explained - Exchanges](https://youtu.be/o8eU5WiO8fw)
 - [Evolutionary history of the RabbitMQ .NET Client towards concurrency - Daniel Marbach](https://www.youtube.com/watch?v=t0lT8eRPyuc)
+- [Microservices communication patterns, messaging basics | Messaging in distributed systems](https://www.youtube.com/watch?v=eW4JgrkwWEM)
 ## 📚 Books
 - [The Optimal RabbitMQ Guide](https://www.cloudamqp.com/rabbitmq_ebook.html)
 - [RabbitMQ in Action](https://www.manning.com/books/rabbitmq-in-action)

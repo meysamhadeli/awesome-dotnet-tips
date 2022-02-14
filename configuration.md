@@ -26,7 +26,7 @@
 - [Access services inside ConfigureServices using IConfigureOptions in ASP.NET Core](https://andrewlock.net/access-services-inside-options-and-startup-using-configureoptions/)
 - [ASP.NET Core IOptions Configuration](https://khalidabuhakmeh.com/aspnet-core-ioptions-configuration)
 - [Options Pattern in .NET Core](https://codeburst.io/options-pattern-in-net-core-a50285aeb18d)
-
+- [Managing your .NET app configuration like a pro](https://www.youtube.com/watch?v=J0EVd5HbtUY)
 
 ## 📦 Libraries
 
