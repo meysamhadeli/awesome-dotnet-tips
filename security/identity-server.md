@@ -23,6 +23,7 @@
 - [How to add ASP.NET Identity and Entity Framework Support for your IdentityServer4 Solution](https://www.youtube.com/watch?v=Sw1rScI20xM)
 - [How to Setup FIDO2 for IdentityServer4](https://www.youtube.com/watch?v=j-QjTvBnEn4)
 - [How to Setup FIDO2 for ASP.NET Identity](https://www.youtube.com/watch?v=8rO6c3CLg48)
+- [Do you need IdentityServer?](https://www.youtube.com/watch?v=5MAYvA2fAdA)
 
 ## 🔖 Samples
 

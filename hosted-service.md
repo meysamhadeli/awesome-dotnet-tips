@@ -9,6 +9,7 @@
 - [Creating Windows Services In .NET Core – Part 3 – The “.NET Core Worker” Way](https://dotnetcoretutorials.com/2019/12/07/creating-windows-services-in-net-core-part-3-the-net-core-worker-way/)
 - [Creating Windows Services In .NET Core – Part 2 – The “Topshelf” Way](https://dotnetcoretutorials.com/2019/09/27/creating-windows-services-in-net-core-part-2-the-topshelf-way/)
 - [Access Background Services From ASP.NET Core](https://khalidabuhakmeh.com/access-background-services-from-aspnet-core)
+- [Waiting for your ASP.NET Core app to be ready from an IHostedService in .NET 6](https://andrewlock.net/finding-the-urls-of-an-aspnetcore-app-from-a-hosted-service-in-dotnet-6/)
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
