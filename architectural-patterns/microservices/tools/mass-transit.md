@@ -8,3 +8,4 @@
 ## 📺 Videos
 - [MassTransit–Youtube videos](https://bartwullems.blogspot.com/2020/07/masstransityoutube-videos.html)
 - [MassTransit V8 Preview - Upgrading from v7](https://www.youtube.com/watch?v=sZFOJ8W2gXY)
+- [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)

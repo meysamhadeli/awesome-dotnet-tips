@@ -1,6 +1,7 @@
 - [DotNet](dotnet.md)
   - [DotNet5](dotnet5.md)
   - [DotNet6](dotnet6.md)
+  - [DotNet7](dotnet7.md)
   - [DotNetCore](dotnet-core.md)
   - [DotNetCore Tips](dotnet-core-tips.md)
   - [DotNetCore Architecture](dotnet-core-architecture.md)

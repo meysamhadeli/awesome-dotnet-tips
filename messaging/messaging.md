@@ -89,6 +89,7 @@
 - [Moving work Out-of-Process using Brighter and RabbitMQ](https://www.youtube.com/watch?v=kG4WLiZEAuc)
 - [Building a Request Pipeline for Separating Concerns with Pipes & Filters](https://www.youtube.com/watch?v=msXtN15qXOE)
 - [Distributed Messaging Patterns](https://www.youtube.com/watch?v=ZGloN_GOc9o)
+- [Message Ordering in Pub/Sub or Queue](https://www.youtube.com/watch?v=ILEb5LsSf5w)
 
 ## 📦 Libraries
 
