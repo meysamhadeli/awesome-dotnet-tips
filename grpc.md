@@ -27,6 +27,9 @@
 - [gRPC performance benchmark in ASP.NET Core 3](https://pawelkmiec.net/2019/11/17/gRPC-performance-benchmark.html)
 - [Trying out gRPC in ASP.NET Core 3](https://pawelkmiec.net/2019/10/18/gRPC-ASP.NET-Core.html)
 - [Getting Started protobuf-net.Grpc](https://protobuf-net.github.io/protobuf-net.Grpc/gettingstarted)
+- [Create Protobuf messages for .NET apps](https://docs.microsoft.com/en-us/aspnet/core/grpc/protobuf?view=aspnetcore-6.0)
+- [Protocol Buffer Basics: C# ](https://developers.google.com/protocol-buffers/docs/csharptutorial)
+- [protobuf-net.Grpc](https://protobuf-net.github.io/protobuf-net.Grpc/gettingstarted)
 
 ## 📹 Videos
 
