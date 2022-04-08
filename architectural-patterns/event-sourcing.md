@@ -45,6 +45,7 @@
 - [Complex Projections in Event Sourcing [.NET C#]](https://www.youtube.com/watch?v=kv87iBsEP44&t=3s)
 - [Event Sourcing do's and don'ts](https://www.youtube.com/watch?v=SYsiIxJ-Nfw)
 - [Snapshotter for Asynchronous Projections [.NET C#]](https://www.youtube.com/watch?v=ZRr3jOXZGJg)
+- [Snapshotter Service with distributed locks [.NET C#]](https://www.youtube.com/watch?v=NriFMN2UtZs)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
