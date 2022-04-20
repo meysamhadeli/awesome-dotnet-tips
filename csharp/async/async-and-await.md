@@ -35,6 +35,8 @@
 - [Asynchronous C#: Making a simple Cup of Tea (Part 2)](https://dev.to/paulafahmy/asynchronous-c-making-a-simple-cup-of-tea-part-2-1jcj)
 - [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
 - [Introducing AsyncUtilities](http://blog.i3arnon.com/2018/02/05/async-utilities/)
+- [C# async await explained](https://blog.ndepend.com/c-async-await-explained/)
+
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)
