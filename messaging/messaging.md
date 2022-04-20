@@ -90,6 +90,7 @@
 - [Building a Request Pipeline for Separating Concerns with Pipes & Filters](https://www.youtube.com/watch?v=msXtN15qXOE)
 - [Distributed Messaging Patterns](https://www.youtube.com/watch?v=ZGloN_GOc9o)
 - [Message Ordering in Pub/Sub or Queue](https://www.youtube.com/watch?v=ILEb5LsSf5w)
+- [Blocking or Non-Blocking API calls?](https://www.youtube.com/watch?v=4HGsmDuxvWc)
 
 ## 📦 Libraries
 
