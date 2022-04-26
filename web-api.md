@@ -133,6 +133,7 @@
 - [GeorgDangl/LightQuery](https://github.com/GeorgDangl/LightQuery) - Lightweight solution for sorting and paging Asp.Net Core API results
 - [hassanhabib/InvisibleApi](https://github.com/hassanhabib/InvisibleApi) - ASP.NET Library that allows developers to add an extra layer of security on top of their existing endpoints
 - [Kahbazi/MediatR.AspNetCore.Endpoints](https://github.com/Kahbazi/MediatR.AspNetCore.Endpoints)
+- [Biarity/Sieve](https://github.com/Biarity/Sieve) - Sieve is a simple, clean, and extensible framework for .NET Core that adds sorting, filtering, and pagination functionality out of the box.
 
 ## 🔖 Samples
 - [filipw/net60-webapi-samples](https://github.com/filipw/net60-webapi-samples)
