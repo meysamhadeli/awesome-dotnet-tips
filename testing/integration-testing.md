@@ -121,6 +121,7 @@
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
 - [joaopgrassi/dockercompose-azdevops](https://github.com/joaopgrassi/dockercompose-azdevops)
 - [ceslogea/InMemoryMongo2GoWireMockPoc](https://github.com/ceslogea/InMemoryMongo2GoWireMockPoc)
+- [pdevito3/MessageBusTestingInMemHarness](https://github.com/pdevito3/MessageBusTestingInMemHarness)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
