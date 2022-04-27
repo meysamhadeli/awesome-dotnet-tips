@@ -71,6 +71,7 @@
 - [MongoDB integration testing in .Net Core – Vetting Mongo2go vs MongoDb Docker Instance](http://www.jonathanawotwi.com/2021/06/mongodb-integration-testing-in-net-core-mongo2go-vs-mongodb-docker-instance/)
 - [Integration Tests using WebApplicationFactory, xUnit and Mongo2Go](https://medium.com/@dev.satbir/integration-tests-using-webapplicationfactory-xunit-and-mongo2go-225068da834f)
 - [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
+- [Building an Event Driven .NET Application: Integration Testing](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-integration-testing)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
