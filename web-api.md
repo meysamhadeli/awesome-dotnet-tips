@@ -110,6 +110,7 @@
 - [A new way to build CLEAN and FAST APIs in .NET](https://www.youtube.com/watch?v=z32_7KgCr6c)
 - [GUIDs and UUIDs are cool, but this is cooler](https://www.youtube.com/watch?v=tSuwe7FowzE)
 - [Minimal APIs just got all I wanted in .NET 7](https://www.youtube.com/watch?v=Kt9TiXrwIp4)
+- [Building a Serverless REST API in .NET with AWS Lambda](https://www.youtube.com/watch?v=rImaNyfKhZk)
 
 ## 📦 Libraries
 
