@@ -12,6 +12,7 @@
 - [Managing Blazor state using Redux | Blazor Tutorial 11](https://www.youtube.com/watch?v=k_c-ErPaYa8)
 - [Blazor Fundamentals Tutorial Playlist - Nick Chapsas](https://www.youtube.com/playlist?list=PLUOequmGnXxPrY79JGnF72e1Pba8z93zo)
 - [https://www.youtube.com/watch?v=lRYrhj9lwQk](https://www.youtube.com/watch?v=lRYrhj9lwQk)
+- [Creating Office Files in Blazor using Syncfusion - PDF, Word, Excel, and PowerPoint](https://www.youtube.com/watch?v=wyoCxzRLUsQ)
 
 ## 🚀 Samples
 - [thbst16/BlazorCrud](https://github.com/thbst16/BlazorCrud) - Demo application built with the Blazor client-side hosting model (WebAssembly) and .NET Core REST APIs secured by a JWT service.
