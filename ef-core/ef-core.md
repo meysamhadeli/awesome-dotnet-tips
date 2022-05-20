@@ -31,6 +31,7 @@
 - [EFCore.Projectables and the curious case of an unexpected performance boost](https://onthedrift.com/posts/efcore-projectables-perf/)
 - [Calling functions in LINQ queries](http://tomasp.net/blog/linq-expand.aspx/)
 - [LINQ: Building an IQueryable provider series](https://docs.microsoft.com/en-us/archive/blogs/mattwar/linq-building-an-iqueryable-provider-series)
+- [Entity Framework Core: Soft Delete using Query Filters](https://www.meziantou.net/entity-framework-core-soft-delete-using-query-filters.htm)
 
 ## 📹 Videos
 
