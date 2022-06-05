@@ -31,6 +31,7 @@
 - [Protocol Buffer Basics: C# ](https://developers.google.com/protocol-buffers/docs/csharptutorial)
 - [protobuf-net.Grpc](https://protobuf-net.github.io/protobuf-net.Grpc/gettingstarted)
 - [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first?view=aspnetcore-6.0)
+- [Test gRPC services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/test-services?view=aspnetcore-6.0)
 
 ## 📹 Videos
 

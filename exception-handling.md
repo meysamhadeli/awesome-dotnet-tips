@@ -53,6 +53,7 @@
 - [STOP throwing Exceptions! Start being Explicit](http://w7.mul.ir/yo%7cut%7cub%7ce.%7cco%7cm/watch?v=4UEanbBaJy4)
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
+- [Don't throw exceptions in C#. Do this instead](https://www.youtube.com/watch?v=a1ye9eGTB98)
 ## Libraries
 
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
