@@ -50,6 +50,8 @@
 * [Web Api](web-api.md)
 * [Web Sockets](web-sockets.md)
 
+# Thanks :pray:
+Thanks from all the authors of contents for the valuable link in `.Net` that gathered here.
 
 # Support ⭐
 If you like my work, feel free to:
