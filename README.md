@@ -1,5 +1,8 @@
 # Awesome .Net Tips
 
+> List of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native.
+
+
 * [Architectural Patterns](architectural-patterns/index.md)
 * [Architectural Style](architectural-style/index.md)
 * [Cloud Native](cloud-native/index.md)
