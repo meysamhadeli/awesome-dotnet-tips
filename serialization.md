@@ -42,6 +42,7 @@
 - [Fast and efficient data serialisation with Protocol buffers (protobuf) in .NET](https://www.youtube.com/watch?v=sdKBhDl-dCs)
 - [The fastest way to work with JSON in .NET](https://www.youtube.com/watch?v=shES1R7e1lQ)
 - [Step by Step Tutorial: Deserializing JSON using c# and json.net](https://www.youtube.com/watch?v=CjoAYslTKX0)
+- [JSON support gets a major missing feature in .NET 7](https://www.youtube.com/watch?v=2zUQwVD7T_E)
 ## Libraries
 
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
