@@ -65,6 +65,7 @@
 - [Software Architecture Introduction (part 3): Cache explained](https://www.youtube.com/watch?v=QBMTGngjWdU)
 - [Response caching using Redis | ASP.NET Core 5 REST API Tutorial 25](https://www.youtube.com/watch?v=KboCpJGa9ag)
 - [How to effectively use Redis Cache in .NET Core (Framework, Standard)](https://www.youtube.com/watch?v=jwek4w6als4)
+- [Why .NET's memory cache is kinda flawed](https://www.youtube.com/watch?v=Q3KzZeUudsg)
 
 ## 🚀 Samples
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series

@@ -1,4 +1,4 @@
-# Tactical Design Patterns
+# Tactical Design
 
 ## 📕 Articles
 

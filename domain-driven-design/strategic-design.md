@@ -1,5 +1,5 @@
 
-# Strategic Design Patterns
+# Strategic Design
 
 ## 📕 Articles
 
