@@ -4,12 +4,13 @@
 
 ## Contents
 
-- [Clean Architecture](architectural-design/clean-architecture.md)
-- [Event Driven Architecture](architectural-design/event-driven-architecture.md)
-- [Hexagonal Architecture](architectural-design/hexagonal-architecture.md)
-- [Nlayer Architecture](architectural-design/nlayer-architecture.md)
-- [Onion Architecture](architectural-design/onion-architecture.md)
-- [Vertical Slice Architecture](architectural-design/vertical-slice-architecture.md)
+- [Architectural Styles]()
+  - [Clean Architecture](architectural-design/clean-architecture.md)
+  - [Event Driven Architecture](architectural-design/event-driven-architecture.md)
+  - [Hexagonal Architecture](architectural-design/hexagonal-architecture.md)
+  - [Nlayer Architecture](architectural-design/nlayer-architecture.md)
+  - [Onion Architecture](architectural-design/onion-architecture.md)
+  - [Vertical Slice Architecture](architectural-design/vertical-slice-architecture.md)
 - [Domain Driven Design](domain-driven-design/domain-driven-design.md)
   - [Aggrigation](domain-driven-design/aggregation.md)
   - [Anemic Domain Model](domain-driven-design/anemic-domain-model.md)
