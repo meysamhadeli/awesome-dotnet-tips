@@ -30,7 +30,7 @@
 - [Azure](azure/azure.md)  
   - [Azure Function](azure/azure-function.md)
   - [Azure Service Bus](azure/azure-service-bus.md)
-- [Devops](devops/azure-devops.md)
+- [CI-CD](devops/azure-devops.md)
   - [Github Actions](devops/github-actions.md)  
   - [Jenkins](devops/jenkins.md)  
 - [Docker](docker/docker.md)  
