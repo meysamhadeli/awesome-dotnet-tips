@@ -1,3 +1,0 @@
-- [Service Discovery & Registry](service-discovery.md)
-  - [Consul](consul.md)
-  - [Eureka](eureka.md)
