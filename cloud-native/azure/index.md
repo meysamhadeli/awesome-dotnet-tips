@@ -1,4 +1,0 @@
-- [Azure](Azure.md)
-  - [Azure Service Bus](azure-service-bus.md)
-  - [Azure Function](azure-function.md)
-  - [Azure App Service](azure-app-service.md)

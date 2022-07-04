@@ -1,5 +1,0 @@
-# Ambassador
-
-## 📕 Articles
-
-## 📺 Videos

@@ -1,6 +1,0 @@
-# HAProxy
-
-## 📕 Articles
-
-
-## 📺 Videos
