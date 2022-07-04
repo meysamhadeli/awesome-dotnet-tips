@@ -237,7 +237,6 @@
   - [Composite-Ui](docs/microservices/composite-ui.md)
   - [Outbox Pattern](docs/microservices/outbox-pattern.md)
   - [Saga](docs/microservices/saga.md)
-- [](docs/messaging/messaging.md)
 - [Caching](docs/caching.md)
 - [CQRS](docs/cqrs.md)
 - [Elastic Search](docs/elastic-search.md)
