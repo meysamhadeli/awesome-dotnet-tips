@@ -263,3 +263,6 @@ Thanks a bunch for supporting me!
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/meysamhadeli/awesome-dotnet-tips/blob/main/docs/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/meysamhadeli/awesome-dotnet-tips/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
+## License
+This project is made available under the MIT license. See [LICENSE](https://github.com/meysamhadeli/awesome-dotnet-tips/blob/main/LICENSE) for details.
