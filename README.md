@@ -13,7 +13,7 @@
   - [Vertical Slice Architecture](docs/architectural-styles/vertical-slice-architecture.md)
   - [Data Driven Design](docs/architectural-styles/data-driven-design.md)  
 - [Domain Driven Design](docs/domain-driven-design/domain-driven-design.md)
-  - [Aggrigation](docs/domain-driven-design/aggregation.md)
+  - [Aggregation](docs/domain-driven-design/aggregation.md)
   - [Anemic Domain Model](docs/domain-driven-design/anemic-domain-model.md)
   - [Application Service](docs/domain-driven-design/application-service.md)
   - [Bounded Context](docs/domain-driven-design/bounded-context.md)
