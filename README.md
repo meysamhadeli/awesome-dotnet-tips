@@ -156,7 +156,7 @@
   - [Heroku](docs/platform-as-a-service/heroku.md)
   - [Netlify](docs/platform-as-a-service/netlify.md)
   - [Rancher](docs/platform-as-a-service/rancher.md)
-- [Design Patterns](docs/design-patterns/design-patterns)
+- [Design Patterns](docs/design-patterns/design-patterns.md)
   - [Adapter Pattern](docs/design-patterns/adapter-pattern.md)
   - [Builder](docs/design-patterns/builder.md)
   - [Chain Of Responsibility](docs/design-patterns/chain-of-responsibility.md)
