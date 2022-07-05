@@ -17,6 +17,7 @@
 - [A .NET 6 Minimal API Todo example Playground](https://www.hanselman.com/blog/a-net-6-minimal-api-todo-example-playground)
 - [An opinionated look at Minimal API in .NET 6](https://dev.to/nikiforovall/an-opinionated-look-at-minimal-api-in-net-6-33pd)
 - [ASP.NET Core 6: Streaming JSON responses with IAsyncEnumerable, example with Angular](https://anthonygiretti.com/2021/09/22/asp-net-core-6-streaming-json-responses-with-iasyncenumerable-example-with-angular/)
+- [Create a Minimal API with .NET 6](https://rmauro.dev/create-a-minimal-api-with-dotnet-6/)
 
 ## 📺 Videos
 - [ASP.NET Community Standup - Minimal APIs](https://www.youtube.com/watch?v=enAskgcF0c0)
