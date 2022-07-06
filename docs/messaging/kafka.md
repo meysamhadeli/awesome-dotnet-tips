@@ -32,6 +32,12 @@
 - [Getting Started: Apache Kafka + .NET](https://www.youtube.com/watch?v=n_IQq3pze0s)
 - [Apache Kafka Crash Course](https://www.youtube.com/watch?v=R873BlNVUB4)
 - [Apache Kafka - 2022 Edition [.NET 6 Consumer and Producer, Docker containerized Kafka services]](https://www.youtube.com/watch?v=A4Y7z6wFRk0)
+- [How to start an Apache Kafka broker with Docker and Docker-Compose](https://www.youtube.com/watch?v=Zq8aMrRnvQE)
+- [How to create and manage Kafka Topics using Conduktor](https://www.youtube.com/watch?v=upRjuUs67S4&t=27s)
+- [How do Topics, Partitions and Offsets work in Apache Kafka?](https://www.youtube.com/watch?v=tipFUfxEIYg)
+- [How to configure an Apache Kafka cluster in Conduktor](https://www.youtube.com/watch?v=9a0Fl3tIpTc)
+- [Apache Kafka - Brokers & Topic Replication Explanation](https://www.youtube.com/watch?v=BMuPaeL7uMQ&t=374s)
+- [How do Kafka Consumer Groups and Consumer Offsets work in Apache Kafka?](https://www.youtube.com/watch?v=9o5LAbPNc28)
 
 ## Libraries
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
