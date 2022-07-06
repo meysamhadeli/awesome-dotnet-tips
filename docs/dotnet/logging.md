@@ -4,6 +4,7 @@
 - [Serilog Docs](https://github.com/serilog/serilog/wiki)
 
 ## 📝 Articles
+- [Set up Serilog in .NET 6 as a logging provider](https://rmauro.dev/setup-serilog-in-net6-as-logging-provider/)
 - [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
 - [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging)
 - [Setup Serilog for Asp.Net Core](https://github.com/serilog/serilog-aspnetcore#readme)
