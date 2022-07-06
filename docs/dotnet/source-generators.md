@@ -25,6 +25,7 @@
 - [Better C# - Source Generators](https://www.youtube.com/watch?v=1u33UTdllV0)
 - [Episode 21: Roslyn Source Generators](https://www.youtube.com/watch?v=JSFZ3qDx83g)
 - [C# Source Generators in Action, by Andrey Dyatlov](https://www.youtube.com/watch?v=052xutD86uI)
+- [C# Source Generators Tutorial](https://www.youtube.com/watch?v=IUMZH5Z4r00)
 ## 🚀 Samples
 - [davidwengier/SourceGeneratorTemplate](https://github.com/davidwengier/SourceGeneratorTemplate) - A basic template for writing a C# source generator
 - [dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators](https://github.com/dotnet/roslyn-sdk/tree/main/samples/CSharp/SourceGenerators)
