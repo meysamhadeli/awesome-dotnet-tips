@@ -62,6 +62,7 @@
 - [How to turn off Serilog?](https://stackoverflow.com/questions/30849166/how-to-turn-off-serilog)
 - [MediatR Pipeline Behaviour in ASP.NET Core – Logging and Validation](https://codewithmukesh.com/blog/mediatr-pipeline-behaviour/)
 - [Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)
+- [Set up Serilog in .NET 6 as a logging provider](https://rmauro.dev/setup-serilog-in-net6-as-logging-provider/)
 
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
