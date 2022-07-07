@@ -52,7 +52,7 @@
     - [Cpu-Bound](docs/csharp/async/cpu-bound.md)
     - [Exception Handling](docs/csharp/async/exception-handling.md)
     - [Io-Bound](docs/csharp/async/io-bound.md)
-    - [Recources](docs/csharp/async/recources.md)
+    - [Resources](docs/csharp/async/resources.md)
     - [State Machine](docs/csharp/async/state-machine.md)
     - [Synchronization Context](docs/csharp/async/synchronization-context.md)
     - [Task Completion Source](docs/csharp/async/task-completion-source.md)
