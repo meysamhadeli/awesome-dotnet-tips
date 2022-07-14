@@ -52,7 +52,7 @@
     - [Cpu-Bound](docs/csharp/async/cpu-bound.md)
     - [Exception Handling](docs/csharp/async/exception-handling.md)
     - [Io-Bound](docs/csharp/async/io-bound.md)
-    - [Recources](docs/csharp/async/recources.md)
+    - [Resources](docs/csharp/async/resources.md)
     - [State Machine](docs/csharp/async/state-machine.md)
     - [Synchronization Context](docs/csharp/async/synchronization-context.md)
     - [Task Completion Source](docs/csharp/async/task-completion-source.md)
@@ -60,7 +60,7 @@
     - [Thread Pool](docs/csharp/async/thread-pool.md)
     - [Thread Safty](docs/csharp/async/thread-safty.md)
     - [Thread](docs/csharp/async/thread.md)
-    - [valueTask](docs/csharp/async/valuetask.md)
+    - [ValueTask](docs/csharp/async/valuetask.md)
   - [Collections]()
     - [Blocking Collection](docs/csharp/collections/blocking-collection.md)
     - [Collection Data Structure](docs/csharp/collections/collection-data-structure.md)
@@ -156,7 +156,7 @@
   - [Heroku](docs/platform-as-a-service/heroku.md)
   - [Netlify](docs/platform-as-a-service/netlify.md)
   - [Rancher](docs/platform-as-a-service/rancher.md)
-- [Design Patterns](docs/design-patterns/design-patterns)
+- [Design Patterns](docs/design-patterns/design-patterns.md)
   - [Adapter Pattern](docs/design-patterns/adapter-pattern.md)
   - [Builder](docs/design-patterns/builder.md)
   - [Chain Of Responsibility](docs/design-patterns/chain-of-responsibility.md)
@@ -263,3 +263,6 @@ Thanks a bunch for supporting me!
 Contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/meysamhadeli/awesome-dotnet-tips/blob/main/docs/contributing.md) pages first.
 
 Thanks to all [contributors](https://github.com/meysamhadeli/awesome-dotnet-tips/graphs/contributors), you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
+
+## License
+This project is made available under the MIT license. See [LICENSE](https://github.com/meysamhadeli/awesome-dotnet-tips/blob/main/LICENSE.md) for details.
