@@ -26,6 +26,7 @@
 - [Creating a mocking library for .NET in C# FROM SCRATCH](https://www.youtube.com/watch?v=9kEURoqHKZ0)
 - [Generating realistic fake data in .NET using Bogus](https://www.youtube.com/watch?v=T9pwE1GAr_U)
 - [Introduction to Unit Testing Using AutoFixture](https://www.youtube.com/watch?v=ivEke62spOg)
+- [You are mocking the HttpClient the wrong way](https://www.youtube.com/watch?v=7OFZZAHGv9o)
 
 ## Libraries
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework

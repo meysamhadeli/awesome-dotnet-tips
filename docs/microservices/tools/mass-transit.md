@@ -13,5 +13,5 @@
 
 ## 📕 Articles
 - [Kafka](https://masstransit-project.com/usage/riders/kafka.html)
-
+- [MassTransit Testing with Web Application Factory](https://www.youtube.com/watch?v=Uzme7vInDz0)
 
