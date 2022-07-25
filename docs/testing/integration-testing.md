@@ -87,6 +87,7 @@
 - [Clean Testing - Clean Architecture with .NET Core - Jason Taylor - NDC Oslo 2020](https://www.youtube.com/watch?v=T6NRcX1vnz8)
 - [Clean Testing: Clean Architecture with .NET Core](https://www.youtube.com/watch?v=2UJ7mAtFuio)
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
+- [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 
 
 ## Libraries
@@ -107,6 +108,8 @@
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services
 - [dylan-asos/netcore-authz-inmemory-bddfy](https://github.com/dylan-asos/netcore-authz-inmemory-bddfy) - A demonstration of in memory Web API testing of authentication scenarios
 - [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
+- [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)
+
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
 - [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
