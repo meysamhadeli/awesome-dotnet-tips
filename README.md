@@ -76,7 +76,6 @@
   - [DotNet Core Architecture](docs/dotnet/dotnet-core-architecture.md)
   - [DotNet Core Tips](docs/dotnet/dotnet-core-tips.md)
   - [DotNet Core](docs/dotnet/dotnet-core.md)
-  - [DotNet Standard](docs/dotnet/dotnet-standard.md)
   - [IL](docs/dotnet/il.md)
   - [MetaPack](docs/dotnet/metapack.md)
   - [Action Filters](docs/dotnet/action-filters.md)
