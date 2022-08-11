@@ -53,6 +53,7 @@
 - [Caching behavior with MediatR](https://fredrikronnehag.netlify.app/caching-mediatr/)
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [ASP.NET Micro Caching - Benefits of a One-Second Cache](https://ardalis.com/microcaching-one-second-cache/?utm_sq=grjljxxq5y)
+- [Redis Explained](https://architecturenotes.co/redis)
 
 ## Use Cases
 
