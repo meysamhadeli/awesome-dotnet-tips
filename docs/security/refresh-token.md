@@ -15,6 +15,7 @@
 ## 📺 Videos
 - [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
 - [Refresh JWT with Refresh Tokens in Asp Net Core 5 Rest API Step by Step](https://www.youtube.com/watch?v=T_Hla1WzaZQ&ab_channel=MohamadLawand)
+- [Revoking Access to JWT tokens with a Blacklist/Deny List](https://supertokens.com/blog/revoking-access-with-a-jwt-blacklist)
 
 ## 🚀 Samples
 - [manoj-choudhari-git/AspNetCore-Identity](https://github.com/manoj-choudhari-git/AspNetCore-Identity) - .NET Core Web API and Cookie Authentication

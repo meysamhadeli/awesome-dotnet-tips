@@ -193,6 +193,7 @@
   - [Identity Server](docs/security/identity-server.md)
   - [Oauth-OpenId](docs/security/oauth-openid.md)
   - [Refresh Token](docs/security/refresh-token.md)
+  - [Revoke Token](docs/security/revoke-token.md)
   - [Secret Management](docs/security/secret-management.md)
 - [Testing](docs/testing/testing.md)
   - [Acceptance Testing](docs/testing/acceptance-testing.md)
