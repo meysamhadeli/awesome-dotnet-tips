@@ -3,6 +3,7 @@
 
 ## 📹 Videos
 [How to Write Architecture Tests? - Clean Architecture, .NET 6, REST API](https://www.youtube.com/watch?v=_D6Kai4RdGY)
+[Revoking Access to JWT tokens with a Blacklist/Deny List](https://supertokens.com/blog/revoking-access-with-a-jwt-blacklist)
 
 ## 📝 Articles
 
