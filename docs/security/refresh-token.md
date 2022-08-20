@@ -12,6 +12,9 @@
 - [Understanding the basics about the Refresh tokens](https://thecodeblogger.com/2020/12/05/understanding-the-basics-about-the-refresh-tokens/)
 - [Refresh tokens with .NET 5 Web API and .NET Core Identity](https://thecodeblogger.com/2020/12/05/refresh-tokens-using-net-5-web-api-and-net-core-identity/)
 - [.NET 5.0 API - JWT Authentication with Refresh Tokens](https://jasonwatmore.com/post/2021/06/15/net-5-api-jwt-authentication-with-refresh-tokens)
+- [.NET 6.0 - JWT Authentication with Refresh Tokens Tutorial with Example API](https://jasonwatmore.com/post/2022/01/24/net-6-jwt-authentication-with-refresh-tokens-tutorial-with-example-api)
+- [How to Use Refresh Tokens in ASP.NET Core APIs – JWT Authentication](https://codewithmukesh.com/blog/refresh-tokens-in-aspnet-core/#Getting_the_Users_Refresh_Tokens)
+
 ## 📺 Videos
 - [Refreshing JWTs with Refresh Tokens | ASP.NET Core 5 REST API Tutorial 13](https://www.youtube.com/watch?v=AU0TIOZhGqs)
 - [Refresh JWT with Refresh Tokens in Asp Net Core 5 Rest API Step by Step](https://www.youtube.com/watch?v=T_Hla1WzaZQ&ab_channel=MohamadLawand)
