@@ -125,18 +125,6 @@
 - [.NET Microservices – Full Course](https://www.youtube.com/c/binarythistle/videos)
 - [START with a Monolith, NOT Microservices](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c&t=18839s)
-- [Building FeedR - new microservices series with .NET6.0, episode #1](https://www.youtube.com/watch?v=spnBzawswik)
-- [Building FeedR - Tye, PM2, Docker (Microservices with .NET 6.0) episode #2](https://www.youtube.com/watch?v=DbUt_0E8TKo&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=3)
-- [Building FeedR - API Gateway with YARP (Microservices with .NET 6.0) episode #3](https://www.youtube.com/watch?v=jn0SFUennII&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=4)
-- [Building FeedR - Pricing Feed, Background Service, Channels (Microservices with .NET 6.0) episode #4](https://www.youtube.com/watch?v=87raSebE80M&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=5)
-- [Building FeedR - Redis Pub/Sub + IAsyncEnumerable streaming (Microservices with .NET 6.0) episode #5](https://www.youtube.com/watch?v=80Ke9hsG_RU&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=6)
-- [Building FeedR - gRPC streaming services & clients (Microservices with .NET 6.0) episode #6](https://www.youtube.com/watch?v=H6jew1qxQfQ&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=7)
-- [Building FeedR - resilient HTTP communication (Microservices with .NET 6.0) episode #7](https://www.youtube.com/watch?v=ujtuJ6kQ0Hw&list=PLqqD43D6Mqz0AIDkHqaZDKaEKXdfMiIAo&index=8)
-- [Building FeedR - Message Broker template (Microservices with .NET 6.0) episode #8](https://www.youtube.com/watch?v=b_BBPrc2mYQ)
-- [Building FeedR - Apache Pulsar integration (Microservices with .NET 6.0) episode #9](https://www.youtube.com/watch?v=WB72UGqTDoY)
-- [Building FeedR - Message Correlation ID (Microservices with .NET 6.0) episode #10](https://www.youtube.com/watch?v=HXmOJR653FI)
-- [Async Web API testing with TaskCompletionSource (Microservices with .NET 6.0) - FeedR episode #11](https://www.youtube.com/watch?v=N-ofc345-58)
-- [Portainer microservices deployment (Microservices with .NET 6.0) - FeedR episode #12 (final)](https://www.youtube.com/watch?v=tBl422FiEBY)
 - [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
 
 ## 📦 Libraries
