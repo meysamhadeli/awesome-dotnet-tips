@@ -92,6 +92,7 @@
 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/fundamentals-domain-driven-design)
 - [Jimmy Bogard - Domain-Driven Refactoring - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg)
 - [How to Use Domain-Driven Design in Clean Architecture Domain Layer | .NET 6, DDD](https://www.youtube.com/watch?v=1Lcr2c3MVF4)
+- [Domain Validation With .NET | Clean Architecture, DDD, .NET 6](https://www.youtube.com/watch?v=KgfzM0QWHrQ)
 
 ## 🚀 Samples
 - [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
