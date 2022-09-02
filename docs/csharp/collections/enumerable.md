@@ -8,3 +8,6 @@
 - [Enumeration in .NET V ToList() or not ToList()?](https://antao-almada.medium.com/enumeration-in-net-v-tolist-and-toarray-395ce615ecfd)
 - [Array iteration performance in C# — Branching and parallelization](https://antao-almada.medium.com/array-iteration-performance-in-c-branching-and-parallelization-d0705adbf425)
 - [Array iteration performance in C#](https://antao-almada.medium.com/array-iteration-performance-in-c-f9801a2c7a3c)
+
+## 📺 Videos
+[How IEnumerable can kill your performance in C#](https://www.youtube.com/watch?v=cLsmW7a8MkU)
