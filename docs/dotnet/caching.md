@@ -54,6 +54,9 @@
 - [Cross-Cutting Concerns with MediatR Pipeline Behaviors](https://anderly.com/2019/12/12/cross-cutting-concerns-with-mediatr-pipeline-behaviors/)
 - [ASP.NET Micro Caching - Benefits of a One-Second Cache](https://ardalis.com/microcaching-one-second-cache/?utm_sq=grjljxxq5y)
 - [Redis Explained](https://architecturenotes.co/redis)
+- [Redis-Dependency Injection of the ConnectionMultiplexer – Best Practices](https://www.thecodebuzz.com/redis-dependency-injection-connectionmultiplexer-redis-cache-netcore-csharp/)
+- [Delete Single or multiple or All keys in Redis .NET – Guidelines](https://www.thecodebuzz.com/delete-keys-all-keys-redis-cache-cluster-net-csharp-net-core/)
+- [Get all keys from Redis Cache in C#.NET](https://www.thecodebuzz.com/get-all-keys-from-redis-cache-in-c-net/)
 
 ## Use Cases
 
