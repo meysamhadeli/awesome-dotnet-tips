@@ -9,6 +9,8 @@
 - [When LINQ is not LINQ](https://www.youtube.com/watch?v=t2NA1hHT1JE)
 - [7 awesome improvements for LINQ in .NET 6](https://www.youtube.com/watch?v=sIXKpyhxHR8)
 - [SingleOrDefault or FirstOrDefault? When LINQ might harm you](https://www.youtube.com/watch?v=ZTWl2s8ScMc)
+- [The INSANE performance boost of LINQ in .NET 7](https://www.youtube.com/watch?v=zCKwlgtVLnQ)
+- [Stop using LINQ to order your primitive collections in C#](https://www.youtube.com/watch?v=K1Ye_QEpAq8)
 
 ## Libraries
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
