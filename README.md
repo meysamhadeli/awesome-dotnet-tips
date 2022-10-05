@@ -40,6 +40,7 @@
     - [Blocking Collection](docs/csharp/collections/blocking-collection.md)
     - [Collection Data Structure](docs/csharp/collections/collection-data-structure.md)
     - [Enumerable](docs/csharp/collections/enumerable.md)
+    - [List](docs/csharp/collections/list.md)
     - [Hashset](docs/csharp/collections/hashset.md)
     - [Iterators](docs/csharp/collections/iterators.md)
   - [Boxing](docs/csharp/boxing.md)
