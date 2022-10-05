@@ -10,4 +10,5 @@
 - [Array iteration performance in C#](https://antao-almada.medium.com/array-iteration-performance-in-c-f9801a2c7a3c)
 
 ## 📺 Videos
-[How IEnumerable can kill your performance in C#](https://www.youtube.com/watch?v=cLsmW7a8MkU)
+- [How IEnumerable can kill your performance in C#](https://www.youtube.com/watch?v=cLsmW7a8MkU)
+- [C# Yield Return: What is it and how does it work?](https://www.youtube.com/watch?v=HRXkeaeImGs)
