@@ -75,6 +75,7 @@
 - [Deep Dive: Multi-Factor Authentication with .NET 5](https://www.youtube.com/watch?v=sKjpLblZeDQ&t=2s)
 - [Asp Net Core 5 Rest API Authentication with JWT Step by Step](https://www.youtube.com/watch?v=LgpC4tYtc6Y&ab_channel=MohamadLawand)
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
+- [ASP.NET Core In Depth Cookie Authentication Explanation](https://www.youtube.com/watch?v=hw2B6SZj8y8)
 
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
