@@ -67,6 +67,8 @@
 - [Clean Architecture with ASP.NET Core by Steve Smith | BRDNUG June 2021](https://www.youtube.com/watch?v=D6IEnMTuawA)
 - [Fat Controller CQRS Diet Talk](https://www.youtube.com/watch?v=icyvKTuZkzE)
 - [Clean Architecture with ASP.NET Core 6](https://www.youtube.com/watch?v=lkmvnjypENw)
+- [Why is Clean Architecture so Popular?](https://www.youtube.com/watch?v=g0XmFpmvsDk)
+
 ## 🚀 Samples
 
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
