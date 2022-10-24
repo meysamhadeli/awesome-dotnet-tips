@@ -7,6 +7,9 @@
 - [ddd-crew/free-ddd-learning-resources](https://github.com/ddd-crew/free-ddd-learning-resources#tactical-ddd--domain-as-code)
 - [How to learn Domain-Driven Design & Event Sourcing? Developer Journey Map and useful resources](https://dev.to/mateusznowak/how-to-learn-domain-driven-design-event-sourcing-my-own-developer-journey-map-and-useful-resources-308a)
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
+- [ardalis/awesome-ddd](https://github.com/ardalis/awesome-ddd)
+- [rafaelfgx/DDD](https://github.com/rafaelfgx/DDD)
+
 ## 📕 Articles
 - [Design a DDD-oriented microservice](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice) 
 - [PPPDDD.1 – What is Domain Driven Design?](https://herbertograca.com/2016/08/15/pppddd-1-what-is-domain-driven-design/) 
@@ -149,6 +152,19 @@
 - [marcinstelmach/Ecommerce.Api](https://github.com/marcinstelmach/Ecommerce.Api) - Ecommerce in .net core 2.2, C#, MediaTr, CQRS, DDD, Autofac, DI, Entity Framework Core, Memory Cache, Serilog
 - [thiagocruzrj/E-commerce-DDD](https://github.com/thiagocruzrj/E-commerce-DDD) - DDD applied in E-commerce context.
 - [devmentors/Inflow](https://github.com/devmentors/Inflow)
+- [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon)
+- [pdevito3/domain-events-example](https://github.com/pdevito3/domain-events-example)
+- [kalintsenkov/BookStore](https://github.com/kalintsenkov/BookStore)
+- [kalintsenkov/BettingSystem](https://github.com/kalintsenkov/BettingSystem)
+- [bartstc/booking-app](https://github.com/bartstc/booking-app)
+- [zkavtaskin/Domain-Driven-Design-Example](https://github.com/zkavtaskin/Domain-Driven-Design-Example)
+- [DijanaPenic/DDD-VShop](https://github.com/DijanaPenic/DDD-VShop)
+- [jbogard/ContosoUniversityDotNetCore-Pages](https://github.com/jbogard/ContosoUniversityDotNetCore-Pages)
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
+- [pdevito3/craftsman](https://github.com/pdevito3/craftsman)
+- [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
+- [AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects](https://github.com/AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects)
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
