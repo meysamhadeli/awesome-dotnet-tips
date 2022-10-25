@@ -10,3 +10,6 @@
 - [How to use Elasticsearch from .NET](https://www.youtube.com/watch?v=tw9svKWq6tg)
 - [.Net 6 WebAPI - Intro to ElasticSearch - Step by Step #aspnetcore](https://www.youtube.com/watch?v=oPxoQKdC8sI)
 - [Steve Gordon - An Introduction to Elasticsearch for .NET Developers - NDC London 2022](https://www.youtube.com/watch?v=_mbsMKymGjk)
+
+## 🚀 Samples
+- [stevejgordon/elasticsearch-demo](https://github.com/stars/meysamhadeli/lists/elastic-search)

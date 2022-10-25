@@ -45,3 +45,11 @@
 - [DuendeSoftware/BFF](https://github.com/DuendeSoftware/BFF) - Framework for ASP.NET Core to secure SPAs using the Backend-for-Frontend (BFF) pattern
 - [KevinDockx/BlazorWASMSecurityBestPractices](https://github.com/KevinDockx/BlazorWASMSecurityBestPractices) - Sample showing a best practice security approach for Blazor WASM apps via the BFF pattern
 - [simpleidserver/SimpleIdServer](https://github.com/simpleidserver/SimpleIdServer) - OpenID, OAuth 2.0, SCIM2.0, UMA2.0, FAPI, CIBA & OPENBANKING Framework for ASP.NET Core
+- [damikun/trouble-training](https://github.com/damikun/trouble-training)
+- [skoruba/Duende.IdentityServer.Admin](https://github.com/skoruba/Duende.IdentityServer.Admin)
+- [DuendeSoftware/Samples](https://github.com/DuendeSoftware/Samples)
+- [TanvirArjel/CleanArchitecture](https://github.com/TanvirArjel/CleanArchitecture)
+- [damienbod/IdentityServer4AspNetCoreIdentityTemplate](https://github.com/damienbod/IdentityServer4AspNetCoreIdentityTemplate)
+- [brunobritodev/JPProject.IdentityServer4.SSO](https://github.com/brunobritodev/JPProject.IdentityServer4.SSO)
+- [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth)
+- [DuendeSoftware/Duende.AccessTokenManagement](https://github.com/DuendeSoftware/Duende.AccessTokenManagement)

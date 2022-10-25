@@ -35,3 +35,4 @@
 
 ## 🚀 Samples
 - [robinvanderknaap/authorization-server-openiddict](https://github.com/robinvanderknaap/authorization-server-openiddict) - Authorization Server implemented with OpenIddict.
+- [AspNet.Security.OAuth.Providers](https://github.com/aspnet-contrib/AspNet.Security.OAuth.Providers)

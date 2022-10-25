@@ -73,6 +73,14 @@
 - [oskardudycz/EventSourcing.NetCore/Sample/Warehouse](https://github.com/oskardudycz/EventSourcing.NetCore/tree/cqrs_with_net5/Sample/Warehouse)
 - [EventStore/samples](https://github.com/EventStore/samples) - Samples showing practical aspect of EventStoreDB, Event Sourcing
 - [ddd-by-examples/event-source-cqrs-sample](https://github.com/ddd-by-examples/event-source-cqrs-sample) - Sample ES/CQRS application
+- [VenomAV/EventSourcingCQRS](https://github.com/VenomAV/EventSourcingCQRS)
+- [oskardudycz/EventSourcing.NetCore](https://github.com/oskardudycz/EventSourcing.NetCore)
+- [Eventuous/dotnet-sample](https://github.com/Eventuous/dotnet-sample)
+- [learningcom/Learning.EventStore](https://github.com/learningcom/Learning.EventStore)
+- [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
+- [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing)
+
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

@@ -165,6 +165,7 @@
 - [bymyslf/payment-gateway](https://github.com/bymyslf/payment-gateway)
 - [AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects](https://github.com/AntonioFalcaoJr/Dotnet6.EFCore6.Record.ValueObjects)
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing)
+- [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
