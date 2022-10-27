@@ -55,6 +55,8 @@
 - [Restructuring to a Vertical Slice Architecture](https://www.youtube.com/watch?v=cVVMbuKmNes)
 - [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
 - [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
+- [Tired of Layers? Vertical Slice Architecture to the rescue!](https://www.youtube.com/watch?v=lsddiYwWaOQ)
+
 ## 🚀 Samples
 
 - [jbogard/ContosoUniversityDotNetCore](https://github.com/jbogard/ContosoUniversityDotNetCore) 

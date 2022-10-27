@@ -76,6 +76,7 @@
 - [Asp Net Core 5 Rest API Authentication with JWT Step by Step](https://www.youtube.com/watch?v=LgpC4tYtc6Y&ab_channel=MohamadLawand)
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
 - [ASP.NET Core In Depth Cookie Authentication Explanation](https://www.youtube.com/watch?v=hw2B6SZj8y8)
+- [ASP.NET Core JWT Authentication](https://www.youtube.com/watch?v=8FvN5bhVYxY)
 
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)
