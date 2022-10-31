@@ -73,6 +73,7 @@
 - [Supporting integration tests with WebApplicationFactory in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-6-supporting-integration-tests-with-webapplicationfactory-in-dotnet-6/)
 - [Building an Event Driven .NET Application: Integration Testing](https://wrapt.dev/blog/building-an-event-driven-dotnet-application-integration-testing)
 - [Test gRPC services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/test-services?view=aspnetcore-6.0)
+- [MassTransit and MediatR Integration Testing – Part 1](https://markgossa.com/2022/08/masstransit-and-mediatr-integration-testing-part-1.html)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)

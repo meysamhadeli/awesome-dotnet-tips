@@ -14,4 +14,10 @@
 ## 📕 Articles
 - [Kafka](https://masstransit-project.com/usage/riders/kafka.html)
 - [MassTransit Testing with Web Application Factory](https://www.youtube.com/watch?v=Uzme7vInDz0)
+- [MassTransit and MediatR – Part 1](https://markgossa.com/2022/06/masstransit-and-mediatr.html)
+- [MassTransit and MediatR – Part 2](https://markgossa.com/2022/06/masstransit-exponential-back-off.html)
+- [MassTransit and MediatR – Part 3](https://markgossa.com/2022/07/masstransit-mediatr-dead-letter-invalid-messages.html)
+- [MassTransit and MediatR Integration Testing – Part 1](https://markgossa.com/2022/08/masstransit-and-mediatr-integration-testing-part-1.html)
 
+## 🚀 Samples
+- [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
