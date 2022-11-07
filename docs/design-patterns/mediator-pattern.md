@@ -9,3 +9,7 @@
 - [MediatR Pipeline Examples](https://lostechies.com/jimmybogard/2016/10/13/mediatr-pipeline-examples/)
 - [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
 - [Applying cross-cutting concerns in ASP.NET Core with MediatR using behaviors](https://lurumad.github.io/cross-cutting-concerns-in-asp-net-core-with-meaditr)
+
+## 📺 Videos
+- [Using MediatR in .NET? Maybe replace it with this](https://www.youtube.com/watch?v=aaFLtcf8cO4)
+
