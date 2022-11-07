@@ -26,6 +26,8 @@
 - [SHARING DATA BETWEEN MODULES IN MODULAR MONOLITH](https://dev.to/lukaszreszke/sharing-data-between-modules-in-modular-monolith-50on)
 - [Event Modeling & Modular Monolith | From colored cards to code through TDD](https://zycienakodach.pl/event-modeling-modularny-monolit)
 - [Monolithic to Microservices Architecture with Patterns & Best Practices](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
+- [Build the modular monolith first](https://www.fearofoblivion.com/build-a-modular-monolith-first)
+
 ## 📺 Videos
 - [GOTO 2018 • Modular Monoliths • Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [Modular monoliths (Simon Brown) - 2016](https://www.youtube.com/watch?v=kbKxmEeuvc4)
@@ -53,9 +55,6 @@
 - [ddd-by-examples/library](https://github.com/ddd-by-examples/library) - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 - [simplcommerce/SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [spetz/NPost](https://github.com/spetz/NPost) - Modular Monolith sample
-- [devmentors/Cine](https://github.com/devmentors/Cine) - Modular monolith in .NET Core
-- [Trill-modular-monolith](https://github.com/devmentors/Trill-modular-monolith)
-- [spetz/Confab-training](https://github.com/spetz/Confab-training)
 - [anton-liauchuk/educational-platform](https://github.com/anton-liauchuk/educational-platform) - Modular Monolith Java application with DDD
 - [VirtoCommerce/vc-storefront](https://github.com/VirtoCommerce/vc-storefront) - VirtoCommerce Storefront for ASP.NET Core 3.1 repository
 - [grandnode/grandnode](https://github.com/grandnode/grandnode) - Free and Open Source Ecommerce Shopping Cart solution based on ASP.NET CORE and MongoDB
@@ -67,6 +66,5 @@
 - [stemmlerjs/ddd-forum](https://github.com/stemmlerjs/ddd-forum) - Hacker news-inspired forum app built with TypeScript using DDD practices from solidbook.io.
 - [grandnode/grandnode2](https://github.com/grandnode/grandnode2) - Open source, headless, multi-tenant eCommerce platform built with .NET Core, MongoDB, AWS DocumentDB, Azure CosmosDB, Vue.js.
 - [DarekModzelewski/Contoso-University-DDD](https://github.com/DarekModzelewski/Contoso-University-DDD)
-- [devmentors/modular-framework](https://github.com/devmentors/modular-framework)
-- [devmentors/Inflow](https://github.com/devmentors/Inflow)
+- [ASP.NET Core Modular Monolith](https://github.com/chrisklug/asp-net-modular-monolith)
 
