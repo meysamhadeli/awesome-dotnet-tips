@@ -12,6 +12,7 @@
 
 ## 📺 Videos
 - ["Domain Modelling in a Remote World" with Marco Heimeshoff (Thursday's Matter)](https://www.youtube.com/watch?v=jdU_iTBP2Qs)
+- [Do you have enough Complexity for a Domain Model (Domain Driven Design)?](https://www.youtube.com/watch?v=L1foFiqopIc)
 
 ## 🚀 Samples
 
