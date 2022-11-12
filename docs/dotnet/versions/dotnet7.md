@@ -7,4 +7,6 @@
 - [How reflection changes will make your apps faster in .NET 7](https://www.youtube.com/watch?v=OukGS7s6bS4)
 - [Microsoft fixed my biggest complaint with Minimal APIs in .NET 7](https://www.youtube.com/watch?v=-i4rP0LGY5U)
 - [Microsoft FINALLY fixed foreach loops in .NET 7](https://www.youtube.com/watch?v=LfgBm5M8eUM)
+- [Performance Improvements in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=yNPEdaxkTZw)
+- [What's New in C# 11 | .NET Conf 2022](https://www.youtube.com/watch?v=H18CfoinPZg)
  
