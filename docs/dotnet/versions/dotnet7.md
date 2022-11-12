@@ -9,4 +9,4 @@
 - [Microsoft FINALLY fixed foreach loops in .NET 7](https://www.youtube.com/watch?v=LfgBm5M8eUM)
 - [Performance Improvements in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=yNPEdaxkTZw)
 - [What's New in C# 11 | .NET Conf 2022](https://www.youtube.com/watch?v=H18CfoinPZg)
- 
+- [High-performance services with gRPC: What's new in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=et_2NBk4N4Y)

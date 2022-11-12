@@ -44,6 +44,7 @@
 - [Talking between services with gRPC, and other tricks - Marc Gravell](https://www.youtube.com/watch?v=W-bULzA0ki8)
 - [Embracing gRPC in .NET, by Irina Scurtu](https://www.youtube.com/watch?v=d8S9jh6Xj6Y)
 - [Where should you use gRPC? And where NOT to use it!](https://www.youtube.com/watch?v=4SuFtQV8RCk)
+- [High-performance services with gRPC: What's new in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=et_2NBk4N4Y)
 
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
