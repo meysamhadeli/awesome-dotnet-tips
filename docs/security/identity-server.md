@@ -53,3 +53,4 @@
 - [brunobritodev/JPProject.IdentityServer4.SSO](https://github.com/brunobritodev/JPProject.IdentityServer4.SSO)
 - [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth)
 - [DuendeSoftware/Duende.AccessTokenManagement](https://github.com/DuendeSoftware/Duende.AccessTokenManagement)
+- [Aguafrommars/TheIdServer](https://github.com/Aguafrommars/TheIdServer)
