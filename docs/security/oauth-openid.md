@@ -30,6 +30,7 @@
 - [SECURING MULTIPLE AUTH0 APIS IN ASP.NET CORE USING OAUTH BEARER TOKENS](https://damienbod.com/2021/04/19/securing-multiple-auth0-apis-in-asp-net-core-using-oauth-bearer-tokens/)
 - [Understanding OAuth 2.0 & 2.1](https://www.youtube.com/watch?v=ikS1gdZQXrc)
 - [ASP.NET Core OAuth Integration (Youtube)](https://www.youtube.com/watch?v=0uSwPdYOm9k)
+- [ASP.NET Core Custom OAuth Server (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=EBVKlm0wyTE)
 
 ## Libraries
 - [openiddict/openiddict-core](https://github.com/openiddict/openiddict-core) - Versatile OpenID Connect stack for ASP.NET Core 2.1/3.1/5.0 and Microsoft.Owin 4.1 (compatible with ASP.NET 4.6.1)
