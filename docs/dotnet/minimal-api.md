@@ -42,6 +42,8 @@
 - [Minimal-APIs/minimal-apis.github.io](https://github.com/Minimal-APIs/minimal-apis.github.io)
 - [felipeoriani/MinimalBlogApi](https://github.com/felipeoriani/MinimalBlogApi)
 - [bradygaster/TodoApp](https://github.com/bradygaster/TodoApp)
+- [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
+
 
 ## Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs

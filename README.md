@@ -102,6 +102,7 @@
   - [Mediatr](docs/dotnet/mediatr.md)
   - [Middleware](docs/dotnet/middleware.md)
   - [Minimal Api](docs/dotnet/minimal-api.md)
+  - [Rate Limit](docs/dotnet/rate-limit.md)
   - [Odata](docs/dotnet/odata.md)
   - [Rest](docs/dotnet/rest.md)
   - [Serialization](docs/dotnet/serialization.md)
