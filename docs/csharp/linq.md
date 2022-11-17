@@ -11,6 +11,7 @@
 - [SingleOrDefault or FirstOrDefault? When LINQ might harm you](https://www.youtube.com/watch?v=ZTWl2s8ScMc)
 - [The INSANE performance boost of LINQ in .NET 7](https://www.youtube.com/watch?v=zCKwlgtVLnQ)
 - [Stop using LINQ to order your primitive collections in C#](https://www.youtube.com/watch?v=K1Ye_QEpAq8)
+- [The C# keyword you can ONLY use in LINQ, but carefully](https://www.youtube.com/watch?v=1_xY6JwSm94)
 
 ## Libraries
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
