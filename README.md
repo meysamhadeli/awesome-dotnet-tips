@@ -33,7 +33,7 @@
     - [Task Completion Source](docs/csharp/async/task-completion-source.md)
     - [Task](docs/csharp/async/task.md)
     - [Thread Pool](docs/csharp/async/thread-pool.md)
-    - [Thread Safty](docs/csharp/async/thread-safty.md)
+    - [Thread Safety](docs/csharp/async/thread-safety.md)
     - [Thread](docs/csharp/async/thread.md)
     - [ValueTask](docs/csharp/async/valuetask.md)
   - [Collections](docs/csharp/collections/collection.md)
