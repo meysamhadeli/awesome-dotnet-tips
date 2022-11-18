@@ -64,6 +64,7 @@
 - [Improving logging performance with source generators](https://andrewlock.net/exploring-dotnet-6-part-8-improving-logging-performance-with-source-generators/)
 - [Set up Serilog in .NET 6 as a logging provider](https://rmauro.dev/setup-serilog-in-net6-as-logging-provider/)
 - [How to add logs on Console with .NET Core and Serilog](https://code4it.hashnode.dev/how-to-add-logs-on-console-with-net-core-and-serilog-1?source=li0722)
+- [Test run of HTTP Logging in ASP.NET Core 6](https://blog.elmah.io/test-run-of-http-logging-in-asp-net-core-6/)
 
 ## 📹 Videos
 - [Logging into Elasticsearch using Serilog and viewing logs in Kibana | .NET Core Tutorial](https://www.youtube.com/watch?v=0acSdHJfk64)
