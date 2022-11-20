@@ -54,3 +54,4 @@
 - [khalidabuhakmeh/YarpReverseProxyFlowThroughAuth](https://github.com/khalidabuhakmeh/YarpReverseProxyFlowThroughAuth)
 - [DuendeSoftware/Duende.AccessTokenManagement](https://github.com/DuendeSoftware/Duende.AccessTokenManagement)
 - [Aguafrommars/TheIdServer](https://github.com/Aguafrommars/TheIdServer)
+- [DuendeSoftware/IdentityServer.Quickstart.UI.AspNetIdentity](https://github.com/DuendeSoftware/IdentityServer.Quickstart.UI.AspNetIdentity)

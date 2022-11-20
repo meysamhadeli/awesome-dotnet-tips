@@ -126,6 +126,7 @@
 - [START with a Monolith, NOT Microservices](https://www.youtube.com/watch?v=Z_pj1mUDKdw)
 - [.NET Microservices Basics Course](https://www.youtube.com/watch?v=ByYyk8eMG6c&t=18839s)
 - [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk)
+- [The HIDDEN Challenge of Microservices: UI Composition](https://www.youtube.com/watch?v=ILbjKR1FXoc)
 
 ## 📦 Libraries
 
