@@ -41,3 +41,4 @@
 - [Working on ASP.NET Core apps: eShopOnWeb and Domain Events](https://www.youtube.com/watch?v=x-UXUGVLMj8)
 - [Implementing Domain Events with Entity Framework Core](https://www.youtube.com/watch?v=SbMbWmmukws)
 - [GOTO 2019 • Temporal Modelling • Mathias Verraes](https://www.youtube.com/watch?v=KNqOWT0lOYY)
+- [Domain Events and Event Sourcing go hand in hand? Not Exactly!](https://www.youtube.com/watch?v=dJBTNksQzys)
