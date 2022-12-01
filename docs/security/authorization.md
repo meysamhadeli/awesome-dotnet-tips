@@ -39,6 +39,7 @@
 - [ASP.NET Core Security - Frank Liu, Youtube Playlist](https://www.youtube.com/playlist?list=PLgRlicSxjeMOxypAEL2XqIc2m_gPmoVN-)
 - [Asp Net Core - Rest API Authorization with JWT (Roles Vs Claims Vs Policy) - Step by Step](https://www.youtube.com/watch?v=eVxzuOxWEiY)
 - [Developing Flexible Authorization Capabilities in ASP.NET Core with Jason Taylor](https://www.youtube.com/watch?v=OW5wBERdhQU)
+- [ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=x7NxbZNboIc)
 
 ## 🚀 Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)
