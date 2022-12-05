@@ -75,6 +75,7 @@
 - [Test gRPC services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/test-services?view=aspnetcore-6.0)
 - [MassTransit and MediatR Integration Testing – Part 1](https://markgossa.com/2022/08/masstransit-and-mediatr-integration-testing-part-1.html)
 - [Testing your ASP.NET Core application - using a real database](https://josef.codes/testing-your-asp-net-core-application-using-a-real-database/)
+- [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
