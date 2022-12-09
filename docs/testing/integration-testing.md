@@ -76,6 +76,7 @@
 - [MassTransit and MediatR Integration Testing – Part 1](https://markgossa.com/2022/08/masstransit-and-mediatr-integration-testing-part-1.html)
 - [Testing your ASP.NET Core application - using a real database](https://josef.codes/testing-your-asp-net-core-application-using-a-real-database/)
 - [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
+- [Adding integration tests for permission-protected API endpoints in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-testing-permission-protected-api-endpoints/)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
@@ -113,6 +114,7 @@
 - [jbogard/NServiceBus.Extensions.IntegrationTesting](https://github.com/jbogard/NServiceBus.Extensions.IntegrationTesting)
 - [testcontainers/testcontainers-dotnet](https://github.com/testcontainers/testcontainers-dotnet)
 - [VerifyTests/Verify](https://github.com/VerifyTests/Verify) - Verify is a snapshot tool that simplifies the assertion of complex data models and documents.
+- [Fake Authentication Jwt Bearer for ASP.NET Core 6.0](https://github.com/webmotions/fake-authentication-jwtbearer)
 
 ## 🚀 Samples
 - [jasontaylordev/ndc-cleanarchitecture-2020](https://github.com/jasontaylordev/ndc-cleanarchitecture-2020)
