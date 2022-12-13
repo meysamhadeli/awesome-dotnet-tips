@@ -66,6 +66,7 @@
 - [Building a Webhooks system driven by Events](https://www.youtube.com/watch?v=NuHC5uwbFAc)
 - [Event Driven Architecture in the Real World! 4 Practical Examples](https://www.youtube.com/watch?v=dhdLxW0vDro)
 - [Wix.com - 5 Event Driven Architecture Pitfalls!](https://www.youtube.com/watch?v=xfNzGdrxf5w)
+- [Don't Fail Publishing Events! Event Driven Architecture Consistency](https://www.youtube.com/watch?v=tcePbob8rrY)
 
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
