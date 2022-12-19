@@ -55,8 +55,9 @@
 - [Captive Dependency with ASP.NET Core](https://medium.com/dotnet-hub/captive-dependency-with-asp-net-core-what-is-captive-dependency-8698b588e048)
 - [.NET Core and DI – Beware of Captive Dependency](https://ankitvijay.net/2020/03/17/net-core-and-di-beware-of-captive-dependency/)
 - [New dependency injection features in .NET 6](https://andrewlock.net/exploring-dotnet-6-part-10-new-dependency-injection-features-in-dotnet-6/)
+- [New in ASP.NET Core 3: Service provider validation](https://andrewlock.net/new-in-asp-net-core-3-service-provider-validation/)
 
-- 
+ 
 ## 📺 Videos
 - [.NET Core Dependency Injection – The Booster Jab - Steve Collins - NDC London 2021](https://www.youtube.com/watch?v=JwVtscL9H9k)
 - [Dependency Injection Explained](https://www.youtube.com/watch?v=ASDmrUaO5cE)
@@ -67,6 +68,7 @@
 - [YairHalberstadt/stronginject](https://github.com/YairHalberstadt/stronginject) - compile time dependency injection for .NET
 - [pakrym/jab](https://github.com/pakrym/jab) - C# Source Generator based dependency injection container implementation.
 - [dmytrohridin/Microsoft.Extensions.NamedDependencyInjection](https://github.com/dmytrohridin/Microsoft.Extensions.NamedDependencyInjection) - Registration and resolving dependencies by name or key.
+- [Validate your dependencies correctly in .NET](https://www.youtube.com/watch?v=8JkHgymp2R4)
 	
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
