@@ -38,7 +38,6 @@
     - [ValueTask](docs/csharp/async/valuetask.md)
   - [Collections](docs/csharp/collections/collection.md)
     - [Blocking Collection](docs/csharp/collections/blocking-collection.md)
-    - [Collection Data Structure](docs/csharp/collections/collection-data-structure.md)
     - [Enumerable](docs/csharp/collections/enumerable.md)
     - [List](docs/csharp/collections/list.md)
     - [Hashset](docs/csharp/collections/hashset.md)
