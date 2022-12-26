@@ -52,4 +52,4 @@
 - [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable) - Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 
 - [AsyncIO.DotNet](https://github.com/firenero/AsyncIO) - Easy-to-use library for common async IO file system operations. 
 - [NeoSmart.AsyncLock](https://github.com/neosmart/AsyncLock) - A C# lock replacement for async/await, supporting recursion/re-entrance and asynchronous waits. 
-
+- [Getting C# Code Metadata That Reflection Can’t Get](https://www.youtube.com/watch?v=aaC16Fv2zes&t=451s)
