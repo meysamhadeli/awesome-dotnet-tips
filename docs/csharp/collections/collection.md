@@ -12,3 +12,4 @@
 
 ## 📺 Videos
 - [Which dictionary to choose in C# and which one is dangerous](https://www.youtube.com/watch?v=DVXqDV_A-mw)
+- [When Readonly isn’t Readonly in C#](https://www.youtube.com/watch?v=7hBPI0xYezo)
