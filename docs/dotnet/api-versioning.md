@@ -17,6 +17,7 @@
 
 - [Elegant API Versioning in ASP.NET Core (Web API)](https://www.youtube.com/watch?v=iVHtKG0eU_s)
 - [Implementing versioning | ASP.NET Core 5 REST API Tutorial 2](https://www.youtube.com/watch?v=WFEE5yVJwGU)
+- [Implementing Modern API Versioning in .NET](https://www.youtube.com/watch?v=8Asq7ymF1R8)
 
 ## Libraries
 - [mattfrear/Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore

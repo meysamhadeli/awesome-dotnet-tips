@@ -110,6 +110,7 @@
   - [Validation](docs/dotnet/validation.md)
   - [Web Api](docs/dotnet/web-api.md)
   - [Package Versioning](docs/dotnet/package-versioning.md)
+  - [Localization](docs/dotnet/localization.md)
 - [Architectural Styles](docs/architectural-styles/architectural-styles.md)
   - [Clean Architecture](docs/architectural-styles/clean-architecture.md)
   - [Event Driven Architecture](docs/architectural-styles/event-driven-architecture.md)
