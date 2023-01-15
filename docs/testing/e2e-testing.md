@@ -18,6 +18,9 @@
 - [basdijkstra/rest-assured-net](https://github.com/basdijkstra/rest-assured-net)
 - [Fake Authentication Jwt Bearer for ASP.NET Core 6.0](https://github.com/webmotions/fake-authentication-jwtbearer)
 
+## 🚀 Samples
+- [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
