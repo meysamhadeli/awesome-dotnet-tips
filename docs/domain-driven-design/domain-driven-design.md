@@ -168,6 +168,7 @@
 - [AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing](https://github.com/AntonioFalcaoJr/EDA.CleanArch.DDD.CQRS.EventSourcing)
 - [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi)
 - [ardalis/DDD-NoDuplicates](https://github.com/ardalis/DDD-NoDuplicates)
+- [pdevito3/PeakLimsApi](https://github.com/pdevito3/PeakLimsApi)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET
