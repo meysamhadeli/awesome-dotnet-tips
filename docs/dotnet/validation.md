@@ -10,3 +10,6 @@
 - [How to write clean validation clauses in .NET](https://www.youtube.com/watch?v=Tvx6DNarqDM)
 ## Libraries
 - [GuardClauses](https://github.com/ardalis/GuardClauses) > A simple package with guard clause extensions.
+
+## 🚀 Samples
+[https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation](micro-elements/MicroElements.Swashbuckle.FluentValidation)

@@ -22,6 +22,11 @@
 ## Libraries
 - [mattfrear/Swashbuckle.AspNetCore.Filters](https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters) - A bunch of useful filters for Swashbuckle.AspNetCore
 - [microsoft/aspnet-api-versioning](https://github.com/microsoft/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+
+
+## 🚀 Samples
+- [dotnet/aspnet-api-versioning](https://github.com/dotnet/aspnet-api-versioning/tree/main/examples/AspNetCore/WebApi)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>
