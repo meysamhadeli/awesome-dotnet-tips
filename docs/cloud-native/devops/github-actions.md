@@ -14,3 +14,8 @@
 
 ## Videos
 - [Master GitHub Actions Tutorial - Playlist Cameron McKenzie](https://www.youtube.com/playlist?list=PL_RrEj88onS-um2xFy01sY46ik_2yt_EQ)
+
+## Libraries
+- [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter)
+- [googleapis/release-please](https://github.com/googleapis/release-please)
