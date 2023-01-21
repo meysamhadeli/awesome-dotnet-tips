@@ -32,6 +32,7 @@
 - [protobuf-net.Grpc](https://protobuf-net.github.io/protobuf-net.Grpc/gettingstarted)
 - [Code-first gRPC services and clients with .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/code-first?view=aspnetcore-6.0)
 - [Test gRPC services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/test-services?view=aspnetcore-6.0)
+- [gRPC & ASP.NET Core 3.1: Resiliency with Polly](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-resiliency-with-polly/)
 
 ## 📹 Videos
 

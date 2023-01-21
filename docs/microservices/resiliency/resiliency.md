@@ -27,6 +27,9 @@
 - [Refactoring Towards Resilience: Evaluating RabbitMQ Options](https://jimmybogard.com/refactoring-towards-resilience-evaluating-rabbitmq-options/)
 - [Refactoring Towards Resilience: Evaluating Coupling](https://jimmybogard.com/refactoring-towards-resilience-evaluating-coupling/)
 - [Refactoring Towards Resilience: Process Manager Solution](https://jimmybogard.com/refactoring-towards-resilience-process-manager-solution/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 1](https://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-1/)
+- [Best practices with HttpClient and Retry Policies with Polly in .NET Core 2, Part 2](http://anthonygiretti.com/2019/03/26/best-practices-with-httpclient-and-retry-policies-with-polly-in-net-core-2-part-2/)
+- [gRPC & ASP.NET Core 3.1: Resiliency with Polly](https://anthonygiretti.com/2020/03/31/grpc-asp-net-core-3-1-resiliency-with-polly/)
 
 ## 📺 Videos
 - [Handling Failures in Message Driven Architecture](https://www.youtube.com/watch?v=SesEYHGhlLQ)
