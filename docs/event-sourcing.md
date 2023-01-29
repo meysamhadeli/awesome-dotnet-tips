@@ -47,6 +47,7 @@
 - [Snapshotter for Asynchronous Projections [.NET C#]](https://www.youtube.com/watch?v=ZRr3jOXZGJg)
 - [Snapshotter Service with distributed locks [.NET C#]](https://www.youtube.com/watch?v=NriFMN2UtZs)
 - [Domain Events and Event Sourcing go hand in hand? Not Exactly!](https://www.youtube.com/watch?v=dJBTNksQzys)
+- [Event Sourcing in 1 Hour with Marten in .NET](https://www.youtube.com/watch?v=yWpuUHXLhYg)
 
 ## 📦 Libraries
 - [Eventuous/eventuous](https://github.com/Eventuous/eventuous) - Minimalistic Event Sourcing library for .NET

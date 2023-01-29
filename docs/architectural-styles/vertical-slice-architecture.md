@@ -56,6 +56,7 @@
 - [Organize Code by Feature | Vertical Slices](https://www.youtube.com/watch?v=PRns0rqPonA)
 - [Vertical Slice Architecture](https://www.youtube.com/watch?v=id2kfgzONMA)
 - [Tired of Layers? Vertical Slice Architecture to the rescue!](https://www.youtube.com/watch?v=lsddiYwWaOQ)
+- [Vertical Slice Architecture, not Layers!](https://www.youtube.com/watch?v=L2Wnq0ChAIA)
 
 ## 🚀 Samples
 
