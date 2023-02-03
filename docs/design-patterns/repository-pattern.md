@@ -20,6 +20,7 @@
 - [Should repositories throw exceptions ?](https://minasami.com/2020/09/14/should-repositories-throw-exceptions.html)
 - [Repository Pattern in ASP.NET Core with Adapter Pattern for easy Maintenance & better Unit Testing](https://procodeguide.com/programming/repository-pattern-in-aspnet-core/)
 - [Should Controllers Reference Repositories or Services](https://ardalis.com/should-controllers-reference-repositories-services/)
+- [Repository Pattern - A controversy explained](https://steven-giesel.com/blogPost/9fa7fe83-3ede-4ecb-ab27-4012b1333c0e)
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
