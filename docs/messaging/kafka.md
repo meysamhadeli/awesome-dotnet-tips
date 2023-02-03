@@ -38,6 +38,7 @@
 - [How to configure an Apache Kafka cluster in Conduktor](https://www.youtube.com/watch?v=9a0Fl3tIpTc)
 - [Apache Kafka - Brokers & Topic Replication Explanation](https://www.youtube.com/watch?v=BMuPaeL7uMQ&t=374s)
 - [How do Kafka Consumer Groups and Consumer Offsets work in Apache Kafka?](https://www.youtube.com/watch?v=9o5LAbPNc28)
+- [Troubleshooting Kafka with 2000 Microservices | Event Driven](https://www.youtube.com/watch?v=dLpCFwR4Eac)
 
 ## Libraries
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
