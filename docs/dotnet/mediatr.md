@@ -26,6 +26,7 @@
 - [Building a Mediator library in .NET from scratch](https://www.youtube.com/watch?v=4e83trumwcM)
 - [The 2 MediatR features people don't know about but should](https://www.youtube.com/watch?v=2TT3suofNlo)
 - [You DON'T want an In-Memory Event Bus like MediatR](https://www.youtube.com/watch?v=KCvsk5tTP3w)
+- [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE)
 
 ## 🚀 Samples
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 
