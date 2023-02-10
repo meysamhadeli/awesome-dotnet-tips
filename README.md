@@ -243,6 +243,7 @@
     - [Helm](docs/cloud-native/kubernetes/helm.md) 
     - [Ingress Controller](docs/cloud-native/kubernetes/ingress-controller.md) 
     - [K3s](docs/cloud-native/kubernetes/k3s.md) 
+    - [TLS](docs/cloud-native/kubernetes/tls.md)
     - [Kind](docs/cloud-native/kubernetes/kind.md)
     - [ConfigMaps](docs/cloud-native/kubernetes/configmaps.md) 
   - [Platform As a Service](docs/cloud-native/platform-as-a-service/platform-as-a-service.md)

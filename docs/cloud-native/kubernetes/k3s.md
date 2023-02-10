@@ -1,6 +1,9 @@
 # K3S
 
-[K3s GitHub](https://github.com/k3s-io/k3s) - Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
+## 📘 Resources 
+- [K3s GitHub](https://github.com/k3s-io/k3s) - Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
+- [k3s kubeconfig](https://github.com/k3s-io/k3s/issues/389)
+- [ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script)
 
 ## 📕 Articles
 - [K3s with k3d and MetalLB](https://blog.kubernauts.io/k3s-with-k3d-and-metallb-on-mac-923a3255c36e)
