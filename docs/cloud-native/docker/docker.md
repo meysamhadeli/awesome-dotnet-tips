@@ -32,6 +32,7 @@
 - [Docker Tutorial for Beginners [FULL COURSE in 3 Hours]](https://www.youtube.com/watch?v=3c-iBn73dDE)
 - [Run ASP.NET Core 3.1 Apps in Docker with HTTPS](https://www.youtube.com/watch?v=lcaDDxJv260)
 - [Why you no longer need a Dockerfile in .NET 7](https://www.youtube.com/watch?v=BV_f2XnqlRE)
+- [Docker Crash Course for Absolute Beginners [NEW]](https://www.youtube.com/watch?v=pg19Z8LL06w)
 
 ## 📦 Libraries
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image

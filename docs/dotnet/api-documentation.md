@@ -21,6 +21,7 @@
 
 ## 📺 Videos
 - [Extended Swagger documentation | ASP.NET Core 5 REST API Tutorial 22](https://www.youtube.com/watch?v=BGASedyh16I)
+- [Implementing API Key Authentication in ASP.NET Core](https://www.youtube.com/watch?v=GrJJXixjR8M)
 
 ## 🚀 Samples
 - [micro-elements/MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation)

@@ -3,7 +3,7 @@
 ## 📘 Resources 
 - [K3s GitHub](https://github.com/k3s-io/k3s) - Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 - [k3s kubeconfig](https://github.com/k3s-io/k3s/issues/389)
-- [ubuntu-wsl2-systemd-script](https://github.com/DamionGans/ubuntu-wsl2-systemd-script)
+- [Install Ubuntu on WSL2 and get started with graphical applications](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#4-configure-ubuntu)
 
 ## 📕 Articles
 - [K3s with k3d and MetalLB](https://blog.kubernauts.io/k3s-with-k3d-and-metallb-on-mac-923a3255c36e)
