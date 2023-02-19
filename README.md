@@ -242,6 +242,7 @@
       - [Terraform](docs/cloud-native/infrastructure-as-a-service/terraform.md) 
   - [Kubernetes](docs/cloud-native/kubernetes/kubernetes.md)    
     - [Helm](docs/cloud-native/kubernetes/helm.md) 
+    - [LoadBalancer](docs/cloud-native/kubernetes/load-balancer.md)
     - [Ingress Controller](docs/cloud-native/kubernetes/ingress-controller.md) 
     - [K3s](docs/cloud-native/kubernetes/k3s.md) 
     - [TLS](docs/cloud-native/kubernetes/tls.md)
