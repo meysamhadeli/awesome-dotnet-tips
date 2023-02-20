@@ -9,6 +9,7 @@
 - [Set up Ingress on Minikube with the NGINX Ingress Controller](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
 - [Installing NGINX Ingress Controller](https://docs.k0sproject.io/v1.25.4+k0s.0/examples/nginx-ingress/)
 - [Configuring Traefik 2 Ingress for Kubernetes](https://docs.technotim.live/posts/k3s-traefik-rancher/)
+- [Minikube with ingress example not working](https://stackoverflow.com/questions/58561682/minikube-with-ingress-example-not-working)
 
 ## 📺 Videos
 - [Kubernetes Ingress Tutorial for Beginners | simply explained](https://www.youtube.com/watch?v=80Ew_fsV4rM&t=359s)
