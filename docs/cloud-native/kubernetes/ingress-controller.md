@@ -2,6 +2,7 @@
 
 ## 📘 Resources 
 - [Traefik Docs](https://doc.traefik.io/traefik/)
+- [Install Traefik](https://doc.traefik.io/traefik/getting-started/install-traefik/)
 - [Ingress - TLS](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 
 ## 📕 Articles
@@ -10,6 +11,7 @@
 - [Installing NGINX Ingress Controller](https://docs.k0sproject.io/v1.25.4+k0s.0/examples/nginx-ingress/)
 - [Configuring Traefik 2 Ingress for Kubernetes](https://docs.technotim.live/posts/k3s-traefik-rancher/)
 - [Minikube with ingress example not working](https://stackoverflow.com/questions/58561682/minikube-with-ingress-example-not-working)
+- [Identity Server and NGINX Ingress Controller in Kubernetes](https://medium.com/@christopherlenard/identity-server-and-nginx-ingress-controller-in-kubernetes-7146c22a2466)
 
 ## 📺 Videos
 - [Kubernetes Ingress Tutorial for Beginners | simply explained](https://www.youtube.com/watch?v=80Ew_fsV4rM&t=359s)
