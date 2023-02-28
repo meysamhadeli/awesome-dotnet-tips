@@ -1,5 +1,8 @@
 # .Net 7
 
+## 📝 Articles
+- [Handle errors in ASP.NET Core web APIs](https://learn.microsoft.com/en-us/aspnet/core/web-api/handle-errors?view=aspnetcore-7.0)
+
 ## 📺 Videos
 - [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)
 - [The NEW Rate Limiter of .NET 7 is AWESOME](https://www.youtube.com/watch?v=gMTvNnKt3AA)
