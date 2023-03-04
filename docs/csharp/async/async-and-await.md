@@ -45,6 +45,7 @@
 - [Async Debugging Part 2](https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Async-Debugging-Part-2)
 - [Filip Ekberg - Back to Basics: Efficient Async and Await - NDC London 2022](https://www.youtube.com/watch?v=R3u4Gb7mazE)
 - [How to await ANYTHING in C#](https://www.youtube.com/watch?v=ileC_qyLdD4)
+- [Stop using async void in C#! Do this instead.](https://www.youtube.com/watch?v=ZFWxSQ-KjUc)
 
 ## Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).

@@ -21,3 +21,4 @@
 - [Is awaiting a Task instead of returning it directly in C# actually slower?](https://www.youtube.com/watch?v=Q2zDatDVnO0)
 - [Best Practices for Using async and await, by Damir Arh](https://www.youtube.com/watch?v=4JHwBX_qQE0)
 - [Getting C# Code Metadata That Reflection Can’t Get](https://www.youtube.com/watch?v=aaC16Fv2zes&t=451s)
+- [Stop using async void in C#! Do this instead.](https://www.youtube.com/watch?v=ZFWxSQ-KjUc)
