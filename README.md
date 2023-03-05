@@ -26,7 +26,7 @@
     - [Configure Await](docs/csharp/async/configure-await.md)
     - [Continuations](docs/csharp/async/continuations.md)
     - [Cpu-Bound](docs/csharp/async/cpu-bound.md)
-    - [Exception Handling](docs/csharp/async/exception-handling.md)
+    - [Async Exception Handling](docs/csharp/async/async-exception-handling.md)
     - [Io-Bound](docs/csharp/async/io-bound.md)
     - [Resources](docs/csharp/async/resources.md)
     - [State Machine](docs/csharp/async/state-machine.md)
