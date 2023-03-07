@@ -35,6 +35,7 @@
 - [ASP.NET Community Standup - ASP.NET Core updates in .NET 6](https://www.youtube.com/watch?v=Mot8qAWEnj8)
 - [4 new useful APIs in .NET 6](https://www.youtube.com/watch?v=3YCdSvDXGJA)
 - [Scheduling repeating tasks with .NET 6’s NEW Timer](https://www.youtube.com/watch?v=J4JL4zR_l-0)
+- [The Awesome New Queue of .NET 6 That You Skipped](https://www.youtube.com/watch?v=4XSSC6uPFNA)
 
 ## 🚀 Samples
 - [dodyg/practical-aspnetcore/tree/net5.0/projects/net6](https://github.com/dodyg/practical-aspnetcore/tree/net5.0/projects/net6)

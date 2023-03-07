@@ -7,6 +7,7 @@
 - [Create a Kubernetes TLS Ingress from scratch in Minikube](https://www.youtube.com/watch?v=7K0gAYmWWho)
 - [Self signed Kubernetes SSL certificate // easy guide](https://www.youtube.com/watch?v=IQ3G8Z1myMw)
 - [Automatically Provision TLS Certificates in K8s with cert-manager](https://www.youtube.com/watch?v=JJTJfl-V_UM)
+- [Set up Lets Encrypt in Kubernetes | Cert manager tutorial](https://www.youtube.com/watch?v=QQl_xseiFIY)
 
 
 ## 📕 Articles

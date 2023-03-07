@@ -25,3 +25,4 @@
 - [C# Yield Return: What is it and how does it work?](https://www.youtube.com/watch?v=HRXkeaeImGs)
 - [The fastest way to iterate a List in C# is NOT what you think](https://www.youtube.com/watch?v=jUZ3VKFyB-A)
 - [The List Best Practice That .NET 8 Makes Possible](https://www.youtube.com/watch?v=xIA3t2Je3uQ)
+- [The Awesome New Queue of .NET 6 That You Skipped](https://www.youtube.com/watch?v=4XSSC6uPFNA)
