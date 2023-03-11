@@ -211,6 +211,8 @@
   - [Test Host](docs/testing/test-host.md)
   - [Unit Testing](docs/testing/unit-testing.md)
   - [Xunit](docs/testing/xunit.md)
+- [Design Principles](docs/design-principles/design-principles.md)  
+  - [Solid](docs/design-principles/solid.md)
 - [Design Patterns](docs/design-patterns/design-patterns.md)
   - [Adapter Pattern](docs/design-patterns/adapter-pattern.md)
   - [Builder](docs/design-patterns/builder.md)

@@ -13,6 +13,7 @@
 - [Performance Improvements in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=yNPEdaxkTZw)
 - [What's New in C# 11 | .NET Conf 2022](https://www.youtube.com/watch?v=H18CfoinPZg)
 - [High-performance services with gRPC: What's new in .NET 7 | .NET Conf 2022](https://www.youtube.com/watch?v=et_2NBk4N4Y)
+- [What's new with ASP.NET Core 7](https://www.youtube.com/watch?v=tWXscwXNbBQ&t=2202s)
 
 ## 🚀 Samples
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
