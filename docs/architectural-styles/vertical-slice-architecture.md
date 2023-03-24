@@ -43,6 +43,7 @@
 - [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Choosing Between using Clean/Onion or Vertical Slice Architecture for Enterprise Apps in .NET](https://www.reddit.com/r/dotnet/comments/lw13r2/choosing_between_using_cleanonion_or_vertical/)
 - [Architecting for maintainability through Vertical Slices](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices)
+- [Vertical Slice Architecture vs Clean Architecture](https://meysamhadeli.com/vertical-slice-architecture-vs-clean-architecture/)
 
 ## 📺 Videos
 

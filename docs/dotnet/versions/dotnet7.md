@@ -2,6 +2,7 @@
 
 ## 📝 Articles
 - [Handle errors in ASP.NET Core web APIs](https://learn.microsoft.com/en-us/aspnet/core/web-api/handle-errors?view=aspnetcore-7.0)
+- [Problem Details in .Net 7](https://meysamhadeli.com/problem-details-in-dotnet-7/)
 
 ## 📺 Videos
 - [How Controller behaviour changed in .NET 7](https://www.youtube.com/watch?v=r5VJIz25PPY)

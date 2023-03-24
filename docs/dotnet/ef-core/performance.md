@@ -8,3 +8,6 @@
 - [Efficient Querying](https://docs.microsoft.com/en-us/ef/core/performance/efficient-querying#beware-of-lazy-loading)
 - [Efficient Updating](https://docs.microsoft.com/en-us/ef/core/performance/efficient-updating)
 - [Advanced Performance Topics](https://docs.microsoft.com/en-us/ef/core/performance/advanced-performance-topics?tabs=with-constant)
+
+## 📺 Videos
+- [Entity Framework Core vs Dapper Performance in 2023](https://www.youtube.com/watch?v=Q4LtKa_HTHU)
