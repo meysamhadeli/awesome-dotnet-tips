@@ -8,6 +8,7 @@
 ## 📦 Libraries
 - [Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper.
 - [mrtaikandi/MapTo](https://github.com/mrtaikandi/MapTo) - A convention based object to object mapper using Roslyn source generator
+- [riok/mapperly](https://github.com/riok/mapperly)
 
 ## 📹 Videos
 - [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
