@@ -12,3 +12,4 @@
 ## 📹 Videos
 - [Mapster, the best .NET mapper that you are (probably) not using](https://www.youtube.com/watch?v=UIslFVEHkzA)
 - [Domain to Contract mapping with Automapper | ASP.NET Core 5 REST API Tutorial 20](https://www.youtube.com/watch?v=1Dz5Lfo6mqo)
+- [The Best .NET Mapper to Use in 2023](https://www.youtube.com/watch?v=U8gSdQN2jWI)
