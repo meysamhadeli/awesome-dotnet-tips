@@ -2,6 +2,8 @@
 
 ## References
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/current/)
+- [Logical and Physical Replication](https://www.npgsql.org/doc/replication.html)
+- [Write-Ahead Logging (WAL)](https://www.postgresql.org/docs/current/wal-intro.html)
 
 ## 📕 Articles
 - [PostgreSQL Vs. MongoDB](https://blog.panoply.io/postgresql-vs-mongodb)
