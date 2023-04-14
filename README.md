@@ -66,6 +66,8 @@
   - [EF-Core](docs/dotnet/ef-core/ef-core.md)
     - [EF-Core5](docs/dotnet/ef-core/ef-core5.md)
     - [EF-Core6](docs/dotnet/ef-core/ef-core6.md)
+    - [EF-Core7](docs/dotnet/ef-core/ef-core7.md)
+    - [EF-Core8](docs/dotnet/ef-core/ef-core8.md)
     - [EF-Core Migration](docs/dotnet/ef-core/ef-core-migration.md)
     - [Eager Loading](docs/dotnet/ef-core/eager-loading.md)
     - [Explicit Loading](docs/dotnet/ef-core/explicit-loading.md)
@@ -200,6 +202,7 @@
   - [Refresh Token](docs/security/refresh-token.md)
   - [Revoke Token](docs/security/revoke-token.md)
   - [Secret Management](docs/security/secret-management.md)
+  - [Security Injection](security-injection.md)
 - [Testing](docs/testing/testing.md)
   - [Acceptance Testing](docs/testing/acceptance-testing.md)
   - [Architectural Testing](docs/testing/architectural-testing.md)
@@ -263,7 +266,7 @@
     - [Heroku](docs/cloud-native/platform-as-a-service/heroku.md)
     - [Netlify](docs/cloud-native/platform-as-a-service/netlify.md)
     - [Rancher](docs/cloud-native/platform-as-a-service/rancher.md)
-
+- [AI](docs/ai.md)
 
 # Thanks :pray:
 Thanks from all the authors of contents for the valuable link in `.Net` that gathered here.
