@@ -169,6 +169,7 @@
   - [Tools](docs/microservices/tools/tools.md)
     - [Dapr](docs/microservices/tools/dapr.md)
     - [Masstransit](docs/microservices/tools/mass-transit.md)
+    - [Wolworine](docs/microservices/tools/wolworine.md)
     - [Steeltoe](docs/microservices/tools/steeltoe.md)
     - [Tye](docs/microservices/tools/tye.md)
   - [BFF](docs/microservices/bff.md)
