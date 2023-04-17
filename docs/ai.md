@@ -9,6 +9,7 @@
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
+- [Auto-GPT Tutorial - Create Your Personal AI Assistant ](https://www.youtube.com/watch?v=jn8n212l3PQ)
 
 ## 📦 Libraries
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
