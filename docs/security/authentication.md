@@ -77,6 +77,7 @@
 - [Intro to JWT - Step by Step](https://www.youtube.com/watch?v=U8HnsWU5zkE&ab_channel=MohamadLawand)
 - [ASP.NET Core In Depth Cookie Authentication Explanation](https://www.youtube.com/watch?v=hw2B6SZj8y8)
 - [ASP.NET Core JWT Authentication](https://www.youtube.com/watch?v=8FvN5bhVYxY)
+- [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g)
 
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)

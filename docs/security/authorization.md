@@ -41,6 +41,7 @@
 - [Developing Flexible Authorization Capabilities in ASP.NET Core with Jason Taylor](https://www.youtube.com/watch?v=OW5wBERdhQU)
 - [ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=x7NxbZNboIc)
 - [Implementing API Key Authentication in ASP.NET Core](https://www.youtube.com/watch?v=GrJJXixjR8M)
+- [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g)
 
 ## 🚀 Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)

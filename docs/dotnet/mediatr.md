@@ -28,6 +28,7 @@
 - [You DON'T want an In-Memory Event Bus like MediatR](https://www.youtube.com/watch?v=KCvsk5tTP3w)
 - [Clean Message Bus Consumers with MediatR in .NET](https://www.youtube.com/watch?v=wnqBmv1RJNE)
 - [Getting Started With MediatR and Vertical Slices in .NET](https://www.youtube.com/watch?v=Ve__md8LeDY)
+- [Forget Everything You Know About MediatR!](https://www.youtube.com/watch?v=6UtjtoxzQvA)
 
 ## 🚀 Samples
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 
