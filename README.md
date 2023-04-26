@@ -223,6 +223,7 @@
   - [DRY](docs/design-principles/dry.md)
   - [Kiss](docs/design-principles/kiss.md)
   - [Coupling - Cohesion](docs/design-principles/cohesion-coupling.md)
+  - [CAP Theorem](docs/design-principles/cap-theorem.md)
   - [Encapsulation](docs/design-principles/encapsulation.md)
   - [Fail Fast](docs/design-principles/fail-fast.md)
 - [Design Patterns](docs/design-patterns/design-patterns.md)
