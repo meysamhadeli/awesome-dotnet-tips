@@ -30,6 +30,7 @@
 - [Getting Started With MediatR and Vertical Slices in .NET](https://www.youtube.com/watch?v=Ve__md8LeDY)
 - [Forget Everything You Know About MediatR!](https://www.youtube.com/watch?v=6UtjtoxzQvA)
 - [Move Cross-Cutting Concerns Where They Should Be in .NET](https://www.youtube.com/watch?v=HRt7KIkdIaw)
+- [Cleaning up Your Validation Code in .NET](https://www.youtube.com/watch?v=J2tBNTDMf1o)
 
 ## 🚀 Samples
 - [ardalis/MediatRAspNetCore](https://github.com/ardalis/MediatRAspNetCore) 
