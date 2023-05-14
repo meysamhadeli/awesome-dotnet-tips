@@ -11,6 +11,7 @@
 - [MassTransit v8 - Open Telemetry](https://www.youtube.com/watch?v=WsTYClGrOVI)
 - [MassTransit Transactional Outbox Follow Up](https://www.youtube.com/watch?v=Hv5pZoAIWXg)
 - [MassTransit Kafka, Configuring Topic Producers and Consumers](https://www.youtube.com/watch?v=F5NYsY2qtIQ)
+- [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
 
 ## 📕 Articles
 - [Kafka](https://masstransit-project.com/usage/riders/kafka.html)
