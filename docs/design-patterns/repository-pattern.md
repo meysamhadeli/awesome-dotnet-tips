@@ -21,10 +21,12 @@
 - [Repository Pattern in ASP.NET Core with Adapter Pattern for easy Maintenance & better Unit Testing](https://procodeguide.com/programming/repository-pattern-in-aspnet-core/)
 - [Should Controllers Reference Repositories or Services](https://ardalis.com/should-controllers-reference-repositories-services/)
 - [Repository Pattern - A controversy explained](https://steven-giesel.com/blogPost/9fa7fe83-3ede-4ecb-ab27-4012b1333c0e)
+
 ## 📺 Videos
 - [Repository Pattern with C# and Entity Framework - Mosh Hamedani](https://www.youtube.com/watch?v=rtXpYpZdOzM)
 - [Step by Step - Repository Pattern and Unit of Work with Asp.Net Core 5](https://www.youtube.com/watch?v=-jcf1Qq8A-4)
 - [Should you use the Repository Pattern? With CQRS, Yes and No!](https://www.youtube.com/watch?v=01lygxvbao4)
+- [Have you replaced your DB because of the Repository Pattern?](https://www.youtube.com/watch?v=EwKhyp2kHME)
 
 ## 🚀 Samples
 - [dotnet-architecture/eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb/blob/15bd78ee5b753a51fd9f8214a6ee8f5007e2d40f/src/Infrastructure/Data/EfRepository.cs)
