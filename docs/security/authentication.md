@@ -56,6 +56,8 @@
 - [Jwt Claim Names](https://stackoverflow.com/a/50012477/581476)
 - [Missing Claims in the ASP.NET Core 2 OpenID Connect Handler?](https://leastprivilege.com/2017/11/15/missing-claims-in-the-asp-net-core-2-openid-connect-handler/)
 - [AuthenticationScheme: "Identity.Application" was not authenticated](https://github.com/IdentityServer/IdentityServer4/issues/1525)
+- [Making authenticated cross-origin requests with ASP.NET Core Identity](https://andrewlock.net/making-authenticated-cross-origin-requests-with-aspnetcore-identity/)
+
 ## 📹 Videos
 
 - [ASP.NET Core 3 - Authentication - Ep.1 Basics (Claims/ClaimsIdentity/ClaimsPrincipal/Authorization)](https://www.youtube.com/watch?v=Fhfvbl_KbWo)
