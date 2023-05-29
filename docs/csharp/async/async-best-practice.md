@@ -16,6 +16,8 @@
 - [Async code smells and how to track them down with analyzers - Part II](https://cezarypiatek.github.io/post/async-analyzers-p2/)
 - [Two Ways to Do Async/Await in ASP.NET Wrong (and How to Fix Them)](https://exceptionnotfound.net/two-ways-to-do-async-await-in-asp-net-wrong-and-how-to-fix-them/)
 - [Asynchronous C#: Cherry on the top 🍒 (Tips and Tricks)](https://dev.to/paulafahmy/asynchronous-c-cherry-on-the-top-tips-and-tricks-4eod)
+- [Asynchronous programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios)
+
 ## 📺 Videos
 
 - [Is awaiting a Task instead of returning it directly in C# actually slower?](https://www.youtube.com/watch?v=Q2zDatDVnO0)

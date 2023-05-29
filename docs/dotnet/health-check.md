@@ -12,3 +12,6 @@
 - [ASP.NET Core health checks quick start](https://gunnarpeipman.com/aspnet-core-health-checks/)
 ## Libraries
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
+
+## 📹 Videos
+- [The Best Way to Add Health Checks in Any .NET App](https://www.youtube.com/watch?v=p2faw9DCSsY)

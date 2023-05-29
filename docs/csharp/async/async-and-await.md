@@ -36,6 +36,7 @@
 - [Asynchronous Programming with Async and Await in ASP.NET Core](https://code-maze.com/asynchronous-programming-with-async-and-await-in-asp-net-core/)
 - [Introducing AsyncUtilities](http://blog.i3arnon.com/2018/02/05/async-utilities/)
 - [C# async await explained](https://blog.ndepend.com/c-async-await-explained/)
+- [Asynchronous programming](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios)
 
 ## 📹 Videos
 - [Why Asynchronous Web API Endpoints | RESTful | async await](https://www.youtube.com/watch?v=TnfCu7Osy-Q&ab_channel=FrankLiu)
