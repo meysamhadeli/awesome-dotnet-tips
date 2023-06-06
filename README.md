@@ -178,6 +178,7 @@
   - [Composite-Ui](docs/microservices/composite-ui.md)
   - [Outbox Pattern](docs/microservices/outbox-pattern.md)
   - [Saga](docs/microservices/saga.md)
+  - [Distributed Lock](docs/microservices/distributed-lock.md)
 - [CQRS](docs/cqrs.md)
 - [Event Sourcing](docs/event-sourcing.md)
 - [Messaging](docs/messaging/messaging.md)
