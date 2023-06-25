@@ -33,6 +33,8 @@
 - [Introduction to Authorisation in ASP.NET Core](https://andrewlock.net/introduction-to-authorisation-in-asp-net-core/)
 - [Custom authorisation policies and requirements in ASP.NET Core](https://andrewlock.net/custom-authorisation-policies-and-requirements-in-asp-net-core/)
 - [Global Authorization Filter in .Net Core: .Net Core Security Part – V](https://neelbhatt.com/2018/03/23/global-authorization-filter-in-net-core-net-core-security-part-v/)
+- [Duende Identity Server: Risks of Sharing Clients and Tokens](https://hamidmosalla.com/2023/05/23/duende-identity-server-risks-of-sharing-clients-and-tokens/)
+
 ## 📹 Videos
 - [ASP.NET Core 3 - Authentication - Ep.3 Authorization (All about Policies and Claims)](https://www.youtube.com/watch?v=RBMO_hruKaI)
 - [Implementing authorization in web applications and APIs - Dominick Baier & Brock Allen](https://www.youtube.com/watch?v=EJeZ3YNnqz8)
@@ -42,6 +44,7 @@
 - [ASP.NET Core Dynamic Authorization (.NET 7 Minimal Apis C#)](https://www.youtube.com/watch?v=x7NxbZNboIc)
 - [Implementing API Key Authentication in ASP.NET Core](https://www.youtube.com/watch?v=GrJJXixjR8M)
 - [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g)
+- [The Auth Setting That Everyone MUST Change in .NET](https://www.youtube.com/watch?v=meBxWjA_2YY&t=23s)
 
 ## 🚀 Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)

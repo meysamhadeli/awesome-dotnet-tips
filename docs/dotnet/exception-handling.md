@@ -49,6 +49,7 @@
 - [HTTP API Problem Details in ASP.NET Core](https://codeopinion.com/http-api-problem-details-in-asp-net-core/)
 - [Problem Details: A standard way of specifying errors in HTTP API responses](https://lurumad.github.io/problem-details-an-standard-way-for-specifying-errors-in-http-api-responses-asp.net-core)
 - [Handle errors in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/error-handling?view=aspnetcore-7.0)
+- [ASP.NET Core 8: Improved exception handling with IExceptionHandler](https://anthonygiretti.com/2023/06/14/asp-net-core-8-improved-exception-handling-with-iexceptionhandler/)
 
 ## 📹 Videos
 
