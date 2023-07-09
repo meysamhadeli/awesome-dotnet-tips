@@ -58,6 +58,20 @@
 - [Delete Single or multiple or All keys in Redis .NET – Guidelines](https://www.thecodebuzz.com/delete-keys-all-keys-redis-cache-cluster-net-csharp-net-core/)
 - [Get all keys from Redis Cache in C#.NET](https://www.thecodebuzz.com/get-all-keys-from-redis-cache-in-c-net/)
 
+## Data Types
+- [Strings](https://redis.io/docs/data-types/strings/)
+- [JSON](https://redis.io/docs/data-types/json/)
+- [Lists](https://redis.io/docs/data-types/lists/)
+- [Sets](https://redis.io/docs/data-types/sets/)
+- [Hashes](https://redis.io/docs/data-types/hashes/)
+- [Sorted Sets](https://redis.io/docs/data-types/sorted-sets/)
+- [Streams](https://redis.io/docs/data-types/streams/)
+- [Geospatial](https://redis.io/docs/data-types/geospatial/)
+- [Bitmaps](https://redis.io/docs/data-types/bitmaps/)
+- [Bitfields](https://redis.io/docs/data-types/bitfields/)
+- [Probabilistic](https://redis.io/docs/data-types/probabilistic/)
+- [Time Series](https://redis.io/docs/data-types/timeseries/)
+
 ## Use Cases
 
 - [Messaging](https://redislabs.com/solutions/use-cases/messaging/)
