@@ -1,5 +1,0 @@
-# Monitoring
-
-## 📕 Articles
-
-## 📺 Videos

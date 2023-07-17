@@ -8,3 +8,6 @@
 - [How to get ASP.NET Core logs in the output of xUnit tests](https://www.meziantou.net/how-to-get-asp-net-core-logs-in-the-output-of-xunit-tests.htm)
 ## Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
+
+## 📺 Videos
+- [xUnit or NUnit? Picking the Right Testing Library](https://www.youtube.com/watch?v=JD2ZMxCPnqc)

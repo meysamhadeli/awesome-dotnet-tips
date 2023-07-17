@@ -151,7 +151,6 @@
     - [Distributed Transactions](docs/microservices/observability/distributed-transactions.md)
     - [Logging](docs/microservices/observability/logging.md)
     - [Metrics](docs/microservices/observability/metrics.md)
-    - [Monitoring](docs/microservices/observability/monitoring.md)
     - [Observability](docs/microservices/observability/observability.md)
   - [Resiliency](docs/microservices/resiliency/resiliency.md)
   - [Scalibility](docs/microservices/scalibility/scaling.md)
