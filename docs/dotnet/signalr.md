@@ -13,6 +13,7 @@
 - [ASP.NET Core SignalR - Feature Overview](https://www.youtube.com/watch?v=q5ZHAUUAlQE)
 - [ASP.NET Core SignalR - Streams](https://www.youtube.com/watch?v=JVFWCsz-oQY)
 - [ASP.NET Core SignalR - Authentication](https://www.youtube.com/watch?v=mrCxfifTepU)
+- [Getting Started with .NET MAUI and SignalR: Real-Time Chat App](https://www.youtube.com/watch?v=pDr0Hx67guk&t)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
