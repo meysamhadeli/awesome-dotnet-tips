@@ -11,3 +11,4 @@
 
 ## 📺 Videos
 - [xUnit or NUnit? Picking the Right Testing Library](https://www.youtube.com/watch?v=JD2ZMxCPnqc)
+- [5 ADVANCED xUnit.net Features You Must Know](https://www.youtube.com/watch?v=TZyJqMlDJgw)

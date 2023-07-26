@@ -10,6 +10,7 @@
 ## 📺 Videos
 
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
+- [Creating Dashboards with .NET 8’s New Metrics!](https://www.youtube.com/watch?v=A2pKhNQoQUU)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
