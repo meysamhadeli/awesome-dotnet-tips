@@ -57,6 +57,8 @@
 - [BEYOND Status Codes! Better REST HTTP API Error Responses](https://www.youtube.com/watch?v=MfTLob6teJE)
 - [The hidden cost of Exceptions in .NET](https://www.youtube.com/watch?v=2f2elFRmeLE)
 - [Don't throw exceptions in C#. Do this instead](https://www.youtube.com/watch?v=a1ye9eGTB98)
+- [The Exception Mistake You Must Never Make in C#](https://www.youtube.com/watch?v=TCiL3y2P4rA)
+
 ## Libraries
 
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
