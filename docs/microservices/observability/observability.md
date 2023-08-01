@@ -13,6 +13,7 @@
 
 - [On .NET Live - Cloud Native Patterns for .NET Developers](https://www.youtube.com/watch?v=PDdHa0ushJ0)
 - [Creating Dashboards with .NET 8’s New Metrics!](https://www.youtube.com/watch?v=A2pKhNQoQUU)
+- [Server Monitoring // Prometheus and Grafana Tutorial](https://www.youtube.com/watch?v=9TJx7QTrTyo)
 
 ## 🚀 Samples
 
