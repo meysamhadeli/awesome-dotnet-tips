@@ -77,6 +77,7 @@
 - [Testing your ASP.NET Core application - using a real database](https://josef.codes/testing-your-asp-net-core-application-using-a-real-database/)
 - [CLEANUP CODE FOR CLEANING UP QUEUES AND EXCHANGES ON RABBITMQ](https://www.planetgeek.ch/2015/08/31/cleanup-code-for-cleaning-up-queues-and-exchanges-on-rabbitmq/)
 - [Adding integration tests for permission-protected API endpoints in ASP.NET Core](https://blog.joaograssi.com/posts/2021/asp-net-core-testing-permission-protected-api-endpoints/)
+- [A simple way to configure integration tests pipeline](https://event-driven.io/en/configure_ci_for_integration_tests/)
 
 ## 📹 Videos
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
