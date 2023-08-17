@@ -16,3 +16,4 @@
 - [How Entity Framework Tries to Copy Dapper in .NET 8](https://www.youtube.com/watch?v=kPXBmyhfHZU)
 - [The New Request Short Circuiting of .NET 8](https://www.youtube.com/watch?v=rXdwX2X4-gw)
 - [Dependency Injection Is Now Complete In .NET 8!](https://www.youtube.com/watch?v=Go0HZL3vcuc)
+- [Making Your APIs Blazingly Fast in .NET 8!](https://www.youtube.com/watch?v=_bg5dGnudPs)
