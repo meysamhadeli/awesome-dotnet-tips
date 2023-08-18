@@ -172,6 +172,7 @@
     - [Masstransit](docs/microservices/tools/mass-transit.md)
     - [Wolworine](docs/microservices/tools/wolworine.md)
     - [Steeltoe](docs/microservices/tools/steeltoe.md)
+    - [Cap](docs/microservices/tools/cap.md)
     - [Tye](docs/microservices/tools/tye.md)
   - [BFF](docs/microservices/bff.md)
   - [Communication](docs/microservices/communication.md)
