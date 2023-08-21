@@ -7,6 +7,7 @@
 - [Part 3 - Comparing WebApplication.CreateBuilder() to the new CreateSlimBuilder() method](https://andrewlock.net/exploring-the-dotnet-8-preview-comparing-createbuilder-to-the-new-createslimbuilder-method/)
 - [Part 4 - Exploring the new minimal API source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-exploring-the-new-minimal-api-source-generator/)
 - [Part 5 - Replacing method calls with Interceptors (this post)](https://andrewlock.net/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors/)
+- [Part 6 - Keyed service dependency injection container support](https://andrewlock.net/exploring-the-dotnet-8-preview-keyed-services-dependency-injection-support/)
 
 ## 📺 Videos
 - [The New Built-in Guard Clauses Coming in .NET 8](https://www.youtube.com/watch?v=Ij0fu-fNLJM)
@@ -17,3 +18,4 @@
 - [The New Request Short Circuiting of .NET 8](https://www.youtube.com/watch?v=rXdwX2X4-gw)
 - [Dependency Injection Is Now Complete In .NET 8!](https://www.youtube.com/watch?v=Go0HZL3vcuc)
 - [Making Your APIs Blazingly Fast in .NET 8!](https://www.youtube.com/watch?v=_bg5dGnudPs)
+- [Background Tasks Are Finally Fixed in .NET 8](https://www.youtube.com/watch?v=XA_3CZmD9y0)
