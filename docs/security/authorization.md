@@ -45,6 +45,7 @@
 - [Implementing API Key Authentication in ASP.NET Core](https://www.youtube.com/watch?v=GrJJXixjR8M)
 - [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g)
 - [The Auth Setting That Everyone MUST Change in .NET](https://www.youtube.com/watch?v=meBxWjA_2YY&t=23s)
+- [The .NET 8 Auth Changes You Must Know About!](https://www.youtube.com/watch?v=sZnu-TyaGNk)
 
 ## 🚀 Samples
 - [joaopgrassi/authz-custom-middleware](https://github.com/joaopgrassi/authz-custom-middleware)

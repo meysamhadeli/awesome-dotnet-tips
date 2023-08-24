@@ -80,6 +80,7 @@
 - [ASP.NET Core In Depth Cookie Authentication Explanation](https://www.youtube.com/watch?v=hw2B6SZj8y8)
 - [ASP.NET Core JWT Authentication](https://www.youtube.com/watch?v=8FvN5bhVYxY)
 - [Adding JWT Authentication & Authorization in ASP.NET Core](https://www.youtube.com/watch?v=mgeuh8k3I4g)
+- [The .NET 8 Auth Changes You Must Know About!](https://www.youtube.com/watch?v=sZnu-TyaGNk)
 
 ## 🚀 Samples
 - [blowdart/AspNetAuthenticationWorkshop](https://github.com/blowdart/AspNetAuthenticationWorkshop)

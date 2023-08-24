@@ -19,3 +19,4 @@
 - [Dependency Injection Is Now Complete In .NET 8!](https://www.youtube.com/watch?v=Go0HZL3vcuc)
 - [Making Your APIs Blazingly Fast in .NET 8!](https://www.youtube.com/watch?v=_bg5dGnudPs)
 - [Background Tasks Are Finally Fixed in .NET 8](https://www.youtube.com/watch?v=XA_3CZmD9y0)
+- [The .NET 8 Auth Changes You Must Know About!](https://www.youtube.com/watch?v=sZnu-TyaGNk)
