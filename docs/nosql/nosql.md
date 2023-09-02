@@ -17,6 +17,7 @@
 - [SQL vs NoSQL: The Differences](https://www.sitepoint.com/sql-vs-nosql-differences/)
 - [SQL & NOSQL: A BRIEF HISTORY](https://blog.grio.com/2015/11/sql-nosql-a-brief-history.html)
 - [SQL vs NoSQL](https://academind.com/tutorials/sql-vs-nosql)
+- [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 
 ## 📺 Videos
 

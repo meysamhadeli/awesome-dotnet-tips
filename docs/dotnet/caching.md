@@ -57,6 +57,8 @@
 - [Redis-Dependency Injection of the ConnectionMultiplexer – Best Practices](https://www.thecodebuzz.com/redis-dependency-injection-connectionmultiplexer-redis-cache-netcore-csharp/)
 - [Delete Single or multiple or All keys in Redis .NET – Guidelines](https://www.thecodebuzz.com/delete-keys-all-keys-redis-cache-cluster-net-csharp-net-core/)
 - [Get all keys from Redis Cache in C#.NET](https://www.thecodebuzz.com/get-all-keys-from-redis-cache-in-c-net/)
+- [MongoDB vs. Redis:Which Database Should You Use](https://www.integrate.io/blog/mongodb-vs-redis/)
+- [Redis as a Database](https://medium.com/wix-engineering/redis-as-a-database-f9df579b09c0)
 
 ## Data Types
 - [Strings](https://redis.io/docs/data-types/strings/)
