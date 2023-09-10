@@ -8,6 +8,7 @@
 - [Configure the example app to use OpenTelemetry's Prometheus exporter](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/metrics-collection#configure-the-example-app-to-use-opentelemetrys-prometheus-exporter)
 - [.NET observability with OpenTelemetry](https://learn.microsoft.com/en-us/dotnet/core/diagnostics/observability-with-otel)
 - [Track API usage with Prometheus and Grafana in ASP.Net core](https://medium.com/@niteshsinghal85/track-api-usage-with-prometheus-and-grafana-in-asp-net-core-cfdf03346b4)
+- [Observing .NET microservices with OpenTelemetry - logs, traces and metrics](https://blog.codingmilitia.com/2023/09/05/observing-dotnet-microservices-with-opentelemetry-logs-traces-metrics/)
 
 ## 📺 Videos
 
@@ -18,6 +19,7 @@
 ## 🚀 Samples
 
 - [niteshsinghal85/blogs/tree/main/TrackAPIUsage](https://github.com/niteshsinghal85/blogs/tree/main/TrackAPIUsage)
+- [joaofbantunes/DotNetMicroservicesObservabilitySample](https://github.com/joaofbantunes/DotNetMicroservicesObservabilitySample)
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>

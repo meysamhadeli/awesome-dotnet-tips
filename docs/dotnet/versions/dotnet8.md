@@ -8,6 +8,8 @@
 - [Part 4 - Exploring the new minimal API source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-exploring-the-new-minimal-api-source-generator/)
 - [Part 5 - Replacing method calls with Interceptors (this post)](https://andrewlock.net/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors/)
 - [Part 6 - Keyed service dependency injection container support](https://andrewlock.net/exploring-the-dotnet-8-preview-keyed-services-dependency-injection-support/)
+- [Part 7 - Form binding in minimal APIs](https://andrewlock.net/exploring-the-dotnet-8-preview-form-binding-in-minimal-apis/)
+- [Part 8 - Introducing the Identity API endpoints](https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/)
 
 ## 📺 Videos
 - [The New Built-in Guard Clauses Coming in .NET 8](https://www.youtube.com/watch?v=Ij0fu-fNLJM)
