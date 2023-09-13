@@ -15,3 +15,6 @@
 - [Tackling cross-cutting concerns with a mediator pipeline](https://lostechies.com/jimmybogard/2014/09/09/tackling-cross-cutting-concerns-with-a-mediator-pipeline/)
 - [MediatR Pipeline Examples](https://lostechies.com/jimmybogard/2016/10/13/mediatr-pipeline-examples/)
 - [Mediator Behaviors](https://github.com/jbogard/MediatR/wiki/Behaviors)
+
+## 📺 Videos
+- [The Smart Way of Using the Decorator Pattern in C#](https://www.youtube.com/watch?v=KxE7VK3Mj6g)
