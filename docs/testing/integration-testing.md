@@ -94,6 +94,7 @@
 - [Pimp your testing strategy for micro services](https://www.youtube.com/watch?v=mjpCsL-Wpos)
 - [The cleanest way to use Docker for testing in .NET](https://www.youtube.com/watch?v=8IRNC7qZBmk)
 - [Testing your C# code reliably by freezing it in time](https://www.youtube.com/watch?v=Q1_YkcPwpqY)
+- [The Common Entity Framework Mistake You MUST Fix](https://www.youtube.com/watch?v=K1-n2EoPxiY)
 
 ## Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.

@@ -10,6 +10,8 @@
 - [Part 6 - Keyed service dependency injection container support](https://andrewlock.net/exploring-the-dotnet-8-preview-keyed-services-dependency-injection-support/)
 - [Part 7 - Form binding in minimal APIs](https://andrewlock.net/exploring-the-dotnet-8-preview-form-binding-in-minimal-apis/)
 - [Part 8 - Introducing the Identity API endpoints](https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/)
+- [Should you use the .NET 8 Identity API endpoints?](https://andrewlock.net/should-you-use-the-dotnet-8-identity-api-endpoints/)
+- [Can you use the .NET 8 Identity API endpoints with IdentityServer?](https://andrewlock.net/can-you-use-the-dotnet-8-identity-api-endpoints-with-identityserver/)
 
 ## 📺 Videos
 - [The New Built-in Guard Clauses Coming in .NET 8](https://www.youtube.com/watch?v=Ij0fu-fNLJM)
@@ -22,3 +24,4 @@
 - [Making Your APIs Blazingly Fast in .NET 8!](https://www.youtube.com/watch?v=_bg5dGnudPs)
 - [Background Tasks Are Finally Fixed in .NET 8](https://www.youtube.com/watch?v=XA_3CZmD9y0)
 - [The .NET 8 Auth Changes You Must Know About!](https://www.youtube.com/watch?v=sZnu-TyaGNk)
+- [The New Way of Calling Your Code in .NET 8 Is INSANE](https://www.youtube.com/watch?v=WqeSRUXJ9VM)
