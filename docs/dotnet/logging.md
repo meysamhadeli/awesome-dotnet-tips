@@ -72,6 +72,7 @@
 - [You are doing .NET logging wrong. Let's fix it](https://www.youtube.com/watch?v=bnVfrd3lRv8&t=12s)
 - [High-performance logging in .NET, the proper way](https://www.youtube.com/watch?v=a26zu-pyEyg)
 - [Stop using String Interpolation when Logging in .NET](https://www.youtube.com/watch?v=6zoMd_FwSwQ)
+- [The Missing Piece of Your .NET Logs](https://www.youtube.com/watch?v=aSbZ0y3nPJM)
 
 ## Libraries
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core

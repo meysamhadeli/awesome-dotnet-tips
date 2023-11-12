@@ -45,6 +45,7 @@
 - [Architecting for maintainability through Vertical Slices](https://www.ghyston.com/insights/architecting-for-maintainability-through-vertical-slices)
 - [Vertical Slice Architecture vs Clean Architecture](https://meysamhadeli.com/vertical-slice-architecture-vs-clean-architecture/)
 - [Vertical Slices in practice](https://event-driven.io/en/-vertical_slices_in_practice/)
+- [Vertical Slice Architecture in ASP.NET Core](https://blog.ndepend.com/vertical-slice-architecture-in-asp-net-core/)
 
 ## 📺 Videos
 

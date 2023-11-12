@@ -18,6 +18,9 @@
 - [Introduction to integration testing with xUnit and TestServer in ASP.NET Core](https://andrewlock.net/introduction-to-integration-testing-with-xunit-and-testserver-in-asp-net-core/)
 - [AUTOMATED TESTS: THE WHY](https://www.kamilgrzybek.com/blog/posts/automated-tests-the-why)
 - [AUTOMATED TESTS: TESTABILITY](https://www.kamilgrzybek.com/blog/posts/automated-tests-testability)
+- [The Testing Technique Everyone Should Use in .NET](https://www.youtube.com/watch?v=dasbRVz5MXo)
+- [How to test the logs from ILogger in .NET](https://www.meziantou.net/how-to-test-the-logs-from-ilogger-in-dotnet.htm)
+- [The Fastest Way to Run Your Tests in .NET](https://www.youtube.com/watch?v=cSwLokwEZdc)
 
 ## 📺 Videos
 - [Writing and Running Unit Tests with ReSharper](https://www.jetbrains.com/dotnet/guide/tutorials/resharper-essentials/unit-testing/)
