@@ -27,3 +27,5 @@
 - [The New Way of Calling Your Code in .NET 8 Is INSANE](https://www.youtube.com/watch?v=WqeSRUXJ9VM)
 - [Enums in .NET 8 Are FAST, but Mine Are Faster!](https://www.youtube.com/watch?v=UBY4Y6AykdM&t=10s)
 - [.NET Conf 2023 - Day 1](https://www.youtube.com/watch?v=xEFO1sQ2bUc)
+- [.NET Conf 2023 - Day 2](https://www.youtube.com/watch?v=vU-iZcxbDUk)
+- [Reviewing new .NET 8 Performance Tools](https://www.youtube.com/watch?v=TfHv9LKuZzE)
