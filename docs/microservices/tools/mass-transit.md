@@ -19,6 +19,7 @@
 - [MassTransit Transactional Outbox Follow Up](https://www.youtube.com/watch?v=Hv5pZoAIWXg)
 - [MassTransit Kafka, Configuring Topic Producers and Consumers](https://www.youtube.com/watch?v=F5NYsY2qtIQ)
 - [Build Clean Messaging in .NET with MassTransit](https://www.youtube.com/watch?v=4FFYefcx4Bg)
+- [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
 
 ## 🚀 Samples
 - [markgossa/Reference-Event-Driven-Architecture](https://github.com/markgossa/Reference-Event-Driven-Architecture)
