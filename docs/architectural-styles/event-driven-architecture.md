@@ -71,6 +71,8 @@
 - [Event-Driven Architecture: I do not think it means what you think it means](https://www.youtube.com/watch?v=iAA7PTqs4xY)
 - [Change Data Capture + Event Driven Architecture](https://www.youtube.com/watch?v=ARWNnnDGPag)
 - [Speeding up Queries by Pre-computation & Transformation](https://www.youtube.com/watch?v=hQVisFBAQio)
+- [Beware! Anti-patterns in Event-Driven Architecture](https://www.youtube.com/watch?v=ybfOhW4O0nQ)
+
 ## Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 
