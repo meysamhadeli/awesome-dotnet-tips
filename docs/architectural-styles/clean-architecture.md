@@ -70,6 +70,7 @@
 - [Why is Clean Architecture so Popular?](https://www.youtube.com/watch?v=g0XmFpmvsDk)
 - [Clean Architecture with ASP.NET Core 7 | .NET Conf 2022](https://www.youtube.com/watch?v=j6u7Pw6dyUw)
 - [Clean Architecture vs Vertical Slice Architecture](https://www.youtube.com/watch?v=_yJJRn2_SFg)
+- [Battle Of The Software Architectures: Which One Reigns Supreme?](https://www.youtube.com/watch?v=VbuJaH7mKIc)
 
 ## 🚀 Samples
 
