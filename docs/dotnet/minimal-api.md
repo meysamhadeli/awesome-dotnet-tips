@@ -44,6 +44,7 @@
 - [felipeoriani/MinimalBlogApi](https://github.com/felipeoriani/MinimalBlogApi)
 - [bradygaster/TodoApp](https://github.com/bradygaster/TodoApp)
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
+- [ricardodemauro/URLShortnerMinimalApi](https://github.com/ricardodemauro/URLShortnerMinimalApi)
 
 
 ## Libraries
