@@ -3,7 +3,6 @@
 ## 📘 Resources
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 ## 📕 Articles
