@@ -3,7 +3,6 @@
 ## 📘 Resources
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
-- [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 
 ## 📕 Articles
 - [Reviewing GitHub Copilot by Building a Deck of Cards](https://programmingpercy.tech/blog/reviewing-github-copilot-by-building-deck-of-cards/)
