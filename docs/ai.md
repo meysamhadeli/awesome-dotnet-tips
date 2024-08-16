@@ -27,3 +27,6 @@
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt)
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+- [teilomillet/gollm](https://github.com/teilomillet/gollm)
+- [microsoft/autogen](https://github.com/microsoft/autogen)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui)
