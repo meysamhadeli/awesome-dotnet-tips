@@ -9,6 +9,8 @@
 - [RabbitMQ Use cases: Explaining message queues and when to use them](https://www.cloudamqp.com/blog/rabbitmq-use-cases-explaining-message-queues-and-when-to-use-them.html)
 - [When to use RabbitMQ or Apache Kafka](https://www.cloudamqp.com/blog/when-to-use-rabbitmq-or-apache-kafka.html)
 - [Part 4: RabbitMQ Exchanges, routing keys and bindings](https://www.cloudamqp.com/blog/part4-rabbitmq-for-beginners-exchanges-routing-keys-bindings.html)
+- [Native AMQP 1.0](https://www.rabbitmq.com/blog/2024/08/05/native-amqp)
+
 ## 📺 Videos
 - [The best online training tool for RabbitMQ](https://training.cloudamqp.com/)
 - [What is RabbitMQ?](https://youtu.be/7rkeORD4jSw)
