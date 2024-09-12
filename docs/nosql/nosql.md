@@ -39,3 +39,5 @@
 - [Horizontal Scaling in Azure SQL Database](https://www.youtube.com/watch?v=ISs__Ub9oh8)
 - [Introduction to NoSQL • Martin Fowler • GOTO 2012](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 - [Why and how NoSQL databases can scale "infinitely" | Understanding NoSQL and partitioning](https://www.youtube.com/watch?v=Q-lHpZBh3lQ)
+- [SQL vs. NoSQL Explained (in 4 Minutes)](https://www.youtube.com/watch?v=_Ss42Vb1SU4)
+- [7 Must-know Strategies to Scale Your Database](https://www.youtube.com/watch?v=_1IKwnbscQU)

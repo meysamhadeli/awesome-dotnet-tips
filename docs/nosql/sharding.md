@@ -33,3 +33,5 @@
 - [Scaling Databases - Web Development](https://www.youtube.com/watch?v=dkhOZOmV7Fo)
 - [Python CRUD App hits 2 million rows, Should I Shard my Database?](https://www.youtube.com/watch?v=aXD4tWbkoJo)
 - [Database Sharding Explained | Database Partitioning | Database Scaling Tutorial](https://www.youtube.com/watch?v=VhsMXWb5Eew)
+- [The Basics of Database Sharding and Partitioning in System Design](https://www.youtube.com/watch?v=be6PLMKKSto)
+- [Consistent Hashing | Algorithms You Should Know #1](https://www.youtube.com/watch?v=UF9Iqmg94tk)

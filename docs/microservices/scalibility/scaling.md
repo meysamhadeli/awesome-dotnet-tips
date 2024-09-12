@@ -40,6 +40,9 @@
 - [GOTO 2020 • Moving Fast at Scale • Randy Shoup](https://www.youtube.com/watch?v=R3rXXY6WZ50)
 - [GOTO 2018 • 5 Reasons to use Reactive Programming if you are not eBay • Grygoriy Gonchar](https://www.youtube.com/watch?v=DIQ9aNkjKZ8)
 - [Randy Shoup - Service Architectures at Scale Lessons from Google & eBay](https://www.youtube.com/watch?v=fhm4QnyWvUo)
+- [Vertical Vs Horizontal Scaling: Key Differences You Should Know](https://www.youtube.com/watch?v=dvRFHG2-uYs)
+- [7 Must-know Strategies to Scale Your Database](https://www.youtube.com/watch?v=_1IKwnbscQU)
+
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
 </div>

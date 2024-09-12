@@ -20,3 +20,4 @@
 ## Library
 - [TurnerSoftware/MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 - [Mongo2Go/Mongo2Go](https://github.com/Mongo2Go/Mongo2Go) - MongoDB for integration tests (.NET Core 3.0 and .NET 5.0)
+- [Horizontal Scaling In MongoDB With Replication](https://mehdihadeli.com/blog/replication-in-mongodb)
