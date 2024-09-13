@@ -88,6 +88,7 @@
 - [Why .NET's memory cache is kinda flawed](https://www.youtube.com/watch?v=Q3KzZeUudsg)
 - [Making Your APIs Blazingly Fast in .NET 8!](https://www.youtube.com/watch?v=_bg5dGnudPs)
 - [Database Caching for System Design Interviews](https://www.youtube.com/watch?v=6GY1akbxyEo)
+- [Cache Systems Every Developer Should Know](https://www.youtube.com/watch?v=dGAgxozNWFE)
 
 ## 🚀 Samples
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
