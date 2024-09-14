@@ -84,6 +84,7 @@
   - [DotNet Core](docs/dotnet/dotnet-core.md)
   - [IL](docs/dotnet/il.md)
   - [MetaPack](docs/dotnet/metapack.md)
+  - [Analyzer](docs/dotnet/analyzer.md)
   - [Action Filters](docs/dotnet/action-filters.md)
   - [Api Documentation](docs/dotnet/api-documentation.md)
   - [Api Versioning](docs/dotnet/api-versioning.md)
