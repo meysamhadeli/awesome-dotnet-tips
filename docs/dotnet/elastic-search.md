@@ -13,3 +13,4 @@
 
 ## 🚀 Samples
 - [stevejgordon/elasticsearch-demo](https://github.com/stars/meysamhadeli/lists/elastic-search)
+- [NikiforovAll/elasticsearch-dotnet-playground](https://github.com/NikiforovAll/elasticsearch-dotnet-playground)
