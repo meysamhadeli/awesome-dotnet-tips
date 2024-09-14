@@ -101,6 +101,7 @@
   - [Hosted Service](docs/dotnet/hosted-service.md)
   - [HttpClient](docs/dotnet/httpclient.md)
   - [HttpContext](docs/dotnet/httpcontext.md)
+  - [Husky](docs/dotnet/husky.md)
   - [Logging](docs/dotnet/logging.md)
   - [Caching](docs/dotnet/caching.md)
   - [Elastic Search](docs/dotnet/elastic-search.md)
