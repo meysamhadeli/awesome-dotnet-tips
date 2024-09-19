@@ -11,3 +11,4 @@
 
 ## 📺 Videos
 - [Database Replication Explained | System Design Interview Basics](https://www.youtube.com/watch?v=WG6k74VSOOU)
+- [Database Replication & Sharding Explained](https://www.youtube.com/watch?v=jLEp1XI_L6Q)

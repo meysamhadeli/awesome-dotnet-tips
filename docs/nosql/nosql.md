@@ -41,3 +41,4 @@
 - [Why and how NoSQL databases can scale "infinitely" | Understanding NoSQL and partitioning](https://www.youtube.com/watch?v=Q-lHpZBh3lQ)
 - [SQL vs. NoSQL Explained (in 4 Minutes)](https://www.youtube.com/watch?v=_Ss42Vb1SU4)
 - [7 Must-know Strategies to Scale Your Database](https://www.youtube.com/watch?v=_1IKwnbscQU)
+- [NoSQL Databases Explained: All Types & When to Use Them](https://www.youtube.com/watch?v=08Ti49jhE8s)

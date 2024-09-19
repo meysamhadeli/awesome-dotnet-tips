@@ -36,3 +36,4 @@
 - [The Basics of Database Sharding and Partitioning in System Design](https://www.youtube.com/watch?v=be6PLMKKSto)
 - [Consistent Hashing | Algorithms You Should Know #1](https://www.youtube.com/watch?v=UF9Iqmg94tk)
 - [What is Database Sharding?](https://www.youtube.com/watch?v=XP98YCr-iXQ)
+- [Database Replication & Sharding Explained](https://www.youtube.com/watch?v=jLEp1XI_L6Q)

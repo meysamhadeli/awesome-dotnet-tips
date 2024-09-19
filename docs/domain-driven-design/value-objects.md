@@ -24,6 +24,7 @@
 - [Refactoring to Value Objects](https://ardalis.com/refactoring-value-objects/)
 - [Practical DDD in Golang: Value Object](https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70)
 - [[Best practice] C# 9 Records as DDD Value Objects with EF Core 6](https://dev.to/antoniofalcao/best-practice-c-9-records-as-ddd-value-objects-with-ef-core-6-502p)
+- [A Modern Way to Create Value Objects to Solve Primitive Obsession in .NET](https://antondevtips.com/blog/a-modern-way-to-create-value-objects-to-solve-primitive-obsession-in-net)
 
 ## 📺 Videos
 - [Treating Primitive Obsession with ValueObjects | DDD in .NET](https://www.youtube.com/watch?v=h4uldNA1JUE)

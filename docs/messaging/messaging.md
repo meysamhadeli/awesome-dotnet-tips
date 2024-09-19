@@ -94,6 +94,7 @@
 - [Is Async Programming (Async/Await) Scalable?](https://www.youtube.com/watch?v=tyCdEbDCNZE)
 - [The second queue that EVERY message bus needs in .NET](https://www.youtube.com/watch?v=5F3uQWomFMY)
 - [Using your Database as a Queue? Good or bad idea?](https://www.youtube.com/watch?v=DOaDpHh1FsQ)
+- [Message Queues in System Design](https://www.youtube.com/watch?v=DYFocSiPOl8)
 
 ## 📦 Libraries
 

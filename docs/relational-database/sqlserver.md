@@ -42,3 +42,7 @@
 - [A Basic Guide to SQL Server Stored Procedures](https://www.sqlservertutorial.net/sql-server-stored-procedures/basic-sql-server-stored-procedures/)
 - [SQL Server Clustered Indexes](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-clustered-indexes/)
 - [SQL Server CREATE INDEX](https://www.sqlservertutorial.net/sql-server-indexes/sql-server-create-index/)
+
+
+## 📺 Videos
+- [The Complete SQL Tutorial: From Basics to Scaling Databases](https://www.youtube.com/watch?v=iuiVei3criE)
