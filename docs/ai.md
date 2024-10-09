@@ -8,6 +8,7 @@
 - [Reviewing GitHub Copilot by Building a Deck of Cards](https://programmingpercy.tech/blog/reviewing-github-copilot-by-building-deck-of-cards/)
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://programmingpercy.tech/blog/chatgpt-might-make-developers-unemployed-in-years/)
 - [Using Polyglot Notebooks and Kernel Memory in Your Day-to-Day Tasks](https://nikiforovall.github.io/dotnet/ai/2024/09/11/notebook-agent.html)
+- [Introducing Microsoft.Extensions.AI Preview – Unified AI Building Blocks for .NET](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/?WT.mc_id=DT-MVP-7749)
 
 ## 📺 Videos
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://www.youtube.com/watch?v=C6tRcvY5xZg)
