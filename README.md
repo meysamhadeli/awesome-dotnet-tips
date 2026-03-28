@@ -298,6 +298,7 @@ Thanks from all the authors of contents for the valuable link in `.Net` that gat
 If you like my work, feel free to:
 
 - ⭐ this repository. And we will be happy together :)
+- [ReleaseRun](releaserun.com) — release monitoring and dependency health — tracks .NET, NuGet package CVEs, and dependency EOL for .NET teams
 
 
 Thanks a bunch for supporting me!
