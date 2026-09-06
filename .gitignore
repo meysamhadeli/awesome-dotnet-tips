@@ -275,6 +275,12 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# Next.js build output
+web/.next/
+web/out/
+web/.vercel/
+web/.env*.local
+
 # Visual Studio 6 build log
 *.plg
 
