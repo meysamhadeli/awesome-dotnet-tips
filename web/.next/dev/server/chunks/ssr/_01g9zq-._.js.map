@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Pc/Desktop/awesome-dotnet-tips/web/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}},
+    {"offset": {"line": 9, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Pc/Desktop/awesome-dotnet-tips/web/src/app/layout.tsx"],"sourcesContent":["import type { Metadata } from \"next\";\nimport \"./globals.css\";\n\nexport const metadata: Metadata = {\n  title: \"Awesome .NET Tips\",\n  description: \"Curated .NET, architecture, DevOps, cloud, testing, and AI resources.\",\n};\n\nexport default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {\n  return <html lang=\"en\"><body>{children}</body></html>;\n}\n"],"names":["metadata","title","description","RootLayout","children","lang"],"mappings":";;;;;;;;;AAGO,MAAMA,WAAqB;IAChCC,OAAO;IACPC,aAAa;AACf;AAEe,SAASC,WAAW,EAAEC,QAAQ,EAA2C;IACtF,qBAAO,8OAAC;QAAKC,MAAK;kBAAK,cAAA,8OAAC;sBAAMD;;;;;;;;;;;AAChC"}}]
+}

@@ -3,6 +3,12 @@
 
 > A curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native.
 
+## Web Explorer
+
+🚧 Browse the collection through the [live web page](http://localhost:3000/).
+
+![Awesome .NET Tips web explorer](web//assets/collections.jpg)
+
 ## Contents
 
 - [Csharp](docs/csharp/csharp.md)

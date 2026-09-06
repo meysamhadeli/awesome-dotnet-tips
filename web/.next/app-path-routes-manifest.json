@@ -1,0 +1,7 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/collections/[slug]/page": "/collections/[slug]",
+  "/page": "/",
+  "/topics/[slug]/page": "/topics/[slug]"
+}
