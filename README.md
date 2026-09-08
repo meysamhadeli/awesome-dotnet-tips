@@ -39,20 +39,20 @@ The site deploys automatically from `main` through GitHub Pages. Set **Pages > B
   - [Azure](docs/cloud-native/azure/azure.md)
   - [CI/CD](docs/cloud-native/ci-cd/ci-cd.md)
   - [Docker](docs/cloud-native/docker/docker.md)
-  - Infrastructure
+  - [Infrastructure](docs/cloud-native/infrastructure)
   - [Kubernetes](docs/cloud-native/kubernetes/kubernetes.md)
   - [Messaging](docs/cloud-native/messaging/messaging.md)
   - [Microservices](docs/cloud-native/microservices/microservices.md)
     - [Tools](docs/cloud-native/microservices/tools/tools.md)
-  - Networking
+  - [Networking](docs/cloud-native/networking)
     - [Reverse Proxy](docs/cloud-native/networking/reverse-proxy/reverse-proxy.md)
       - [Load Balancer](docs/cloud-native/networking/reverse-proxy/load-balancer/load-balancer.md)
     - [Service Discovery](docs/cloud-native/networking/service-discovery/service-discovery.md)
     - [Service Mesh](docs/cloud-native/networking/service-mesh/service-mesh.md)
   - [Observability](docs/cloud-native/observability/observability.md)
-  - Platform
+  - [Platform](docs/cloud-native/platform)
   - [Resiliency](docs/cloud-native/resiliency/resiliency.md)
-  - Scalability
+  - [Scalability](docs/cloud-native/scalability)
 - [AI](docs/ai/ai.md)
 
 ## Thanks
