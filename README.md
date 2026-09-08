@@ -5,9 +5,11 @@
 
 ## Web Explorer
 
-Browse the collection through the [web page](http://localhost:3000/).
+Browse the collection through the [live web page](https://meysamhadeli.github.io/awesome-dotnet-tips/).
 
 ![Awesome .NET Tips full homepage](web/assets/homepage.png)
+
+The site deploys automatically from `main` through GitHub Pages. Set **Pages > Build and deployment > Source** to **GitHub Actions** in repository settings.
 
 ## Contents
 
