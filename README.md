@@ -253,4 +253,5 @@ Thanks to all [contributors](https://github.com/meysamhadeli/awesome-dotnet-tips
 
 ## License
 
+
 This project is available under the MIT license. See [LICENSE](LICENSE.md) for details.
