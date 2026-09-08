@@ -2,7 +2,24 @@
   "name": "awesome-dotnet-tips-web",
   "version": "0.1.0",
   "private": true,
-  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "lint": "eslint" },
-  "dependencies": { "next": "16.3.4", "react": "19.2.8", "react-dom": "19.2.8" },
-  "devDependencies": { "@types/node": "^20", "@types/react": "^19", "@types/react-dom": "^19", "eslint": "^9", "eslint-config-next": "16.3.4", "typescript": "^5" }
+  "scripts": {
+    "dev": "npm run generate:docs && next dev",
+    "generate:docs": "node scripts/generate-doc-catalog.mjs",
+    "build": "npm run generate:docs && next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.3.4",
+    "react": "19.2.8",
+    "react-dom": "19.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "20.19.43",
+    "@types/react": "19.2.18",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.3.4",
+    "typescript": "5.9.3"
+  }
 }
