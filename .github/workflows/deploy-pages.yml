@@ -32,6 +32,9 @@ jobs:
         working-directory: web
         run: npm ci
 
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
       - name: Build static site
         working-directory: web
         env:
