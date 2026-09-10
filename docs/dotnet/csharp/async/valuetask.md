@@ -1,6 +1,6 @@
 # ValueTask
 
-## 📝 Articles
+## 📕 Articles
 
 - [ValueTask Restrictions - Stephen Cleary](https://blog.stephencleary.com/2020/03/valuetask.html)
 - [How to use ValueTask in C#](https://morioh.com/p/da3a36ccbe3b)

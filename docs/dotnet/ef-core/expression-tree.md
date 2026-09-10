@@ -17,7 +17,7 @@
 
 - [davidfowl/QueryInterceptor](https://github.com/davidfowl/QueryInterceptor)
 
-## Libraries
+## 📦 Libraries
 - [dbelmont/ExpressionBuilder](https://github.com/dbelmont/ExpressionBuilder) - A library that provides a simple way to create lambda expressions to filter lists and database queries.
 - [castle-it/dynamic-linq-query-builder](https://github.com/castle-it/dynamic-linq-query-builder) - A truly generic and dynamic linq query builder to compliment jQuery QueryBuilder and other dynamic linq query generation needs
 - [zzzprojects/System.Linq.Dynamic.Core](https://github.com/zzzprojects/System.Linq.Dynamic.Core) - The .NET Standard / .NET Core version from the System Linq Dynamic functionality.

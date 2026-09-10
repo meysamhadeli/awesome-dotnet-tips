@@ -13,7 +13,7 @@
 - [Stop using LINQ to order your primitive collections in C#](https://www.youtube.com/watch?v=K1Ye_QEpAq8)
 - [The C# keyword you can ONLY use in LINQ, but carefully](https://www.youtube.com/watch?v=1_xY6JwSm94)
 
-## Libraries
+## 📦 Libraries
 - [NetFabric/NetFabric.Hyperlinq](https://github.com/NetFabric/NetFabric.Hyperlinq) - High performance LINQ implementation with minimal heap allocations. Supports enumerables, async enumerables, arrays and Span<T>.
 - [dotnet/reactive](https://github.com/dotnet/reactive) - The Reactive Extensions for .NET
 - [reegeek/StructLinq](https://github.com/reegeek/StructLinq) - Implementation in C# of LINQ concept with struct

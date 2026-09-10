@@ -1,4 +1,4 @@
 # Dry
 
-## 📝 Articles
+## 📕 Articles
 - [DRY revisited](https://enterprisecraftsmanship.com/posts/dry-revisited/)

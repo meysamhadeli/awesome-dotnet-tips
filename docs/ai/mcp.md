@@ -1,11 +1,11 @@
 # Model Context Protocol (MCP)
 
-## Resources
+## 📘 Resources
 - [ModelContextProtocol.Io](https://modelcontextprotocol.io/introduction)
 - [microsoft/mcp/Resources](https://github.com/microsoft/mcp/tree/main/Resources) - MCP Resources
 - [microsoft/mcp-for-beginners](https://github.com/microsoft/mcp-for-beginners) - This open-source curriculum is designed to teach the concepts and fundamentals of the Model Context Protocol (MCP), with practical examples in .NET, Java, TypeScript, JavaScript and Python.
 
-## Articles
+## 📕 Articles
 - [Connect Once, Integrate Anywhere with MCP](https://devblogs.microsoft.com/blog/connect-once-integrate-anywhere-with-mcps)
 - [Introducing the Awesome GitHub Copilot Customizations repo](https://devblogs.microsoft.com/blog/introducing-awesome-github-copilot-customizations-repo)
 - [Integrating Model Context Protocol Tools with Semantic Kernel: A Step-by-Step Guide](https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/)
@@ -41,7 +41,7 @@
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
 
-## Samples
+## 🚀 Samples
 
 - [microsoft/mcp-dotnet-samples](https://github.com/microsoft/mcp-dotnet-samples) - A comprehensive set of samples of creating and using MCP servers and clients with .NET
 - [Azure-Samples/azure-ai-travel-agents](https://github.com/Azure-Samples/azure-ai-travel-agents) - The AI Travel Agents is a robust enterprise application (hosted on ACA) that leverages MCP and multiple LamaIndex AI agents to enhance travel agency operations.

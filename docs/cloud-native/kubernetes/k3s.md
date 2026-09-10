@@ -1,6 +1,6 @@
 # K3S
 
-## 📘 Resources 
+## 📘 Resources
 - [K3s GitHub](https://github.com/k3s-io/k3s) - Lightweight Kubernetes. Production ready, easy to install, half the memory, all in a binary less than 100 MB.
 - [k3s_helm_install.sh](https://gist.github.com/icebob/958b6aeb0703dc24f436ee8945f0794f)
 - [Install Ubuntu on WSL2 and get started with graphical applications](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#4-configure-ubuntu)

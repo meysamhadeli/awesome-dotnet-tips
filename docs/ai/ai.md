@@ -1,6 +1,6 @@
 # AI
 
-## Resources
+## 📘 Resources
 
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners/) ⭐ - 21 Lessons, Get Started Building with Generative AI
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ - 11 Lessons to Get Started Building AI Agents
@@ -19,7 +19,7 @@
 - [Hugging Face Learn](https://huggingface.co/learn) ⭐
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 
-## Articles
+## 📕 Articles
 
 - [Reviewing GitHub Copilot by Building a Deck of Cards](https://programmingpercy.tech/blog/reviewing-github-copilot-by-building-deck-of-cards/)
 - [ChatGPT Might Make Developers Unemployed In A Few Years](https://programmingpercy.tech/blog/chatgpt-might-make-developers-unemployed-in-years/)
@@ -45,7 +45,7 @@
 - [Huggingface Courses](https://huggingface.co/learn)
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
-## Libraries
+## 📦 Libraries
 
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
 - [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -99,7 +99,7 @@
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
-## Samples
+## 🚀 Samples
 
 - [Azure-Samples/openai-dotnet-samples](https://github.com/Azure-Samples/openai-dotnet-samples)
 - [dotnet/ai-samples](https://github.com/dotnet/ai-samples)
@@ -109,7 +109,7 @@
 - [microsoft/semantic-kernel/dotnet/samples](https://github.com/microsoft/semantic-kernel/tree/main/dotnet/samples) - Semantic Kernel samples
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 
-## Books
+## 📚 Books
 
 - [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8)
 - [Super Study Guide: Transformers & Large Language Models](https://www.amazon.com/dp/B0DC4NYLTN/)

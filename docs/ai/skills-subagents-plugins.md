@@ -1,10 +1,10 @@
 # Skills & SubAgents & Plugins
 
-## Resources
+## 📘 Resources
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
 
-## Articles
+## 📕 Articles
 - [GitHub Copilot now supports Agent Skills](https://github.blog/changelog/2025-12-18-github-copilot-now-supports-agent-skills/)
 - [About Agent Skills](https://docs.github.com/en/copilot/concepts/agents/about-agent-skills)
 - [Use Agent Skills in VS Code](https://code.visualstudio.com/docs/copilot/customization/agent-skills)

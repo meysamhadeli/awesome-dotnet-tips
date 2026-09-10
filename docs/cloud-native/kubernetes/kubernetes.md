@@ -36,7 +36,7 @@
 - [ContainerSolutions/kubernetes-examples](https://github.com/ContainerSolutions/kubernetes-examples) - Minimal self-contained examples of standard Kubernetes features and patterns in YAML
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 	
-## Books
+## 📚 Books
 - [Kubernetes Patterns: Reusable Elements for Designing Cloud-Native Applications](https://www.amazon.com/Kubernetes-Patterns-Designing-Cloud-Native-Applications/dp/1492050288)
 - [Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes](https://www.amazon.com/Kubernetes-Best-Practices-Blueprints-Applications/dp/1492056472/)
 

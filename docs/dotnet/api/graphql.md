@@ -3,7 +3,7 @@
 ## 📘 Resources
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL & Relay
 - [GraphQL Guide](https://blog.graphql.guide)
-## 📝 Articles
+## 📕 Articles
 
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part1 - User Registration](https://www.learmoreseekmore.com/2021/03/part1-hotchocolate-graphql-custom-authentication-series-using-pure-code-first-technique-user-registration.html)
 - [Hot Chocolate GraphQL Custom Authentication Series Using Pure Code First Technique - Part2 - Generating JWT(JSON Web Token) Access Token](https://www.learmoreseekmore.com/2021/03/part-2-hotchocolate-graphql-custom-authentication-series-using-purecodefirst-generating-jwt-access-token.html)
@@ -25,7 +25,7 @@
 - [.Net 5 with GraphQL - Step by Step](https://www.youtube.com/watch?v=IoLtrxw98So)
 - [Entity Framework Community Standup - Building Modern Apps with GraphQL](https://www.youtube.com/watch?v=4k3WzW2ZdXs)
 
-## Libraries
+## 📦 Libraries
 - [graphql-dotnet/graphql-client](https://github.com/graphql-dotnet/graphql-client) - A GraphQL Client for .NET Standard
 - [graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 - [ChilliCream/hotchocolate](https://github.com/ChilliCream/hotchocolate) - Welcome to the home of the Hot Chocolate GraphQL server for .NET, the Strawberry Shake GraphQL client for .NET and Banana Cake Pop the awesome Monaco based GraphQL IDE.

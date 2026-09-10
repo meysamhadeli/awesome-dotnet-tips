@@ -93,7 +93,7 @@
 ## 🚀 Samples
 - [taswar/RedisForNetDevelopers](https://github.com/taswar/RedisForNetDevelopers) - Source code for blog post on Redis for .NET Developer Series
 - [SorenZ/Alamut.MediatR.Caching](https://github.com/SorenZ/Alamut.MediatR.Caching)
-## Libraries
+## 📦 Libraries
 - [StackExchange/StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 - [ServiceStack/ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis) - .NET's leading C# Redis Client
 - [alastairtree/LazyCache](https://github.com/alastairtree/LazyCache) - An easy to use thread safe in-memory caching service with a simple developer friendly API for c#

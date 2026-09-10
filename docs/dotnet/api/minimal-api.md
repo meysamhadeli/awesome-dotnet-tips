@@ -46,6 +46,6 @@
 - [davidfowl/TodoApi](https://github.com/davidfowl/TodoApi)
 
 
-## Libraries
+## 📦 Libraries
 - [khalidabuhakmeh/Branchy](https://github.com/khalidabuhakmeh/Branchy) - Nested Route Registration for ASP.NET Core Minimal APIs
 - [DamianEdwards/MinimalValidation](https://github.com/DamianEdwards/MinimalValidation) - A minimal validation library for .NET built atop the existing features in `System.ComponentModel.DataAnnotations` namespace

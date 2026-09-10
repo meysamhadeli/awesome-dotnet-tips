@@ -1,6 +1,6 @@
 # Hosted Service
 
-## 📝 Articles
+## 📕 Articles
 
 - [Background tasks with hosted services in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/hosted-services)
 - [IMPLEMENTING IHOSTEDSERVICE IN ASP.NET CORE 2.0](https://www.stevejgordon.co.uk/asp-net-core-2-ihostedservice)

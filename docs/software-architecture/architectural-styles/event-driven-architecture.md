@@ -73,7 +73,7 @@
 - [Speeding up Queries by Pre-computation & Transformation](https://www.youtube.com/watch?v=hQVisFBAQio)
 - [Beware! Anti-patterns in Event-Driven Architecture](https://www.youtube.com/watch?v=ybfOhW4O0nQ)
 
-## Books
+## 📚 Books
 - [Designing Event-Driven Systems](https://www.confluent.io/designing-event-driven-systems/)
 
   <div align="right">

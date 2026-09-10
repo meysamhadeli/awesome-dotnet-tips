@@ -1,6 +1,6 @@
 # Agent Coding 
 
-# Resources
+# 📘 Resources
 
 - [syv-ai/agentic-coding-playbook](https://github.com/syv-ai/agentic-coding-playbook) - agentic coding playbook
 - [DanWahlin/github-copilot-cli-for-beginners](https://github.com/DanWahlin/github-copilot-cli-for-beginners) - Learn how to get started using the GitHub Copilot CLI!
@@ -11,7 +11,7 @@
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) - A curated list of awesome tools, IDE integrations, frameworks, and other resources for developers working with Anthropic's Claude Code.
 
-## Articles
+## 📕 Articles
 - [How I use Claude Code (+ my best tips)](https://www.builder.io/blog/claude-code)
 - [Reverse Engineering your Software Architecture with Claude Code to Help Claude Code](https://medium.com/nick-tune-tech-strategy-blog/reverse-engineering-your-software-architecture-with-claude-code-to-help-claude-code-1746a7b941bc)
 - [A Friendly Guide to Agents and Sub-Agents in Claude Code](https://aslamdoctor.com/a-friendly-guide-to-agents-and-sub-agents-in-claude-code/)
@@ -30,7 +30,7 @@
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Anthropic-managed directory of high quality Claude Code Plugins.
 - [papaoloba/spec-based-claude-code](https://github.com/papaoloba/spec-based-claude-code) - Implementation of a Spec-Driven Development workflow in Claude Code using custom slash commands
 
-## Samples
+## 🚀 Samples
 
 - [lucasrosati/claude-code-memory-setup](https://github.com/lucasrosati/claude-code-memory-setup) - Up to 71.5x fewer tokens per session on Claude Code with Obsidian + Graphify. Persistent memory, codebase knowledge graphs, and chat import pipeline. 🇧🇷 PT-BR included.
 - [AdelNazmy/pi-deploy](https://github.com/AdelNazmy/pi-deploy) - Portable snapshot of a fully configured pi coding-agent environment for future deployments

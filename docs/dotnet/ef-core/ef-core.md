@@ -1,7 +1,7 @@
 
 # EF Core
 
-## 📝 Articles
+## 📕 Articles
 
 - [Entity Framework Core health check](https://www.michalbialecki.com/2020/03/13/entity-framework-core-health-check/)
 - [Entity Framework Core 3.0: A Foundation for the Future](https://codemag.com/Article/1911062/Entity-Framework-Core-3.0-A-Foundation-for-the-Future)

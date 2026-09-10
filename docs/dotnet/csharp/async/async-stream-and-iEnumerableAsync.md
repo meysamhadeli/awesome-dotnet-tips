@@ -1,6 +1,6 @@
 # Async Stream And IEnumerableAsync
 
-## 📝 Articles
+## 📕 Articles
 
 - [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 - [Async Streams](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/proposals/csharp-8.0/async-streams)

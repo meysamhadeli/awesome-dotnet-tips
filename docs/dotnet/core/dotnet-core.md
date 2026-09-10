@@ -6,7 +6,7 @@
 - [ASP.NET Core architecture e-book](https://dotnet.microsoft.com/download/e-book/aspnet/pdf)
 - [Porting existing ASP.NET Apps to .NET Core e-book](https://dotnet.microsoft.com/download/e-book/porting-aspnet-apps/pdf)
 
-## 📝 Articles
+## 📕 Articles
 
 - [What's new in ASP.NET Core 2.1](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.1)
 - [What's new in ASP.NET Core 2.2](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-2.2)

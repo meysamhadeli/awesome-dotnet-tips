@@ -3,7 +3,7 @@
 ## 📘 Resources
 - [Serilog Docs](https://github.com/serilog/serilog/wiki)
 
-## 📝 Articles
+## 📕 Articles
 - [Logging in .NET Core and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging)
 - [Logging in .NET](https://docs.microsoft.com/en-us/dotnet/core/extensions/logging)
 - [Setup Serilog for Asp.Net Core](https://github.com/serilog/serilog-aspnetcore#readme)
@@ -74,7 +74,7 @@
 - [Stop using String Interpolation when Logging in .NET](https://www.youtube.com/watch?v=6zoMd_FwSwQ)
 - [The Missing Piece of Your .NET Logs](https://www.youtube.com/watch?v=aSbZ0y3nPJM)
 
-## Libraries
+## 📦 Libraries
 - [serilog/serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
 - [thepirat000/Audit.NET](https://github.com/thepirat000/Audit.NET) - An extensible framework to audit executing operations in .NET and .NET Core.
 - [ekmsystems/serilog-enrichers-correlation-id](https://github.com/ekmsystems/serilog-enrichers-correlation-id) - Enrich logs with a unique ID so you can track logs for specific requests.

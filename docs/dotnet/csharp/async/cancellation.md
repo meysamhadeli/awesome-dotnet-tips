@@ -1,6 +1,6 @@
 # Cancellation
 
-## 📝 Articles
+## 📕 Articles
 - [Task cancellation in C# and things you should know about it](https://binary-studio.com/2015/10/23/task-cancellation-in-c-and-things-you-should-know-about-it)
 - [Cancel asynchronous operation in csharp](https://johnthiriet.com/cancel-asynchronous-operation-in-csharp/)
 - [Aborting Thread Vs Cancelling Task](https://www.c-sharpcorner.com/article/aborting-thread-vs-cancelling-task/)

@@ -1,16 +1,16 @@
 # Lamma.CPP
 
-## Resources
+## 📘 Resources
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
-## Article
+## 📕 Article
 
 - [Qwen3.8-27B on One RTX 3090: 59.8% Faster with MTP—But Not Bit-Exact](https://hackmd.io/@thc1006/qwen3-8-27b-speculative-decoding-rtx-3090)
 - [I made Qwen3.8-27B run 2.5× faster — Breaking 100 tok/s on a 16GB RTX 4080](https://www.linkedin.com/pulse/i-made-qwen38-27b-run-25-faster-breaking-100-toks-16gb-paul-van-liew-mcckf/)
 
 
-## Libraries
+## 📦 Libraries
 
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc
 

@@ -1,7 +1,7 @@
 
 # Heroku
 
-## 📝 Articles
+## 📕 Articles
 - [Deploy a Containerized ASP.NET Core App to Heroku using GitHub Actions](https://codeburst.io/deploy-a-containerized-asp-net-core-app-to-heroku-using-github-actions-9e54c72db943)
 
 ## 📹 Videos

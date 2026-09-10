@@ -1,12 +1,12 @@
 # LangChain
 
-## Resources
+## 📘 Resources
 - [LangChain Academy](https://academy.langchain.com/collections)
 
-## Articles
+## 📕 Articles
 - [Build a Retrieval Augmented Generation (RAG) App](https://js.langchain.com/v0.2/docs/tutorials/rag/)
 
-## Videos
+## 📺 Videos
 - [LangChain Crash Course For Beginners | LangChain Tutorial](https://www.youtube.com/watch?v=nAmC7SoVLd8)
 - [LangChain Explained In 15 Minutes - A MUST Learn For Python Programmers](https://www.youtube.com/watch?v=mrjq3lFz23s)
 - [The LangChain Cookbook - Beginner Guide To 7 Essential Concepts](https://www.youtube.com/watch?v=2xxziIWmaSA)

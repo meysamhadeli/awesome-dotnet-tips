@@ -50,10 +50,6 @@ export const docsCatalog: DocCollection[] = [
         "path": "docs/ai/ai.md"
       },
       {
-        "name": "Context",
-        "path": "docs/ai/context.md"
-      },
-      {
         "name": "Embedding Vector",
         "path": "docs/ai/embedding-vector.md"
       },
@@ -98,10 +94,6 @@ export const docsCatalog: DocCollection[] = [
         "path": "docs/ai/microsoft-agent-framework.md"
       },
       {
-        "name": "Ml.Net",
-        "path": "docs/ai/ml.net.md"
-      },
-      {
         "name": "Models",
         "path": "docs/ai/models.md"
       },
@@ -132,9 +124,9 @@ export const docsCatalog: DocCollection[] = [
     ],
     "folders": [],
     "resourceCounts": {
-      "Articles": 234,
+      "Articles": 230,
       "Videos": 28,
-      "Libraries": 75,
+      "Libraries": 79,
       "Samples": 51,
       "Resources": 50,
       "Books": 5
@@ -970,6 +962,14 @@ export const docsCatalog: DocCollection[] = [
                 "path": "docs/dotnet/csharp/versions/12.md"
               },
               {
+                "name": "13",
+                "path": "docs/dotnet/csharp/versions/13.md"
+              },
+              {
+                "name": "14",
+                "path": "docs/dotnet/csharp/versions/14.md"
+              },
+              {
                 "name": "7",
                 "path": "docs/dotnet/csharp/versions/7.md"
               },
@@ -1168,6 +1168,10 @@ export const docsCatalog: DocCollection[] = [
         "path": "docs/dotnet/versions",
         "files": [
           {
+            "name": "Dotnet10",
+            "path": "docs/dotnet/versions/dotnet10.md"
+          },
+          {
             "name": "Dotnet5",
             "path": "docs/dotnet/versions/dotnet5.md"
           },
@@ -1182,17 +1186,21 @@ export const docsCatalog: DocCollection[] = [
           {
             "name": "Dotnet8",
             "path": "docs/dotnet/versions/dotnet8.md"
+          },
+          {
+            "name": "Dotnet9",
+            "path": "docs/dotnet/versions/dotnet9.md"
           }
         ],
         "folders": []
       }
     ],
     "resourceCounts": {
-      "Articles": 1468,
-      "Videos": 316,
+      "Articles": 1477,
+      "Videos": 325,
       "Libraries": 0,
       "Samples": 78,
-      "Resources": 48,
+      "Resources": 58,
       "Books": 9
     }
   },

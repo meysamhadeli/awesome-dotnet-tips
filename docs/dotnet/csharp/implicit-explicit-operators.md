@@ -1,6 +1,6 @@
 # Implicit & Explicit Operators
 
-## 📝 Articles
+## 📕 Articles
 - [Define Implicit and Explicit Operator - C# Tips](https://rmauro.dev/define-implicit-explicit-operator-csharp-tips/)
 
 ## 📺 Videos

@@ -1,15 +1,15 @@
 # VLLM
 
-## Resources
+## 📘 Resources
 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 
-## Articles
+## 📕 Articles
 
 - [vLLM Docker Deployment: Production-Ready Setup Guide (2026)](https://inference.net/content/vllm-docker-deployment/)
 - [How to Run LLM Inference with vLLM in Docker](https://oneuptime.com/blog/post/2026-02-08-how-to-run-llm-inference-with-vllm-in-docker/view)
 
-## Samples
+## 🚀 Samples
 
 - [thc1006/qwen3.6-vllm-2x3090](https://github.com/thc1006/qwen3.6-vllm-2x3090) - Empirical bench: can vLLM continuous batching on 2x RTX 3090 serve concurrent vision+dialog for an embodied robot? (Spoiler: yes, 4.3% dialog degradation under load with full unified qwen3.6 quality)
 - [syv-ai/qwen38-27b-rtx3090](https://github.com/syv-ai/qwen38-27b-rtx3090) - Qwen3.8-27B on a single RTX 3090 with vLLM: ~1,000 tok/s at 64 concurrent (int8 tensor-core GEMMs, fp16 DeltaNet state), ~114 tok/s single-user at default sampling / ~124 greedy (MTP drafts, own-output draft vocab, calibrated int4 lm_head, split-KV verify attention), 150k-262k context; patches, requant scripts, benchmarks

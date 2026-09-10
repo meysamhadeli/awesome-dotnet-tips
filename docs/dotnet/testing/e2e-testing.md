@@ -1,7 +1,7 @@
 
 # End-To-End Testing - (Subcutaneous Test)
 
-## 📝 Articles
+## 📕 Articles
 - [SubcutaneousTest - Martin Fowler](https://martinfowler.com/bliki/SubcutaneousTest.html) 
 - [Microservices test architecture. Can you sleep well without end-to-end tests?](https://threedots.tech/post/microservices-test-architecture/)
 - [k3d + GitHub Actions: Kubernetes E2E Testing Made Easy](https://www.arrikto.com/uncategorized/k3d-github-actions-kubernetes-e2e-testing-made-easy/)
@@ -14,7 +14,7 @@
 - [End-to-End Testing ASP.NET Core APIs (Part 2)](https://www.youtube.com/watch?v=ANqj9pldfso)
 - [The .NET Docs Show - Scenario testing 🧪 Blazor Single-Page Apps](https://www.youtube.com/watch?v=Z9lkKnzJgD8)
 
-## Libraries
+## 📦 Libraries
 - [basdijkstra/rest-assured-net](https://github.com/basdijkstra/rest-assured-net)
 - [Fake Authentication Jwt Bearer for ASP.NET Core 6.0](https://github.com/webmotions/fake-authentication-jwtbearer)
 

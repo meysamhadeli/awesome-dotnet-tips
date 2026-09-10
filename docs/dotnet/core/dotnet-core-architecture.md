@@ -1,7 +1,7 @@
 
 # DotNet Core Architecture
 
-## 📝 Articles
+## 📕 Articles
 
 - [ASP.NET CORE ANATOMY – HOW DOES USESTARTUP WORK?](https://www.stevejgordon.co.uk/aspnet-core-anatomy-how-does-usestartup-work)
 - [ASP.NET CORE ANATOMY (PART 2) – ADDMVC](https://www.stevejgordon.co.uk/asp-net-core-anatomy-part-2-addmvc)

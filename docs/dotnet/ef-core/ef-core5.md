@@ -1,7 +1,7 @@
 
 # EF Core 5
 
-## 📝 Articles
+## 📕 Articles
 
 - [Announcing the Release of EF Core 5.0](https://devblogs.microsoft.com/dotnet/announcing-the-release-of-ef-core-5-0/)
 - [Getting Started With Entity Framework Core 5](https://blog.jetbrains.com/dotnet/2020/11/25/getting-started-with-entity-framework-core-5/)

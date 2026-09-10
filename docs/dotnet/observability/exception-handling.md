@@ -1,6 +1,6 @@
 # Exception Handling
 
-## 📝 Articles
+## 📕 Articles
 
 - [My take on the Result class](https://josef.codes/my-take-on-the-result-class-in-c-sharp/) 
 - [Functional C# Handling failures, input errors](https://enterprisecraftsmanship.com/posts/functional-c-handling-failures-input-errors/) 
@@ -59,7 +59,7 @@
 - [Don't throw exceptions in C#. Do this instead](https://www.youtube.com/watch?v=a1ye9eGTB98)
 - [The Exception Mistake You Must Never Make in C#](https://www.youtube.com/watch?v=TCiL3y2P4rA)
 
-## Libraries
+## 📦 Libraries
 
 - [proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)
 - [khellang/Middleware.ProblemDetails](https://github.com/khellang/Middleware/tree/master/src/ProblemDetails) - Various ASP.NET Core middleware

@@ -1,6 +1,6 @@
 # Netlify
 
-## 📝 Articles
+## 📕 Articles
 
 ## 📹 Videos
 

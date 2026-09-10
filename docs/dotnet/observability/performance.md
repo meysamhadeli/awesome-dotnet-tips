@@ -7,7 +7,7 @@
 - [Marc Gravell Blog](https://blog.marcgravell.com/)
 - [SERIES: WRITING HIGH-PERFORMANCE C# AND .NET CODE](https://www.stevejgordon.co.uk/writing-high-performance-csharp-and-dotnet-code)
 
-## 📝 Articles
+## 📕 Articles
 - [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
 - [Memory management and garbage collection (GC) in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/performance/memory)
 - [ASP.NET Core load/stress testing](https://docs.microsoft.com/en-us/aspnet/core/test/load-tests)
@@ -59,7 +59,7 @@
 - [Diagnosing thread pool exhaustion issues in .NET Core apps](https://www.youtube.com/watch?v=isK8Cel3HP0)
 - [The Easiest Way to Measure Your Method’s Performance in C#](https://www.youtube.com/watch?v=xlqcT4NSrZw)
 
-## Libraries
+## 📦 Libraries
 - [stackify-prefix](https://stackify.com/prefix/)
 
 ## 📚 Books

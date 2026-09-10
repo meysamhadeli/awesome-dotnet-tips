@@ -1,6 +1,6 @@
 # Awaiter
 
-## 📝 Articles
+## 📕 Articles
 
 - [A Tour of Task, Part 6: Results](https://blog.stephencleary.com/2014/12/a-tour-of-task-part-6-results.html)
 - [Task.Wait() Vs Task.GetAwaiter().GetResult()](https://jaliyaudagedara.blogspot.com/2019/06/taskwait-vs-taskgetawaitergetresult.html)

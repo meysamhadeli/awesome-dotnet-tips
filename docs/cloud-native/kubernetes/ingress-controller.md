@@ -1,6 +1,6 @@
 # Ingress Controller
 
-## 📘 Resources 
+## 📘 Resources
 - [Traefik Docs](https://doc.traefik.io/traefik/)
 - [Install Traefik](https://doc.traefik.io/traefik/getting-started/install-traefik/)
 - [Ingress - TLS](https://kubernetes.io/docs/concepts/services-networking/ingress/)

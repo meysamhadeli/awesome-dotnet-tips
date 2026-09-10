@@ -179,7 +179,7 @@
 - [daxnet/apworks-core](https://github.com/daxnet/apworks-core) - Apworks framework supporting .NET Core
 - [node-ts/ddd](https://github.com/node-ts/ddd) - A Domain Driven Design framework for software simplicity in node
 - [revoframework/Revo](https://github.com/revoframework/Revo) - Event Sourcing, CQRS and DDD framework for C#/.NET Core
-## Books
+## 📚 Books
 - [Patterns, Principles, and Practices of Domain-Driven Design 1st Edition](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software 1st Edition](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)
 - [Domain-Driven Design Distilled 1st Edition](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420)

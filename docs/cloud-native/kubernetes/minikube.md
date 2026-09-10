@@ -1,6 +1,6 @@
 # Minikube
 
-## 📘 Resources 
+## 📘 Resources
 - [minikube start](https://minikube.sigs.k8s.io/docs/start/)
 
 ## 📕 Articles

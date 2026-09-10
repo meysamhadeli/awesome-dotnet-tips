@@ -10,7 +10,7 @@
 - [Healthchecks in ASP.NET Core – Detailed Guide](https://codewithmukesh.com/blog/healthchecks-in-aspnet-core-explained/)
 - [ASP.NET Core Health Checks](https://asp.net-hacker.rocks/2020/08/20/health-checks.html)
 - [ASP.NET Core health checks quick start](https://gunnarpeipman.com/aspnet-core-health-checks/)
-## Libraries
+## 📦 Libraries
 - [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks) - Enterprise HealthChecks for ASP.NET Core Diagnostics Package
 
 ## 📹 Videos

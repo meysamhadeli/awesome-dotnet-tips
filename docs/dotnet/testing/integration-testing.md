@@ -2,7 +2,7 @@
 
 # Integration Testing
 
-## 📝 Articles
+## 📕 Articles
 - [Integration tests in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests)
 - [Unit and integration testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Unit-and-integration-testing)
 - [Self-hosted integration tests in ASP.NET by Mark Seemann](https://blog.ploeh.dk/2021/01/25/self-hosted-integration-tests-in-aspnet/)
@@ -96,7 +96,7 @@
 - [Testing your C# code reliably by freezing it in time](https://www.youtube.com/watch?v=Q1_YkcPwpqY)
 - [The Common Entity Framework Mistake You MUST Fix](https://www.youtube.com/watch?v=K1-n2EoPxiY)
 
-## Libraries
+## 📦 Libraries
 - [WireMock-Net/WireMock.Net](https://github.com/WireMock-Net/WireMock.Net) - WireMock.Net is a flexible library for stubbing and mocking web HTTP responses using request matching and response templating. Based on the functionality from http://WireMock.org, but extended with more functionality.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework
 - [SwissLife-OSS/squadron](https://github.com/SwissLife-OSS/squadron) - A testing framework for containerized and cloud services

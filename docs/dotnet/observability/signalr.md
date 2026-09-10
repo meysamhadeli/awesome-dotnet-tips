@@ -1,6 +1,6 @@
 # SignalR
 
-## 📝 Articles
+## 📕 Articles
 
 - [Use streaming in ASP.NET Core SignalR](https://docs.microsoft.com/en-us/aspnet/core/signalr/streaming?view=aspnetcore-5.0)
 - [Real-time Web Applications with SignalR in ASP.NET Core 3.1](https://procodeguide.com/programming/real-time-web-with-signalr-in-aspnet-core/)

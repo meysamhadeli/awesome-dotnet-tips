@@ -1,6 +1,6 @@
 # .Net 8
 
-## 📝 Articles
+## 📕 Articles
 - [ASP.NET Core 8: Improved exception handling with IExceptionHandler](https://anthonygiretti.com/2023/06/14/asp-net-core-8-improved-exception-handling-with-iexceptionhandler/)
 - [Part 1 - Using the new configuration binder source generator](https://andrewlock.net/exploring-the-dotnet-8-preview-using-the-new-configuration-binder-source-generator/)
 - [Part 2 - The minimal API AOT compilation template](https://andrewlock.net/exploring-the-dotnet-8-preview-changing-method-calls-with-interceptors/)

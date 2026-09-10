@@ -1,9 +1,9 @@
 # Ollama
 
-## Resources
+## 📘 Resources
 - [Ollama Documentation](https://github.com/ollama/ollama/tree/main/docs)
 
-## Articles
+## 📕 Articles
 - [OpenAI compatibility](https://ollama.com/blog/openai-compatibility)
 - [Ollama OpenAI compatibility](https://github.com/ollama/ollama/blob/main/docs/openai.md)
 - [Importing a model in Ollama](https://github.com/ollama/ollama/blob/main/docs/import.md)
@@ -13,7 +13,7 @@
 - [Use Ollama with any GGUF Model on Hugging Face Hub](https://huggingface.co/docs/hub/en/ollama)
 - [Thinking in ollama](https://ollama.com/blog/thinking)
 
-## Videos
+## 📺 Videos
 - [Importing Open Source Models to Ollama](https://www.youtube.com/watch?v=fnvZJU5Fj3Q)
 - [Adding Custom Models to Ollama](https://www.youtube.com/watch?v=0ou51l-MLCo)
 - [Ollama adds OpenAI API support](https://www.youtube.com/watch?v=Zgb2TjZ5zTk)

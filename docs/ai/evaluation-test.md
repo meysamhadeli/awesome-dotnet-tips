@@ -1,12 +1,12 @@
 # Evaluation & Test
 
-## Articles
+## 📕 Articles
 
 - [Put your AI to the Test with Microsoft.Extensions.AI.Evaluation](https://developer.microsoft.com/blog/put-your-ai-to-the-test-with-microsoft-extensions-ai-evaluation)
 - [The Microsoft.Extensions.AI.Evaluation libraries](https://learn.microsoft.com/en-us/dotnet/ai/evaluation/libraries)
 - [Evaluating LLM Models in GitHub Copilot. A Practical Scoring and Assessment Guide](https://dev.to/pwd9000/evaluating-llm-models-in-github-copilot-a-practical-scoring-and-assessment-guide-1f23)
 
-## libraries
+## 📦 libraries
 
 - [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI

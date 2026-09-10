@@ -1,6 +1,6 @@
 # TaskCompletionSource
 
-## 📝 Articles
+## 📕 Articles
 - [Should I expose asynchronous wrappers for synchronous methods?](https://b2n.ir/959223)
 - [Using TaskCompletionSource to change the semantics of async calls](http://vannevel.net/posts/using-taskcompletionsource-to-change-the-semantics-of-async-calls/)
 - [TaskCompletionSource in real life (part 1 of 2)](https://www.fmork.net/software/writing/2012/TaskCompletionSource-in-real-life-(part-1-of-2).htm)

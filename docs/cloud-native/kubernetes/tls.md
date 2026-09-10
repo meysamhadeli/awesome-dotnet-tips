@@ -1,6 +1,6 @@
 # Tls
 
-## 📕 Resources
+## 📘 Resources
 - [Ingress - TLS](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 
 ## 📺 Videos

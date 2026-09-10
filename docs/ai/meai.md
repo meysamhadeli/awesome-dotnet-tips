@@ -1,6 +1,6 @@
 # Microsoft Extensions AI - MEAI
 
-## Articles
+## 📕 Articles
 
 - [Building RAG with .NET AI Building Blocks - Microsoft.Extensions.AI](https://nikiforovall.blog/dotnet/ai/2026/02/28/building-rag-with-dotnet-ai-building-blocks.html)
 - [.NET AI Essentials – The Core Building Blocks Explained](https://devblogs.microsoft.com/dotnet/dotnet-ai-essentials-the-core-building-blocks-explained/)
@@ -8,6 +8,6 @@
 - [Microsoft.Extensions.AI libraries](https://learn.microsoft.com/en-us/dotnet/ai/microsoft-extensions-ai)
 - [Create a .NET AI app to chat with custom data using the AI app template extensions](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/ai-templates)
 
-## Samples
+## 🚀 Samples
 
 - [NikiforovAll/company-intel-dotnet](https://github.com/NikiforovAll/company-intel-dotnet)

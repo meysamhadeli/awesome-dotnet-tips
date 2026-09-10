@@ -2,7 +2,7 @@
 
 ## 📘 Resources
 - [Async-Await - RIP Tutorial](https://riptutorial.com/csharp/topic/48/async-await)
-## 📝 Articles
+## 📕 Articles
 
 - [Async Overview](https://docs.microsoft.com/en-us/dotnet/standard/async)
 - [Asynchronous programming patterns](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/)
@@ -48,7 +48,7 @@
 - [How to await ANYTHING in C#](https://www.youtube.com/watch?v=ileC_qyLdD4)
 - [Stop using async void in C#! Do this instead.](https://www.youtube.com/watch?v=ZFWxSQ-KjUc)
 
-## Libraries
+## 📦 Libraries
 - [Nito.AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for the Task-Based Asynchronous Pattern (TAP).
 - [Microsoft.VisualStudio.Threading](https://github.com/microsoft/vs-threading) - Async synchronization primitives, async collections, TPL and dataflow extensions. The JoinableTaskFactory allows synchronously blocking the UI thread for async work. 
 - [AsyncEnumerator](https://github.com/Dasync/AsyncEnumerable) - Introduces `IAsyncEnumerable`, `IAsyncEnumerator`, `ForEachAsync()`, and `ParallelForEachAsync()` and other useful stuff to use with async-await 

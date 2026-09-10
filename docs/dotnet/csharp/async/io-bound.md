@@ -1,6 +1,6 @@
 # Io-Bound
 
-## 📝 Articles
+## 📕 Articles
 
 - [Deeper Dive into Tasks for an I/O-Bound Operation](http://docs.microsoft.com/en-us/dotnet/standard/async-in-depth#deeper-dive-into-tasks-for-an-io-bound-operation)
 - [I/O-bound tasks](http://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/implementing-the-task-based-asynchronous-pattern#io-bound-tasks)

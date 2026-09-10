@@ -5,7 +5,7 @@
 
 - [gRPC for WCF developers e-book](https://dotnet.microsoft.com/download/e-book/grpc-for-wcf-devs/pdf)
 
-## 📝 Articles
+## 📕 Articles
 
 - [Introduction to gRPC on .NET](https://docs.microsoft.com/en-us/aspnet/core/grpc/)
 - [gRPC services with C#](https://docs.microsoft.com/en-us/aspnet/core/grpc/basics)
@@ -50,7 +50,7 @@
 ## Courses
 - [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=2E7C1D32B62DF23A5A7D)
 
-## Libraries
+## 📦 Libraries
 
 - [https://github.com/grpc/grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
 - [protobuf-net/protobuf-net.Grpc](https://github.com/protobuf-net/protobuf-net.Grpc) - GRPC bindings for protobuf-net and grpc-dotnet

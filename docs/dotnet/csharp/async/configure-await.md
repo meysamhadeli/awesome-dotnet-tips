@@ -1,6 +1,6 @@
 # Configure Await
 
-## 📝 Articles
+## 📕 Articles
 
 - [ConfigureAwait FAQ - Stephen Toub](https://devblogs.microsoft.com/dotnet/configureawait-faq/)
 - [Using ConfigureAwait to improve your application](https://johnthiriet.com/configure-await/)

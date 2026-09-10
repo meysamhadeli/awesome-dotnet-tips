@@ -53,7 +53,7 @@
 - [Dynamically invoking a generic method with Reflection in .NET C#](https://www.youtube.com/watch?v=ZfS4WnITx08)
 - [C# Reflection Explained (Claim generation example)](https://www.youtube.com/watch?v=cdG2JxuZvNI)
 - [How Assembly Scanning keeps your .NET code clean](https://www.youtube.com/watch?v=_YkvFQ1-Lt0)
-## Libraries
+## 📦 Libraries
 - [natemcmaster/DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for dynamically loading code
 - [kevin-montrose/Sigil](https://github.com/kevin-montrose/Sigil) - A fail-fast validating helper for .NET CIL generation
 - [skbkontur/gremit](https://github.com/skbkontur/gremit) - .NET Reflection.Emit extensions

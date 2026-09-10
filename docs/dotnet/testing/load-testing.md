@@ -4,7 +4,7 @@
 ## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
 
-## 📝 Articles
+## 📕 Articles
 - [Load testing](https://github.com/dotnet-architecture/eShopOnContainers/wiki/Load-testing)
 - [Running Load Tests From the Cloud With k6](https://benfoster.io/blog/running-load-tests-from-aws-cloud-with-k6/)
 - [Intro to Testing ASP.NET APIs with k6 - When Unit Tests Meet Load Testing](https://dev.to/k6/intro-to-testing-asp-net-apis-with-k6-when-unit-tests-meet-load-testing-5b5h)
@@ -24,7 +24,7 @@
 - [ASP.NET Core Series: Performance Testing Techniques](https://www.youtube.com/watch?v=jn54CjePzs0)
 - [Web Load and URL Testing with West Wind WebSurge](https://www.youtube.com/watch?v=O5J8mDfVZH8)
 - [Getting started with API Load Testing (Stress, Spike, Load, Soak)](https://www.youtube.com/watch?v=r-Jte8Y8zag)
-## Libraries
+## 📦 Libraries
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool written in Go
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!

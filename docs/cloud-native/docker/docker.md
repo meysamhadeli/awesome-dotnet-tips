@@ -7,7 +7,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - 🐳 A curated list of Docker resources and projects
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 
-## 📝 Articles
+## 📕 Articles
 - [Optimising ASP.NET Core apps in Docker - avoiding manually copying csproj files](https://andrewlock.net/optimising-asp-net-core-apps-in-docker-avoiding-manually-copying-csproj-files/)
 - [Exploring the .NET Core Docker files: dotnet vs aspnetcore vs aspnetcore-build](https://andrewlock.net/exploring-the-net-core-docker-files-dotnet-vs-aspnetcore-vs-aspnetcore-build/)
 - [Exploring the .NET Core 2.1 Docker files (updated): dotnet:runtime vs aspnetcore-runtime vs sdk](https://andrewlock.net/exploring-the-net-core-2-1-docker-files-dotnet-runtime-vs-aspnetcore-runtime-vs-sdk/)

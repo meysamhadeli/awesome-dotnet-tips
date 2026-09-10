@@ -1,6 +1,6 @@
 # Iterators
 
-## 📝 Articles
+## 📕 Articles
 
 - [Iterators](https://bettersolutions.com/csharp/collections/iterators.htm)
 - [Iterators (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/iterators)

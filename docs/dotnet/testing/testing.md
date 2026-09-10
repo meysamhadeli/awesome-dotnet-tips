@@ -4,7 +4,7 @@
 ## 📘 Resources
 - [atinfo/awesome-test-automation](https://github.com/atinfo/awesome-test-automation) - A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages
 
-## 📝 Articles
+## 📕 Articles
 - [First-Class Tests](https://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.html) 
 - [Software Testing Guide](https://martinfowler.com/testing/) 
 - [The Practical Test Pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) 
@@ -27,7 +27,7 @@
 - [Test Desiderata](https://www.youtube.com/playlist?list=PLlmVY7qtgT_lkbrk9iZNizp978mVzpBKl)
 - [Clean Testing: Clean Architecture with .NET Core - Jason Taylor - NDC Sydney 2020](https://www.youtube.com/watch?v=hV43fiHYBb4)
 - [Testing your C# code reliably by freezing it in time](https://www.youtube.com/watch?v=Q1_YkcPwpqY)
-## Libraries
+## 📦 Libraries
 - [martincostello/xunit-logging](https://github.com/martincostello/xunit-logging) - Logging extensions for xunit
 - [NetArchTest](https://github.com/BenMorris/NetArchTest) - A fluent API for .Net that can enforce architectural rules in unit tests.
 - [SwissLife-OSS/snapshooter](https://github.com/SwissLife-OSS/snapshooter) - Snapshooter is a snapshot testing tool for .NET Core and .NET Framework

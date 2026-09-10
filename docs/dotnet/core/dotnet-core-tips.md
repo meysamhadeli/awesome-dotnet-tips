@@ -1,7 +1,7 @@
 
 # .Net Core Tips
 
-## 📝 Articles
+## 📕 Articles
 
 - [davidfowl/AspNetCoreGuidance](https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AspNetCoreGuidance.md)
 

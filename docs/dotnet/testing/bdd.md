@@ -6,7 +6,7 @@
 - [Behavior-Driven Development from scratch](https://beyondxscratch.com/2019/05/21/behavior-driven-development-from-scratch/)
 - [Ogooreck, a sneaky testing library in BDD style](https://event-driven.io/en/ogooreck_sneaky_bdd_testing_framework/)
 
-## Libraries
+## 📦 Libraries
 
 - [oskardudycz/Ogooreck](https://github.com/oskardudycz/Ogooreck)
 

@@ -1,6 +1,6 @@
 # .Net 5
 
-## 📝 Articles
+## 📕 Articles
 
 - [Announcing .NET 5.0 - DevBlogs](https://devblogs.microsoft.com/dotnet/announcing-net-5-0/)
 - [What's new in ASP.NET Core 5.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-5.0)

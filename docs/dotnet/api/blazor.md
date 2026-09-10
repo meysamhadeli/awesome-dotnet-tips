@@ -1,6 +1,6 @@
 # Blazor
 
-## Resources
+## 📘 Resources
 - [dotnet-presentations/blazor-workshop/](https://github.com/dotnet-presentations/blazor-workshop/) - Blazor workshop
 
 ## 📺 Videos
@@ -18,7 +18,7 @@
 - [thbst16/BlazorCrud](https://github.com/thbst16/BlazorCrud) - Demo application built with the Blazor client-side hosting model (WebAssembly) and .NET Core REST APIs secured by a JWT service.
 - [lucent-sea/Remotely](https://github.com/lucent-sea/Remotely) - A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.
 - [CuriousDrive/BlazingChat](https://github.com/CuriousDrive/BlazingChat) - BlazingChat is a Blazor WebAssembly app developed by CuriousDrive for the community. This is a sample application for developers who are just getting started with Blazor.
-## Libraries
+## 📦 Libraries
 - [mrpmorris/Fluxor](https://github.com/mrpmorris/Fluxor) - Fluxor is a zero boilerplate Flux/Redux library for Microsoft .NET and Blazor.
 - [enkodellc/blazorboilerplate](https://github.com/enkodellc/blazorboilerplate) - Blazor Boilerplate / Starter Template with MatBlazor
 - [Garderoben/MudBlazor](https://github.com/Garderoben/MudBlazor) - Blazor Component Library based on Material design. The goal is to do more with Blazor, utilizing CSS and keeping Javascript to a bare minimum.

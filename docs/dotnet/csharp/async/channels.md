@@ -1,6 +1,6 @@
 # Channels
 
-## 📝 Articles
+## 📕 Articles
 - [An Introduction to System.Threading.Channels - Stephen Toub](https://devblogs.microsoft.com/dotnet/an-introduction-to-system-threading-channels/)
 - [Using Channels In C# .NET Core – Part 1 – Getting Started](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-1-getting-started/)
 - [Using Channels In C# .NET Core – Part 2 – Advanced Channels](https://dotnetcoretutorials.com/2020/11/24/using-channels-in-net-core-part-2-advanced-channels/)

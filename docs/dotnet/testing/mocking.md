@@ -1,6 +1,6 @@
 # Mocking
 
-## 📝 Articles
+## 📕 Articles
 
 - [Effective mocking](https://cezarypiatek.github.io/post/effective-mocking/)
 - [Bridging between NSubstitute and FluentAssertions](https://www.neovolve.com/2014/10/07/bridging-between-nsubstitute-and-fluentassertions/)
@@ -28,7 +28,7 @@
 - [Introduction to Unit Testing Using AutoFixture](https://www.youtube.com/watch?v=ivEke62spOg)
 - [You are mocking the HttpClient the wrong way](https://www.youtube.com/watch?v=7OFZZAHGv9o)
 
-## Libraries
+## 📦 Libraries
 - [GestionSystemesTelecom/fake-authentication-jwtbearer](https://github.com/GestionSystemesTelecom/fake-authentication-jwtbearer/) - Simple way to faked an authenticated user for integration test with ASP.Net Core framework
 - [force-net/DeepCloner](https://github.com/force-net/DeepCloner) - Fast object cloner for .NET
 - [Tynamix/ObjectFiller.NET](https://github.com/Tynamix/ObjectFiller.NET/) - The .NET ObjectFiller fills the properties of your .NET objects with random data

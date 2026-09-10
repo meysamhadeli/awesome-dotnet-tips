@@ -10,7 +10,7 @@
 - [marmelab/awesome-rest](https://github.com/marmelab/awesome-rest)
 - [ASP.NET CORE Web API / REST API](https://www.youtube.com/playlist?list=PLgRlicSxjeMMSCYjOe2t2-BLqVxInAMM1)
 
-## 📝 Articles
+## 📕 Articles
 - [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [Web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 - [ASP.NET Core 5 Route to Code: Taking advantage of Microsoft.AspNetCore.Http json extensions](https://anthonygiretti.com/2020/09/29/asp-net-core-5-route-to-code-taking-advantage-of-microsoft-aspnetcore-http-json-extensions/)

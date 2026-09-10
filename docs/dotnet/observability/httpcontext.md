@@ -1,6 +1,6 @@
 # HttpContext && HttpContextAccessor
 
-## 📝 Articles
+## 📕 Articles
 - [Accessing HttpContext outside of framework components in ASP.NET Core](https://www.strathweb.com/2016/12/accessing-httpcontext-outside-of-framework-components-in-asp-net-core/)
 - [HttpContext.Features vs HttpContext.Items In Asp.Net Core](https://stackoverflow.com/questions/51996907/httpcontext-features-vs-httpcontext-items-in-asp-net-core)
 - [Better way of storing Per-Request data across middlewares in ASP.NET Core](https://dev.to/tjindapitak/better-way-of-storing-per-request-data-across-middlewares-in-asp-net-core-1m9k)

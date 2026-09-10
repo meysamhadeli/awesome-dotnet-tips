@@ -1,6 +1,6 @@
 # RAG
 
-## Articles
+## 📕 Articles
 - [Build a Retrieval Augmented Generation (RAG) App](https://js.langchain.com/v0.2/docs/tutorials/rag/)
 - [Building a Local RAG System for Privacy Preservation with Ollama and Weaviate](https://weaviate.io/blog/local-rag-with-ollama-and-weaviate)
 - [Typical RAG Implementation Using Semantic Kernel, Kernel Memory, and Aspire in .NET](https://nikiforovall.github.io/dotnet/ai/2024/09/04/typical-rag-dotnet.html)
@@ -14,17 +14,17 @@
 - [Bring your AI Copilots to the edge with Phi-3 and Semantic Kernel](https://arafattehsin.com/ai-copilot-offline-phi3-semantic-kernel/)
 - [Building RAG with .NET Aspire and Python](https://nikiforovall.blog/dotnet/ai/2026/02/22/building-rag-with-aspire-and-python)
 
-## Videos
+## 📺 Videos
 - [.NET AI Community Standup - Phi-3 & C#: Bringing AI to your .NET Apps](https://www.youtube.com/watch?v=fbojvzHGtkM)
 
-## Libraries
+## 📦 Libraries
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 
-## Samples
+## 🚀 Samples
 - [NikiforovAll/notebook-agent](https://github.com/NikiforovAll/notebook-agent) - Demonstrates how to use Semantic Kernel and Kernel Memory in a polyglot notebook environment.
 - [luisquintanilla/RAGDotnetAIFundamentals](https://github.com/luisquintanilla/RAGDotnetAIFundamentals) - This sample shows how to apply vanilla / simple RAG pattern using .NET fundamentals in the AI ecosystem
 - [NikiforovAll/company_intel](https://github.com/NikiforovAll/company_intel)
 
-## Books
+## 📚 Books
 - [Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG](https://www.amazon.com/Building-LLMs-Production-Reliability-Fine-Tuning/dp/B0D4FFPFW8)

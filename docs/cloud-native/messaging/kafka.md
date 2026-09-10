@@ -40,8 +40,8 @@
 - [How do Kafka Consumer Groups and Consumer Offsets work in Apache Kafka?](https://www.youtube.com/watch?v=9o5LAbPNc28)
 - [Troubleshooting Kafka with 2000 Microservices | Event Driven](https://www.youtube.com/watch?v=dLpCFwR4Eac)
 
-## Libraries
+## 📦 Libraries
 - [edenhill/kcat](https://github.com/edenhill/kcat) - Generic command line non-JVM Apache Kafka producer and consumer
 
-## Samples
+## 🚀 Samples
 - [dcomartin/Kafka.Demo](https://github.com/dcomartin/Kafka.Demo)

@@ -1,6 +1,6 @@
 # Configuration
 
-## 📝 Articles
+## 📕 Articles
 
 - [Configure ASP.NET Core MVC](https://www.programmingwithwolfgang.com/configure-asp-net-core-mvc/)
 - [Configuration in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
