@@ -9,8 +9,8 @@ type Leaf = { name: string; href: string; types: string[] };
 type Branch = { name: string; href: string; leaves: Leaf[] };
 type Root = { name: string; href: string; branches: Branch[] };
 type ResourceCount = { label: string; count: number; icon: string; tone: string };
-type CollectionCard = { name: string; href: string; description: string; topics: string[]; counts: string[]; resourceSections?: ResourceCount[]; subcollections: number; itemLabel: "TOPICS"; color: string };
-type SubcollectionCard = { name: string; collection: string; href: string; topics: number };
+type CollectionCard = { name: string; href: string; description: string; topics: string[]; counts: string[]; resourceSections?: ResourceCount[]; subcollections: number; itemLabel: "TOPICS"; color: string; lastModified: string };
+type SubcollectionCard = { name: string; collection: string; href: string; topics: number; lastModified: string };
 const collectionSlug = (name: string) => name.toLowerCase().replace(/#/g, "sharp").replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 const topicSlug = (name: string) => name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 
@@ -75,21 +75,15 @@ const collectionCards: CollectionCard[] = docsCatalog.map(collection => {
   const topics = collectionTopics(collection);
   const details = collectionDetails[collection.slug] ?? { description: `Curated ${collection.name} documentation and learning resources.`, color: "blue" };
   const resourceSections = Object.entries(collection.resourceCounts).filter(([, count]) => count > 0).map(([label, count]) => ({ ...resourceTypeLabels[label], count }));
-  return { name: collection.name, href: doc(firstDocument(collection)), description: details.description, topics, counts: [], resourceSections, subcollections: collection.folders.length, itemLabel: "TOPICS", color: details.color };
+  return { name: collection.name, href: doc(firstDocument(collection)), description: details.description, topics, counts: [], resourceSections, subcollections: collection.folders.length, itemLabel: "TOPICS", color: details.color, lastModified: collection.lastModified };
 });
 const subcollectionCards: SubcollectionCard[] = docsCatalog.flatMap(collection => collection.folders.map(folder => ({
   name: folder.name,
   collection: collection.name,
   href: `/topics/${topicSlug(folder.name)}`,
   topics: folder.files.length + folder.folders.length,
+  lastModified: folder.lastModified,
 })));
-
-const collectionUpdatedAt: Record<string, string> = {
-  ".NET": "2024-09-24",
-  "Software Architecture": "2024-09-24",
-  "Cloud Native": "2024-09-24",
-  AI: "2024-10-09",
-};
 
 export default function Home() {
   const router = useRouter();
@@ -103,10 +97,12 @@ export default function Home() {
     return [...filtered].sort((left, right) => {
       if (sortBy === "name") return left.name.localeCompare(right.name);
       if (sortBy === "relevance" && normalizedQuery) return `${left.name} ${left.description}`.toLowerCase().indexOf(normalizedQuery) - `${right.name} ${right.description}`.toLowerCase().indexOf(normalizedQuery);
-      return (collectionUpdatedAt[right.name] ?? "").localeCompare(collectionUpdatedAt[left.name] ?? "");
+      return right.lastModified.localeCompare(left.lastModified) || left.name.localeCompare(right.name);
     });
   }, [activeGroup, normalizedQuery, sortBy]);
-  const visibleSubcollections = subcollectionCards.filter(subcollection => matchesFilter(subcollection.name, subcollection.collection));
+  const visibleSubcollections = subcollectionCards
+    .filter(subcollection => matchesFilter(subcollection.name, subcollection.collection))
+    .sort((left, right) => right.lastModified.localeCompare(left.lastModified) || left.name.localeCompare(right.name));
   const groups = ["All", ...collectionCards.map(collection => collection.name)];
   const topicCount = collectionCards.reduce((total, collection) => total + collection.topics.length, 0);
 

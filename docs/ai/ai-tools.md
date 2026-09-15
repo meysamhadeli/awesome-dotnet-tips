@@ -32,3 +32,5 @@
 - [getzep/graphiti](https://github.com/getzep/graphiti) ⭐ - Build Real-Time Knowledge Graphs for AI Agents
 - [joslat/agent-memory-dotnet](https://github.com/joslat/agent-memory-dotnet)
 - [AgentEvalHQ/AgentEval](https://github.com/AgentEvalHQ/AgentEval)
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [mariusgreuel/tree-sitter-dotnet-bindings](https://github.com/mariusgreuel/tree-sitter-dotnet-bindings) - .NET bindings for the tree-sitter parsing library

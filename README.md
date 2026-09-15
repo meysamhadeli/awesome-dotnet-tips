@@ -58,6 +58,8 @@ The site deploys automatically from `main` through GitHub Pages. Set **Pages > B
     - [EF Core 6](docs/dotnet/ef-core/ef-core6.md)
     - [EF Core 7](docs/dotnet/ef-core/ef-core7.md)
     - [EF Core 8](docs/dotnet/ef-core/ef-core8.md)
+    - [EF Core 9](docs/dotnet/ef-core/ef-core9.md)
+    - [EF Core 10](docs/dotnet/ef-core/ef-core10.md)
     - [EF Core Migration](docs/dotnet/ef-core/ef-core-migration.md)
     - [Explicit Loading](docs/dotnet/ef-core/explicit-loading.md)
     - [Expression Tree](docs/dotnet/ef-core/expression-tree.md)
