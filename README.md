@@ -2,9 +2,7 @@
 
 > A curated list of awesome tips and tricks, resources, videos and articles in .NET, Software Architecture, Cloud-Native, Data and AI.
 
-## Web Explorer
-
-Browse the collection through the [live web page](https://meysamhadeli.github.io/awesome-dotnet-tips/).
+**[Explore the Web Explorer](https://meysamhadeli.github.io/awesome-dotnet-tips/)**
 
 ![Awesome .NET Tips full homepage](web/assets/homepage.png)
 
