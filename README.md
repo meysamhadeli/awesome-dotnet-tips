@@ -260,7 +260,7 @@ The site deploys automatically from `main` through GitHub Pages. Set **Pages > B
   - [LangChain](docs/ai/langchain.md)
   - [Loop Engineering](docs/ai/loop-engineering.md)
   - [MCP](docs/ai/mcp.md)
-  - [MEAI](docs/ai/meai.md)
+  - [Microsoft Extensions AI](docs/ai/microsoft-extensions-ai.md)
   - [Memory](docs/ai/memory.md)
   - [Microsoft Agent Framework](docs/ai/microsoft-agent-framework.md)
   - [ML.NET](docs/ai/ml.net.md)

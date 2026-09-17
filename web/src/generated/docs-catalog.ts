@@ -8,7 +8,7 @@ export const docsCatalog: DocCollection[] = [
     "name": "Ai",
     "slug": "ai",
     "path": "docs/ai",
-    "lastModified": "2026-09-10T19:06:58+03:30",
+    "lastModified": "2026-09-16T00:14:43+03:30",
     "files": [
       {
         "name": "A2a",
@@ -83,16 +83,16 @@ export const docsCatalog: DocCollection[] = [
         "path": "docs/ai/mcp.md"
       },
       {
-        "name": "Meai",
-        "path": "docs/ai/meai.md"
-      },
-      {
         "name": "Memory",
         "path": "docs/ai/memory.md"
       },
       {
         "name": "Microsoft Agent Framework",
         "path": "docs/ai/microsoft-agent-framework.md"
+      },
+      {
+        "name": "Microsoft Extensions Ai",
+        "path": "docs/ai/microsoft-extensions-ai.md"
       },
       {
         "name": "Models",
@@ -128,7 +128,7 @@ export const docsCatalog: DocCollection[] = [
       "Articles": 230,
       "Videos": 28,
       "Libraries": 84,
-      "Samples": 51,
+      "Samples": 52,
       "Resources": 50,
       "Books": 5
     }
@@ -641,7 +641,7 @@ export const docsCatalog: DocCollection[] = [
     "name": "Dotnet",
     "slug": "dotnet",
     "path": "docs/dotnet",
-    "lastModified": "2026-09-10T19:06:58+03:30",
+    "lastModified": "2026-09-16T00:14:43+03:30",
     "files": [],
     "folders": [
       {
@@ -1024,7 +1024,7 @@ export const docsCatalog: DocCollection[] = [
       {
         "name": "Ef Core",
         "path": "docs/dotnet/ef-core",
-        "lastModified": "2026-09-10T19:06:58+03:30",
+        "lastModified": "2026-09-16T00:14:43+03:30",
         "files": [
           {
             "name": "Audit",
