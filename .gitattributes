@@ -1,0 +1,2 @@
+# Keep the documentation web explorer out of GitHub's language statistics.
+web/** linguist-vendored
