@@ -6,6 +6,7 @@
 - [walkinglabs/awesome-harness-engineering](https://github.com/walkinglabs/awesome-harness-engineering) - Awesome tools & guides for harness engineering.
 - [ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering) - Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration.
 - [AutoJunjie/awesome-agent-harness](https://github.com/AutoJunjie/awesome-agent-harness)
+- [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
 
 ## 📕 Articles
 

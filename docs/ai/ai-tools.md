@@ -34,3 +34,5 @@
 - [AgentEvalHQ/AgentEval](https://github.com/AgentEvalHQ/AgentEval)
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [mariusgreuel/tree-sitter-dotnet-bindings](https://github.com/mariusgreuel/tree-sitter-dotnet-bindings) - .NET bindings for the tree-sitter parsing library
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - The self-hosted developer control center for coding agents and automations.
+- [cline/cline](https://github.com/cline/cline) ⭐ - The open source coding agent in your IDE, terminal, & desktop.
