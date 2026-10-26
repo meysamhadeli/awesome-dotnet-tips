@@ -36,3 +36,5 @@
 - [mariusgreuel/tree-sitter-dotnet-bindings](https://github.com/mariusgreuel/tree-sitter-dotnet-bindings) - .NET bindings for the tree-sitter parsing library
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - The self-hosted developer control center for coding agents and automations.
 - [cline/cline](https://github.com/cline/cline) ⭐ - The open source coding agent in your IDE, terminal, & desktop.
+- [morluto/rea](https://github.com/morluto/rea) - One MCP for reverse engineering across binaries, applications, and runtime behavior.
+- [CodeAlta/CodeAlta](https://github.com/CodeAlta/CodeAlta) - CodeAlta is an open-source workspace for AI coding agents, local code, terminals and Git.
