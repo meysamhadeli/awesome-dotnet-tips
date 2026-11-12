@@ -38,3 +38,4 @@
 - [cline/cline](https://github.com/cline/cline) ⭐ - The open source coding agent in your IDE, terminal, & desktop.
 - [morluto/rea](https://github.com/morluto/rea) - One MCP for reverse engineering across binaries, applications, and runtime behavior.
 - [CodeAlta/CodeAlta](https://github.com/CodeAlta/CodeAlta) - CodeAlta is an open-source workspace for AI coding agents, local code, terminals and Git.
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
