@@ -38,6 +38,11 @@
 - [jasontaylordev/SecureSpa](https://github.com/jasontaylordev/SecureSpa) - ASP.NET Core 3 + Angular 8 + ASP.NET Identity generated using .NET Core SDK
 - [DanWahlin/AngularCLI-ASPNET-Core-CustomersService](https://github.com/DanWahlin/AngularCLI-ASPNET-Core-CustomersService) - Example of integrating Angular with ASP.NET Core RESTful Services
 - [NetCoreTemplates/angular-spa](https://github.com/NetCoreTemplates/angular-spa) - .NET 5.0 Angular 9 CLI Bootstrap App
+- [LeanMeanCleanApps/CleanGraphQLApi](https://github.com/LeanMeanCleanApps/CleanGraphQLApi) - A `dotnet new` template for a Hot Chocolate GraphQL API on .NET 10 with Clean Architecture, DataLoaders, EF Core and OpenTelemetry.
+- [LeanMeanCleanApps/CleanLambdaFunction](https://github.com/LeanMeanCleanApps/CleanLambdaFunction) - A `dotnet new` template for an AWS Lambda function on .NET 10 with Clean Architecture, Lambda Annotations, a SAM template and local runs in Docker.
+- [LeanMeanCleanApps/CleanMinimalApi](https://github.com/LeanMeanCleanApps/CleanMinimalApi) - A `dotnet new` template for an ASP.NET Core Minimal API on .NET 10 with Clean Architecture, EF Core, Scalar and OpenTelemetry.
+- [LeanMeanCleanApps/CleanModelContextProtocol](https://github.com/LeanMeanCleanApps/CleanModelContextProtocol) - A `dotnet new` template for a Model Context Protocol server on .NET 10 using the official C# SDK, with Clean Architecture and OpenTelemetry.
+- [LeanMeanCleanApps/CleanWebApi](https://github.com/LeanMeanCleanApps/CleanWebApi) - A `dotnet new` template for a controller-based ASP.NET Core Web API on .NET 10 with Clean Architecture, EF Core, Scalar and OpenTelemetry.
 
 <div align="right">
   <b><a href="#contents">↥ Back To Top</a></b>
