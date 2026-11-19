@@ -42,3 +42,5 @@
 - [Aaronontheweb/dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills) - Claude Code skills and sub-agents for .NET Developers
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source skills for designing and reviewing software with AI agents
+- [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
+- [paramchoudhary/resumeskills](https://github.com/paramchoudhary/resumeskills) - A collection of AI agent skills focused on resume optimization, job applications, and career development.

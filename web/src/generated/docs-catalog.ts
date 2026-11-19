@@ -8,7 +8,7 @@ export const docsCatalog: DocCollection[] = [
     "name": "Ai",
     "slug": "ai",
     "path": "docs/ai",
-    "lastModified": "2026-09-16T00:14:43+03:30",
+    "lastModified": "2026-11-12T19:04:54+03:30",
     "files": [
       {
         "name": "A2a",
@@ -127,9 +127,9 @@ export const docsCatalog: DocCollection[] = [
     "resourceCounts": {
       "Articles": 230,
       "Videos": 28,
-      "Libraries": 84,
+      "Libraries": 96,
       "Samples": 52,
-      "Resources": 50,
+      "Resources": 51,
       "Books": 5
     }
   },
@@ -544,11 +544,11 @@ export const docsCatalog: DocCollection[] = [
       }
     ],
     "resourceCounts": {
-      "Articles": 615,
-      "Videos": 249,
+      "Articles": 620,
+      "Videos": 252,
       "Libraries": 0,
       "Samples": 93,
-      "Resources": 48,
+      "Resources": 54,
       "Books": 18
     }
   },
@@ -1001,6 +1001,10 @@ export const docsCatalog: DocCollection[] = [
                 "path": "docs/dotnet/csharp/versions/14.md"
               },
               {
+                "name": "15",
+                "path": "docs/dotnet/csharp/versions/15.md"
+              },
+              {
                 "name": "7",
                 "path": "docs/dotnet/csharp/versions/7.md"
               },
@@ -1045,6 +1049,10 @@ export const docsCatalog: DocCollection[] = [
           {
             "name": "Ef Core10",
             "path": "docs/dotnet/ef-core/ef-core10.md"
+          },
+          {
+            "name": "Ef Core11",
+            "path": "docs/dotnet/ef-core/ef-core11.md"
           },
           {
             "name": "Ef Core5",
@@ -1215,6 +1223,10 @@ export const docsCatalog: DocCollection[] = [
             "path": "docs/dotnet/versions/dotnet10.md"
           },
           {
+            "name": "Dotnet11",
+            "path": "docs/dotnet/versions/dotnet11.md"
+          },
+          {
             "name": "Dotnet5",
             "path": "docs/dotnet/versions/dotnet5.md"
           },
@@ -1239,11 +1251,11 @@ export const docsCatalog: DocCollection[] = [
       }
     ],
     "resourceCounts": {
-      "Articles": 1483,
-      "Videos": 330,
+      "Articles": 1495,
+      "Videos": 339,
       "Libraries": 0,
       "Samples": 78,
-      "Resources": 58,
+      "Resources": 72,
       "Books": 9
     }
   },

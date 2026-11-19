@@ -39,3 +39,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - One MCP for reverse engineering across binaries, applications, and runtime behavior.
 - [CodeAlta/CodeAlta](https://github.com/CodeAlta/CodeAlta) - CodeAlta is an open-source workspace for AI coding agents, local code, terminals and Git.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply.
+- [ai-job-search-dev/ai-job-search](https://github.com/ai-job-search-dev/ai-job-search) - The job search that runs on your machine. AI job application framework built on Claude Code.
+- [feder-cr/Jobs_Applier_AI_Agent](https://github.com/feder-cr/Jobs_Applier_AI_Agent) - AI job application bot, automated job search, job hunting, auto-apply to resume-matching jobs while you sleep.
+- [speedyapply/JobSpy](https://github.com/speedyapply/JobSpy) - Jobs scraper library for LinkedIn, Indeed, Glassdoor, ZipRecruiter, Bayt, Naukri, BDJobs, HelloWork & SEEK

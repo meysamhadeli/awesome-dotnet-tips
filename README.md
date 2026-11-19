@@ -23,6 +23,7 @@ The site deploys automatically from `main` through GitHub Pages. Set **Pages > B
       - [C# 12](docs/dotnet/csharp/versions/12.md)
       - [C# 13](docs/dotnet/csharp/versions/13.md)
       - [C# 14](docs/dotnet/csharp/versions/14.md)
+      - [C# 15](docs/dotnet/csharp/versions/15.md)
   - [API](docs/dotnet/api)
     - [Action Filters](docs/dotnet/api/action-filters.md)
     - [API Documentation](docs/dotnet/api/api-documentation.md)
@@ -58,6 +59,7 @@ The site deploys automatically from `main` through GitHub Pages. Set **Pages > B
     - [EF Core 8](docs/dotnet/ef-core/ef-core8.md)
     - [EF Core 9](docs/dotnet/ef-core/ef-core9.md)
     - [EF Core 10](docs/dotnet/ef-core/ef-core10.md)
+    - [EF Core 11](docs/dotnet/ef-core/ef-core11.md)
     - [EF Core Migration](docs/dotnet/ef-core/ef-core-migration.md)
     - [Explicit Loading](docs/dotnet/ef-core/explicit-loading.md)
     - [Expression Tree](docs/dotnet/ef-core/expression-tree.md)
@@ -97,6 +99,7 @@ The site deploys automatically from `main` through GitHub Pages. Set **Pages > B
     - [.NET 8](docs/dotnet/versions/dotnet8.md)
     - [.NET 9](docs/dotnet/versions/dotnet9.md)
     - [.NET 10](docs/dotnet/versions/dotnet10.md)
+    - [.NET 11](docs/dotnet/versions/dotnet11.md)
 
 - [Data](docs/data)
   - [NoSQL](docs/data/nosql/nosql.md)
