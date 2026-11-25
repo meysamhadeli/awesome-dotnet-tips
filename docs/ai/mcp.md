@@ -40,6 +40,7 @@
 - [us/crw](https://github.com/us/crw) - Fast, lightweight Firecrawl/Tavily alternative in Rust. Web scraper, crawler & search API with MCP server for AI agents. Drop-in Firecrawl-compatible API (/scrape, /crawl, /search). 
 - [zcaceres/fetch-mcp](https://github.com/zcaceres/fetch-mcp) - A flexible HTTP fetching Model Context Protocol server.
 - [tavily-ai/tavily-mcp](https://github.com/tavily-ai/tavily-mcp) - Production ready MCP server with real-time search, extract, map & crawl.
+- [modelcontextprotocol/ext-skills](https://github.com/modelcontextprotocol/ext-skills) - MCP Extension for Skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.
 
 ## 🚀 Samples
 

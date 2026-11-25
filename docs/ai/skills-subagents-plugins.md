@@ -44,3 +44,6 @@
 - [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) - Open-source skills for designing and reviewing software with AI agents
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - Keep your coding agent up to date with the latest web best practices
 - [paramchoudhary/resumeskills](https://github.com/paramchoudhary/resumeskills) - A collection of AI agent skills focused on resume optimization, job applications, and career development.
+- [modelcontextprotocol/ext-skills](https://github.com/modelcontextprotocol/ext-skills) - MCP Extension for Skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) - A self-contained Claude skill bundle for bug hunting
+- [jakubkrehel/skills](https://github.com/jakubkrehel/skills) - A collection of agent skills that help you build great interfaces.
