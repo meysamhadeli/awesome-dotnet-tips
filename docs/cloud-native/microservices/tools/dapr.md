@@ -4,7 +4,7 @@
 ## 📘 Resources
 - [Dapr Youtube](https://www.youtube.com/channel/UCtpSQ9BLB_3EXdWAUQYwnRA/videos)
 - [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr) - A cruated list of awesome Dapr application runtime related tools.
-- [Dapr 101](https://www.diagrid.io/university/dapr-101) - Free, hands-on browser lab (not a video). Covers the state management, service invocation and pub/sub APIs in .NET, Python, Java or JavaScript.
+- [Dapr 101](https://www.diagrid.io/university/dapr-101) - Free, self-paced lab that runs in the browser. Covers the state management, service invocation and pub/sub APIs in .NET, Python, Java or JavaScript.
 - [Dapr Pub/Sub](https://www.diagrid.io/university/dapr-pubsub) - Free, self-paced lab. Compares declarative, programmatic and streaming subscriptions, and covers CloudEvents, bulk publishing, routing and dead-letter topics in .NET, Python or Java.
 - [Dapr Secrets](https://www.diagrid.io/university/dapr-secrets) - Free, self-paced lab. Reads and scopes secrets, then swaps the local file store for HashiCorp Vault without code changes, in .NET, Python or Java.
 - [Dapr Bindings](https://www.diagrid.io/university/dapr-bindings) - Free, self-paced lab. Uses a cron input binding and a PostgreSQL output binding, in .NET, Python or Java.
