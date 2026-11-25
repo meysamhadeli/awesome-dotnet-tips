@@ -53,6 +53,13 @@
 - [sjefvanleeuwen/showcase](https://github.com/sjefvanleeuwen/showcase) - A Full Stack Journey with Micro Services and Micro Front Ends. Using dapr, kubernetes, react module federation and web assembly
 - [jbw/TooBigToFailBurgerShop](https://github.com/jbw/TooBigToFailBurgerShop) - .NET Microservice Reference Application. It's also an over-engineered burger shop!
 - [baotoq/micro-commerce](https://github.com/baotoq/micro-commerce) - React, Nextjs, ASP.NET Core 5.0, IdentityServer, Dapr, Azure pipeline, K8S, SonarQube
+## 🎓 Courses
+- [Dapr 101](https://www.diagrid.io/university/dapr-101) - Free, self-paced lab that runs in the browser. Covers the state management, service invocation and pub/sub APIs in .NET, Python, Java or JavaScript.
+- [Dapr Pub/Sub](https://www.diagrid.io/university/dapr-pubsub) - Free, self-paced lab. Compares declarative, programmatic and streaming subscriptions, and covers CloudEvents, bulk publishing, routing and dead-letter topics in .NET, Python or Java.
+- [Dapr Secrets](https://www.diagrid.io/university/dapr-secrets) - Free, self-paced lab. Reads and scopes secrets, then swaps the local file store for HashiCorp Vault without code changes, in .NET, Python or Java.
+- [Dapr Bindings](https://www.diagrid.io/university/dapr-bindings) - Free, self-paced lab. Uses a cron input binding and a PostgreSQL output binding, in .NET, Python or Java.
+- [Dapr Workflow 101](https://www.diagrid.io/university/dapr-workflow) - Free, self-paced lab. Runs the task chaining, fan-out/fan-in and monitor patterns, waits for external events with a timeout, and recovers a workflow after a crash, in .NET, Python, Java or TypeScript.
+- [Dapr Workflows with Aspire](https://www.diagrid.io/university/dapr-workflows-dotnet-aspire) - Free, self-paced lab. Builds a Dapr Workflow app in an Aspire solution and inspects workflow state locally.
 ## 📚 Books
 - [Dapr for .NET Developers](https://docs.microsoft.com/en-us/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=-blog-scottha)
 
